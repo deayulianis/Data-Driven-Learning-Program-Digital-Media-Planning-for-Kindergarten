@@ -1,0 +1,3001 @@
+Child_ID,Age in months,Gender,Learning_Level,Special_Needs,Attention_Span,Activity_Type,Difficulty_Level,Duration,Engagement_Score,Resource_Efficiency,Teacher_ID,Learning_Gain
+C0102,71,Female,Low,0,8.31,Reading,Hard,13,0.44,0.94,T032,8.61
+C0435,55,Female,Medium,0,24.64,Art,Medium,42,0.45,0.87,T027,9.45
+C0348,39,Female,Medium,0,6.92,Art,Medium,48,0.77,0.21,T030,6.49
+C0270,42,Female,Low,0,16.78,Math,Medium,29,0.5,0.74,T018,7.71
+C0106,36,Male,Medium,0,17.53,Reading,Easy,22,0.72,0.44,T047,4.06
+C0071,48,Male,Medium,0,15.76,Art,Easy,45,0.98,0.56,T025,9.52
+C0188,57,Male,Medium,0,18.24,Sensory Play,Hard,54,0.86,0.28,T049,6.71
+C0020,56,Male,Low,0,7.32,Music,Medium,13,0.53,0.43,T028,3.1
+C0102,57,Female,High,0,16.1,Reading,Medium,44,0.63,0.71,T010,4.04
+C0121,63,Male,High,0,10.74,Reading,Easy,17,0.44,0.37,T040,6.18
+C0466,44,Female,High,0,23.8,Art,Medium,49,0.31,0.72,T031,2.34
+C0214,61,Female,Low,0,20.24,Art,Hard,58,0.5,0.94,T020,7.54
+C0330,44,Male,Medium,0,24.45,Art,Medium,56,0.56,0.2,T037,2.25
+C0458,50,Male,Medium,1,5.75,Sensory Play,Medium,45,0.7,0.83,T033,5.92
+C0087,45,Male,Low,0,10.7,Math,Easy,15,0.96,0.71,T039,6.97
+C0372,59,Male,Low,1,8.91,Art,Medium,31,0.96,0.24,T021,8.6
+C0099,43,Female,High,0,5.22,Math,Hard,15,0.35,0.83,T047,7.34
+C0359,59,Female,High,1,9.85,Math,Hard,51,0.73,0.38,T026,7.99
+C0151,51,Male,Low,0,18.58,Reading,Hard,45,0.33,0.41,T007,9.13
+C0130,61,Female,High,1,9.62,Music,Hard,18,0.75,0.27,T039,5.98
+C0149,62,Female,Medium,0,15.18,Music,Easy,25,0.38,0.63,T045,8.46
+C0308,39,Female,Low,0,22.76,Sensory Play,Medium,48,0.96,0.6,T030,2.32
+C0257,59,Male,Low,1,18.88,Sensory Play,Easy,55,0.91,0.48,T000,8.15
+C0343,54,Female,Medium,0,12.89,Music,Hard,47,0.32,0.34,T038,2.22
+C0491,71,Male,Medium,0,12.45,Music,Medium,42,0.85,0.87,T033,9.35
+C0413,45,Male,Medium,0,14.11,Reading,Easy,27,0.75,0.9,T046,3.3
+C0293,60,Female,High,1,8.54,Reading,Medium,21,0.65,0.63,T023,1.72
+C0385,53,Female,Low,0,17.68,Music,Hard,36,0.72,0.4,T027,1.48
+C0191,54,Male,High,0,12.28,Art,Hard,56,0.77,0.28,T049,1.87
+C0443,71,Female,Medium,0,22.05,Art,Medium,10,0.92,0.89,T003,4.48
+C0276,45,Female,High,0,20.13,Reading,Medium,24,0.84,0.28,T017,5.22
+C0160,68,Male,Medium,0,17.21,Math,Hard,56,0.7,0.21,T028,9.14
+C0459,40,Male,High,0,12.28,Music,Easy,36,0.88,0.58,T022,3.81
+C0313,70,Male,High,0,9.2,Sensory Play,Hard,25,0.99,0.79,T036,2.17
+C0021,69,Male,Medium,1,20.52,Art,Medium,30,0.51,0.57,T026,7.44
+C0252,68,Female,High,0,14.73,Math,Easy,10,0.38,0.24,T015,1.35
+C0235,56,Female,Low,0,9.5,Art,Hard,38,0.81,0.75,T044,8.92
+C0344,52,Male,High,0,8.9,Math,Medium,12,0.99,0.71,T026,4.09
+C0048,57,Male,High,0,8.31,Music,Medium,21,0.38,0.75,T008,6.14
+C0474,50,Male,Low,0,20.54,Music,Medium,37,0.6,0.37,T004,1.86
+C0058,70,Female,Medium,0,9.58,Music,Easy,48,0.34,0.84,T007,1.46
+C0169,63,Male,Low,0,15.53,Reading,Easy,46,0.84,0.58,T017,7.99
+C0475,42,Female,High,0,14.03,Math,Easy,40,0.96,0.63,T034,4.3
+C0187,67,Male,Medium,0,16.59,Sensory Play,Easy,40,0.65,0.64,T005,9.87
+C0463,46,Male,High,0,22.54,Sensory Play,Medium,42,0.59,0.43,T042,5.24
+C0270,45,Male,High,0,22.35,Music,Medium,42,0.94,0.4,T022,8.46
+C0189,44,Female,Low,0,14.02,Sensory Play,Easy,56,0.39,0.2,T045,9.8
+C0445,49,Female,Low,0,5.31,Art,Easy,49,0.92,0.52,T025,2.81
+C0174,48,Female,Medium,0,13.53,Math,Medium,20,0.57,0.59,T038,8.01
+C0445,60,Male,Medium,0,17.12,Math,Hard,55,0.69,0.79,T023,0.22
+C0050,37,Female,Medium,0,16.16,Math,Hard,38,0.67,0.25,T009,6.8
+C0363,70,Female,High,0,18.03,Art,Medium,34,0.73,0.94,T014,7.45
+C0054,42,Male,Low,0,8.08,Reading,Easy,22,0.96,0.41,T037,4.77
+C0243,56,Male,Low,0,17.93,Art,Easy,53,0.97,0.49,T019,1.62
+C0319,53,Female,Low,0,8.65,Math,Medium,28,0.88,0.24,T028,6.17
+C0130,38,Female,Medium,0,20.01,Math,Hard,45,0.43,0.72,T005,8.98
+C0484,46,Female,Low,0,11.78,Math,Medium,37,0.53,0.77,T047,9.31
+C0306,59,Female,Low,0,19.2,Sensory Play,Medium,13,0.64,0.94,T008,7.46
+C0134,54,Male,Low,0,5.96,Reading,Medium,12,0.93,0.47,T049,2.64
+C0020,39,Male,Medium,0,13.16,Art,Easy,47,0.66,0.41,T004,8.7
+C0328,61,Male,Low,0,19.1,Math,Easy,46,0.98,0.78,T047,8.89
+C0166,67,Female,Medium,0,9.54,Music,Easy,52,0.99,0.77,T038,3.67
+C0273,71,Female,Low,0,20.91,Reading,Hard,34,0.72,0.95,T018,1.83
+C0387,68,Male,Low,0,17.62,Music,Medium,50,0.91,0.36,T004,8.75
+C0088,71,Male,Low,0,16.75,Reading,Medium,44,1.0,0.76,T019,8.85
+C0315,38,Female,Medium,0,12.07,Math,Hard,38,0.89,0.25,T010,1.01
+C0013,44,Female,Medium,0,14.65,Reading,Easy,50,0.76,0.58,T049,9.67
+C0241,43,Male,Low,0,16.95,Reading,Medium,38,0.89,0.3,T026,5.33
+C0264,68,Male,High,0,14.45,Math,Hard,21,0.36,0.72,T028,9.94
+C0345,41,Male,Medium,0,18.97,Music,Easy,44,0.74,0.68,T006,4.45
+C0052,39,Female,Medium,0,13.67,Music,Easy,29,0.45,0.24,T049,5.33
+C0385,48,Female,Low,0,9.05,Sensory Play,Medium,26,0.38,0.46,T002,2.66
+C0339,37,Female,High,0,9.28,Music,Easy,21,0.93,0.52,T004,8.99
+C0091,40,Female,Low,0,5.12,Music,Hard,59,0.75,0.4,T012,4.44
+C0366,62,Female,Medium,0,11.02,Reading,Easy,45,0.47,0.23,T015,8.15
+C0443,67,Female,Medium,0,19.98,Sensory Play,Medium,19,0.57,0.46,T011,0.8
+C0454,56,Male,Low,0,20.88,Math,Hard,27,0.98,0.83,T038,7.88
+C0427,43,Male,Low,0,9.05,Math,Easy,39,0.9,0.49,T026,4.9
+C0263,43,Female,High,0,24.18,Art,Easy,17,0.31,0.46,T044,0.05
+C0430,38,Male,High,0,15.05,Sensory Play,Easy,50,0.99,0.95,T032,2.26
+C0034,38,Female,Medium,0,23.34,Reading,Hard,22,0.56,0.23,T014,1.94
+C0205,57,Male,High,0,19.14,Art,Easy,40,0.79,0.81,T020,7.52
+C0080,41,Female,High,1,19.45,Art,Medium,15,0.8,0.59,T043,4.77
+C0419,37,Male,Medium,0,6.7,Math,Hard,16,0.94,0.96,T016,1.6
+C0049,58,Male,Medium,0,9.4,Music,Hard,30,0.92,0.51,T036,2.57
+C0359,37,Female,Medium,1,5.18,Reading,Easy,47,0.5,0.77,T048,5.04
+C0387,52,Female,Medium,0,19.32,Sensory Play,Hard,52,0.75,0.26,T014,0.2
+C0001,70,Male,Low,0,11.89,Art,Medium,58,0.58,0.94,T019,4.24
+C0389,69,Male,Medium,0,20.73,Reading,Hard,37,0.67,0.48,T018,6.78
+C0053,58,Female,Medium,0,11.78,Math,Medium,53,0.69,0.62,T000,5.18
+C0105,65,Male,Medium,0,21.39,Art,Easy,30,0.58,0.31,T003,5.98
+C0259,43,Female,High,0,7.61,Art,Hard,30,0.62,0.96,T002,3.27
+C0309,57,Female,Medium,0,8.47,Math,Medium,33,0.45,0.74,T007,1.83
+C0476,71,Male,Low,0,11.82,Math,Easy,36,0.73,0.24,T040,8.1
+C0190,40,Female,Low,1,13.17,Math,Medium,36,0.83,0.32,T043,9.06
+C0401,48,Male,Medium,0,11.97,Reading,Hard,22,0.6,0.52,T004,5.11
+C0217,64,Male,Low,0,20.27,Reading,Hard,59,0.98,0.37,T008,3.05
+C0043,66,Female,High,0,6.94,Reading,Medium,38,0.34,0.44,T000,5.11
+C0161,51,Male,Medium,0,12.02,Music,Easy,48,0.71,1.0,T042,8.79
+C0201,65,Female,Low,0,21.74,Art,Easy,37,0.71,0.73,T029,6.91
+C0445,51,Female,Low,1,6.34,Reading,Easy,46,0.33,0.94,T006,8.59
+C0483,47,Female,Medium,0,23.85,Music,Easy,38,0.46,0.55,T021,3.28
+C0269,52,Male,Low,0,24.73,Art,Medium,57,0.93,0.77,T019,7.12
+C0350,51,Female,Medium,0,6.77,Reading,Hard,31,0.68,0.57,T028,6.53
+C0303,47,Male,Low,0,10.83,Math,Medium,45,0.61,0.46,T026,5.72
+C0270,43,Female,High,0,12.45,Sensory Play,Hard,39,0.59,0.62,T024,5.28
+C0455,55,Female,Low,0,20.53,Reading,Hard,37,0.92,0.54,T045,5.51
+C0461,38,Female,Low,0,16.92,Sensory Play,Medium,32,0.56,0.98,T034,8.5
+C0214,51,Male,Medium,0,17.89,Reading,Medium,42,0.9,0.6,T026,9.16
+C0251,65,Male,Low,0,20.15,Math,Easy,13,0.52,0.85,T010,1.13
+C0189,58,Female,Medium,0,7.36,Sensory Play,Hard,12,0.67,0.73,T016,5.69
+C0295,63,Female,High,0,21.66,Music,Easy,41,0.4,0.58,T030,9.18
+C0212,40,Male,Medium,0,19.11,Math,Easy,13,0.88,0.58,T017,1.35
+C0207,55,Male,Medium,0,16.55,Sensory Play,Medium,10,0.82,0.47,T018,4.13
+C0236,36,Male,Low,0,22.79,Sensory Play,Easy,21,0.67,0.29,T049,0.89
+C0337,65,Female,High,1,19.01,Math,Easy,22,0.32,0.81,T037,1.13
+C0366,56,Male,Medium,1,9.03,Math,Easy,43,0.64,0.93,T028,9.04
+C0052,55,Female,Low,0,13.59,Math,Medium,38,0.46,0.37,T014,4.46
+C0279,41,Male,Low,0,14.88,Art,Easy,18,0.59,0.94,T006,6.89
+C0409,57,Female,Medium,0,6.1,Music,Easy,40,0.9,0.39,T036,1.39
+C0216,53,Female,Low,0,24.09,Reading,Medium,16,0.84,0.62,T036,0.22
+C0251,43,Female,Medium,0,7.57,Sensory Play,Medium,22,0.47,0.47,T006,8.9
+C0187,67,Male,Medium,0,18.95,Reading,Medium,11,0.99,0.29,T021,5.75
+C0379,68,Male,Medium,0,15.12,Math,Hard,42,0.93,0.24,T011,0.2
+C0492,51,Male,High,1,5.51,Music,Medium,59,0.67,0.49,T007,9.92
+C0040,47,Female,Medium,0,23.49,Music,Hard,16,0.67,0.24,T017,4.92
+C0156,69,Female,Low,0,22.04,Art,Medium,27,0.93,0.28,T027,4.76
+C0014,49,Male,High,0,15.49,Math,Medium,17,0.75,0.31,T017,6.21
+C0300,71,Female,Low,0,9.58,Sensory Play,Medium,21,0.68,0.2,T030,0.08
+C0064,68,Female,High,0,7.43,Art,Hard,52,0.82,0.32,T016,5.69
+C0344,58,Female,High,0,12.27,Math,Easy,39,0.46,0.66,T022,6.29
+C0326,37,Male,High,0,10.11,Art,Medium,18,0.91,0.86,T010,2.97
+C0008,56,Female,High,0,15.13,Reading,Hard,37,0.67,0.35,T014,7.27
+C0343,37,Male,Low,0,24.33,Math,Medium,13,0.72,0.26,T029,3.77
+C0128,62,Male,Medium,0,16.5,Sensory Play,Easy,48,0.36,0.78,T030,7.18
+C0491,44,Male,Low,0,22.8,Sensory Play,Hard,26,0.52,0.21,T005,1.44
+C0135,36,Male,Medium,0,18.02,Math,Medium,20,0.6,0.79,T011,9.14
+C0471,46,Male,Low,0,14.5,Art,Medium,11,0.59,0.3,T022,8.79
+C0062,38,Female,High,0,22.09,Music,Medium,32,0.84,0.38,T038,1.51
+C0138,58,Male,High,0,14.43,Math,Easy,59,0.5,0.3,T039,9.38
+C0498,61,Male,Medium,0,22.37,Sensory Play,Hard,31,0.43,0.4,T035,5.58
+C0080,39,Male,Medium,0,10.83,Reading,Medium,35,0.71,0.84,T034,7.02
+C0391,53,Female,Low,0,7.58,Sensory Play,Medium,21,0.73,0.31,T002,8.4
+C0162,41,Female,Medium,0,22.11,Music,Hard,41,0.39,1.0,T041,0.84
+C0418,70,Female,Low,0,16.75,Sensory Play,Easy,18,0.3,0.46,T027,1.69
+C0288,57,Female,Medium,0,22.78,Music,Easy,52,0.94,0.94,T014,2.9
+C0378,50,Male,Medium,0,23.76,Math,Easy,14,0.36,0.35,T012,4.77
+C0260,57,Male,Medium,0,6.07,Sensory Play,Easy,35,0.93,0.35,T018,3.46
+C0489,47,Female,High,0,15.02,Art,Easy,16,0.58,0.65,T039,5.06
+C0230,53,Female,High,0,12.5,Art,Medium,38,0.76,0.24,T017,1.86
+C0040,70,Female,Low,0,17.52,Sensory Play,Medium,42,0.43,0.84,T030,6.82
+C0027,65,Female,Medium,0,20.87,Sensory Play,Medium,33,0.88,0.55,T036,0.56
+C0134,59,Male,Low,0,10.61,Reading,Hard,34,0.43,0.76,T020,3.61
+C0200,65,Female,Medium,0,16.14,Sensory Play,Easy,40,0.57,0.34,T038,1.79
+C0327,49,Female,High,0,19.17,Reading,Hard,38,0.47,0.71,T004,7.3
+C0267,41,Female,High,0,7.69,Reading,Easy,14,0.89,0.68,T016,8.84
+C0417,38,Female,Medium,0,21.28,Reading,Easy,47,0.9,0.8,T018,0.79
+C0032,51,Female,Medium,0,17.12,Reading,Hard,54,0.56,0.44,T003,7.85
+C0047,42,Female,High,0,23.99,Math,Medium,20,0.52,0.95,T025,8.96
+C0406,49,Female,High,0,11.79,Art,Hard,41,0.84,0.97,T023,9.74
+C0061,44,Male,Low,0,7.16,Reading,Medium,17,0.91,0.89,T038,5.79
+C0215,50,Male,High,0,15.13,Art,Easy,29,0.74,0.66,T037,3.27
+C0292,56,Male,Medium,0,6.72,Reading,Medium,43,0.95,0.54,T045,3.22
+C0098,70,Male,Low,1,24.39,Art,Easy,56,0.57,0.25,T018,3.79
+C0171,37,Male,Medium,0,5.77,Sensory Play,Easy,51,0.41,0.96,T029,6.13
+C0359,62,Male,Low,0,20.07,Sensory Play,Medium,17,0.43,0.96,T025,4.9
+C0213,37,Female,Medium,0,15.5,Art,Easy,11,0.77,0.21,T010,6.54
+C0474,70,Female,High,0,12.37,Reading,Medium,30,0.59,0.49,T038,0.39
+C0034,53,Male,Medium,0,6.32,Math,Hard,24,0.41,0.9,T002,1.06
+C0448,49,Female,Low,0,17.44,Art,Easy,15,0.5,0.26,T021,9.77
+C0226,55,Male,Medium,1,16.7,Music,Easy,14,0.67,0.36,T016,9.95
+C0100,53,Female,Low,0,10.62,Math,Hard,12,0.39,0.98,T010,7.47
+C0430,45,Female,Medium,0,23.2,Music,Easy,52,0.3,0.88,T046,2.56
+C0461,60,Female,High,0,11.08,Art,Hard,52,0.94,0.93,T038,9.53
+C0130,37,Female,High,0,13.99,Reading,Hard,25,0.51,0.31,T046,2.14
+C0256,60,Female,Medium,0,15.88,Music,Easy,44,0.46,0.37,T026,7.31
+C0004,68,Female,Medium,0,7.0,Art,Hard,18,0.79,0.68,T048,1.15
+C0217,71,Male,Medium,0,23.64,Math,Hard,44,0.9,0.6,T042,6.49
+C0254,66,Male,Low,0,12.49,Reading,Hard,28,0.74,0.44,T028,7.6
+C0397,49,Female,Medium,0,6.62,Music,Easy,52,0.48,0.91,T011,8.6
+C0358,36,Male,Medium,0,12.75,Art,Hard,55,0.9,0.92,T012,7.34
+C0282,51,Female,Low,0,17.0,Reading,Medium,43,0.66,0.43,T010,9.23
+C0392,38,Male,High,0,15.27,Reading,Medium,48,0.57,0.32,T030,5.21
+C0206,70,Female,Medium,0,18.89,Sensory Play,Hard,19,0.72,0.32,T010,6.77
+C0014,41,Male,Medium,0,6.11,Reading,Medium,19,0.79,0.59,T040,3.7
+C0345,60,Female,High,0,10.69,Art,Easy,29,0.72,0.31,T042,0.1
+C0041,48,Male,High,0,21.38,Math,Hard,10,0.94,0.58,T035,7.57
+C0379,69,Female,Low,0,6.6,Sensory Play,Easy,15,0.74,0.57,T001,8.7
+C0460,43,Male,Medium,0,22.11,Art,Medium,55,0.92,0.91,T022,1.74
+C0178,56,Female,Medium,0,6.84,Art,Medium,11,0.71,0.44,T035,0.29
+C0062,69,Female,Low,0,21.69,Art,Medium,47,0.53,0.65,T013,1.65
+C0351,39,Female,High,0,12.22,Music,Medium,42,0.67,0.79,T036,8.95
+C0230,60,Male,Low,0,17.24,Music,Easy,12,0.36,0.68,T048,2.96
+C0240,50,Male,High,0,8.06,Math,Hard,45,0.46,0.96,T026,2.34
+C0051,39,Male,Low,0,6.32,Art,Easy,22,0.84,0.68,T011,0.15
+C0095,47,Female,High,0,9.32,Music,Hard,44,0.76,0.92,T028,2.97
+C0387,67,Male,Low,0,7.56,Music,Medium,24,0.42,0.4,T005,7.16
+C0221,67,Female,High,0,11.25,Music,Medium,54,0.61,0.65,T043,9.59
+C0484,63,Male,High,0,15.29,Math,Medium,31,0.4,0.63,T046,3.13
+C0406,48,Male,High,0,16.78,Math,Medium,52,0.9,0.99,T022,2.41
+C0230,66,Male,High,0,20.8,Art,Easy,13,0.38,0.36,T009,8.88
+C0236,49,Male,High,0,18.12,Sensory Play,Hard,26,0.76,0.31,T033,8.53
+C0142,55,Female,Medium,0,17.18,Art,Hard,14,0.72,0.69,T043,3.28
+C0170,53,Male,High,1,13.24,Music,Medium,30,0.63,0.38,T011,0.69
+C0028,64,Male,Medium,0,14.48,Music,Easy,33,0.49,0.71,T031,9.92
+C0035,41,Female,High,0,13.29,Reading,Medium,40,0.58,0.98,T025,6.81
+C0012,67,Female,Medium,0,21.84,Art,Hard,49,0.86,0.96,T006,9.27
+C0159,64,Male,Medium,0,9.6,Music,Hard,39,0.83,0.38,T031,3.42
+C0326,37,Male,Low,0,5.11,Music,Easy,51,0.82,0.34,T032,6.48
+C0186,58,Female,High,0,18.03,Sensory Play,Hard,16,0.82,0.65,T017,6.74
+C0242,54,Female,Low,0,9.05,Reading,Easy,58,0.4,0.67,T034,8.73
+C0085,66,Female,Low,0,22.8,Art,Medium,16,0.37,0.73,T019,9.93
+C0283,40,Male,High,0,22.18,Math,Medium,36,0.9,0.79,T030,1.09
+C0065,54,Male,Low,0,6.53,Art,Easy,33,0.89,0.68,T004,6.31
+C0169,69,Male,High,0,7.13,Art,Medium,28,0.78,0.29,T031,3.36
+C0044,45,Female,Low,0,14.9,Sensory Play,Easy,50,0.72,0.83,T046,8.12
+C0061,60,Female,High,0,17.18,Art,Medium,43,0.56,0.26,T041,7.54
+C0440,37,Female,High,0,10.5,Sensory Play,Medium,31,0.46,0.22,T018,8.93
+C0133,46,Male,High,0,19.34,Sensory Play,Hard,36,0.77,0.82,T000,3.44
+C0283,66,Female,Medium,0,16.9,Music,Hard,15,0.94,0.64,T006,1.85
+C0027,50,Male,Low,0,11.5,Math,Easy,19,0.61,0.76,T021,0.22
+C0107,44,Female,Medium,0,5.51,Sensory Play,Medium,54,0.51,0.51,T049,2.56
+C0043,58,Male,Low,1,20.0,Reading,Medium,40,0.49,0.21,T033,3.67
+C0339,54,Male,Low,0,9.3,Reading,Medium,34,0.32,0.46,T009,9.46
+C0285,44,Female,Low,0,21.69,Math,Hard,11,0.66,0.69,T046,4.91
+C0445,70,Male,Medium,0,13.41,Sensory Play,Easy,19,0.99,0.38,T041,5.56
+C0330,56,Female,Low,0,16.54,Math,Easy,19,0.87,0.75,T025,8.8
+C0127,44,Male,Medium,0,22.46,Music,Easy,35,0.93,0.84,T031,8.85
+C0347,63,Female,High,0,22.27,Reading,Medium,14,0.73,0.56,T041,5.28
+C0472,42,Female,Low,0,12.43,Art,Easy,31,0.64,0.9,T026,1.14
+C0230,51,Male,Low,0,9.18,Reading,Hard,13,0.99,0.88,T011,2.71
+C0189,51,Female,High,0,20.5,Sensory Play,Hard,43,0.61,0.9,T039,4.57
+C0224,68,Male,High,0,13.66,Math,Easy,16,0.94,0.73,T022,7.51
+C0384,39,Female,Low,0,8.84,Reading,Medium,59,0.83,0.44,T013,7.12
+C0376,39,Female,High,0,23.09,Art,Hard,26,0.53,0.59,T033,6.43
+C0282,52,Female,Medium,0,8.96,Art,Hard,20,0.65,0.77,T016,8.8
+C0445,64,Female,Medium,0,5.52,Math,Medium,59,0.57,0.37,T005,8.03
+C0120,71,Male,Low,0,5.41,Math,Medium,17,0.4,0.79,T026,9.82
+C0115,70,Female,Medium,0,17.45,Reading,Easy,37,0.55,0.64,T007,8.89
+C0460,42,Female,Medium,0,18.23,Sensory Play,Hard,53,0.92,0.28,T032,1.96
+C0232,62,Male,Low,1,11.22,Music,Hard,42,0.83,0.65,T034,0.58
+C0258,63,Male,High,0,11.4,Art,Easy,34,0.49,0.25,T046,4.15
+C0358,57,Male,Low,0,11.79,Math,Easy,30,0.56,0.21,T016,6.18
+C0197,49,Male,Medium,0,18.6,Music,Hard,21,0.73,0.91,T025,6.43
+C0455,42,Male,Low,0,6.16,Music,Hard,35,0.59,0.59,T006,2.68
+C0410,57,Male,Low,0,23.58,Music,Medium,38,0.65,0.63,T045,8.6
+C0136,40,Female,Medium,1,9.45,Sensory Play,Medium,47,0.79,0.42,T023,3.29
+C0317,37,Male,Medium,0,24.99,Math,Hard,44,0.63,0.63,T024,9.19
+C0164,62,Female,Low,1,8.43,Art,Hard,46,0.43,0.34,T034,4.72
+C0224,56,Male,Medium,0,20.43,Math,Medium,55,0.66,0.8,T025,0.1
+C0306,50,Female,Medium,0,9.47,Reading,Easy,53,0.55,0.86,T049,1.62
+C0233,56,Female,Medium,0,6.62,Art,Easy,54,0.5,0.88,T004,1.02
+C0171,45,Female,Medium,0,22.5,Math,Hard,54,0.53,0.29,T046,0.44
+C0151,58,Male,Medium,0,22.18,Art,Hard,38,0.61,0.65,T037,7.14
+C0462,40,Male,Medium,0,13.07,Reading,Medium,58,0.92,0.85,T034,1.92
+C0314,36,Male,High,0,19.05,Art,Hard,33,0.81,0.3,T029,8.39
+C0373,48,Male,Low,0,16.14,Music,Easy,24,0.77,0.28,T049,2.64
+C0159,56,Female,Medium,0,22.06,Sensory Play,Medium,15,0.63,0.85,T024,0.32
+C0095,61,Male,Low,0,11.3,Reading,Medium,41,0.3,0.84,T023,8.21
+C0471,56,Female,High,0,15.47,Art,Easy,53,0.54,0.56,T029,4.66
+C0232,53,Female,Medium,0,14.71,Reading,Easy,43,0.87,0.29,T019,6.0
+C0179,67,Male,Low,0,12.08,Music,Medium,45,0.57,0.61,T002,3.36
+C0112,71,Male,Medium,0,22.83,Sensory Play,Hard,29,0.69,0.52,T031,0.46
+C0317,52,Male,Medium,0,8.32,Reading,Easy,21,0.44,0.61,T007,3.7
+C0496,70,Female,Medium,0,7.99,Music,Medium,44,0.94,0.55,T049,5.18
+C0441,46,Male,Medium,0,16.54,Music,Hard,58,0.95,0.65,T046,0.12
+C0051,56,Female,Medium,0,18.15,Music,Hard,47,0.4,0.78,T022,5.74
+C0267,61,Male,Medium,0,8.89,Art,Medium,26,0.81,0.82,T045,8.93
+C0294,39,Female,Medium,1,12.81,Math,Easy,36,0.35,0.72,T015,2.18
+C0385,69,Male,High,0,23.93,Reading,Hard,26,0.72,0.36,T034,9.27
+C0386,53,Male,High,0,9.93,Math,Easy,20,0.43,0.52,T024,0.98
+C0112,70,Female,Medium,1,18.37,Music,Medium,48,0.4,0.26,T014,8.25
+C0100,64,Male,Medium,0,19.8,Math,Easy,11,0.3,0.56,T007,8.4
+C0112,64,Male,High,0,13.96,Music,Hard,11,0.96,0.98,T033,2.58
+C0439,56,Male,High,1,23.75,Music,Medium,38,0.88,0.71,T024,9.58
+C0080,48,Male,High,0,19.73,Sensory Play,Hard,54,0.35,0.32,T048,4.17
+C0186,52,Male,Medium,0,14.16,Sensory Play,Hard,33,0.72,0.41,T043,1.41
+C0112,44,Male,Low,0,16.39,Math,Medium,33,0.46,0.25,T018,5.92
+C0001,36,Male,Low,0,18.85,Reading,Medium,25,0.48,0.35,T042,9.97
+C0129,37,Female,Low,0,16.84,Math,Easy,40,0.91,0.59,T049,8.99
+C0219,64,Female,Low,0,22.57,Reading,Medium,58,0.38,0.48,T012,2.79
+C0053,68,Male,Medium,0,12.14,Math,Easy,52,0.72,0.36,T045,5.77
+C0342,45,Male,Low,0,11.0,Art,Medium,18,0.58,0.32,T011,1.15
+C0484,56,Male,High,0,9.28,Art,Hard,36,0.43,0.72,T014,4.62
+C0223,63,Female,High,0,5.76,Reading,Easy,50,0.62,0.65,T022,5.23
+C0224,46,Female,Low,0,5.86,Sensory Play,Medium,23,0.96,0.87,T039,3.15
+C0384,69,Male,High,0,22.4,Reading,Easy,54,0.85,0.35,T001,4.84
+C0402,43,Female,Medium,0,18.57,Math,Easy,34,0.39,0.88,T039,9.2
+C0125,57,Male,Low,0,18.21,Music,Easy,52,0.89,0.66,T022,5.0
+C0129,43,Male,Low,0,17.29,Art,Hard,53,0.96,0.41,T004,8.31
+C0052,50,Male,Medium,0,21.98,Music,Medium,31,0.49,0.42,T033,3.17
+C0171,52,Male,High,0,14.61,Art,Medium,44,0.53,0.51,T009,9.71
+C0217,58,Female,Medium,0,22.41,Math,Easy,42,0.39,0.57,T026,0.93
+C0159,59,Female,Medium,0,12.19,Art,Medium,36,0.54,0.27,T041,5.86
+C0197,54,Male,High,0,23.53,Reading,Hard,49,0.77,0.87,T003,7.9
+C0415,40,Female,Medium,0,18.97,Music,Easy,35,0.49,0.3,T003,8.14
+C0246,67,Female,High,1,10.14,Music,Hard,28,0.3,0.59,T007,1.98
+C0323,36,Male,High,0,16.28,Math,Hard,54,0.54,0.51,T005,4.02
+C0438,58,Female,Medium,0,15.66,Music,Medium,48,0.62,0.61,T024,6.24
+C0202,43,Male,High,0,7.76,Math,Medium,54,0.7,0.91,T026,3.16
+C0183,48,Male,Medium,0,16.82,Sensory Play,Easy,35,0.78,0.99,T046,6.58
+C0122,43,Male,High,1,11.3,Reading,Hard,15,0.34,0.22,T049,3.79
+C0400,58,Male,Low,0,6.05,Art,Medium,12,0.63,0.51,T039,3.51
+C0254,36,Female,High,0,23.97,Art,Easy,15,0.49,0.85,T019,1.08
+C0293,59,Male,High,0,17.83,Art,Easy,37,0.96,0.46,T026,0.39
+C0279,70,Female,Medium,0,22.54,Sensory Play,Medium,12,0.55,0.72,T006,8.35
+C0324,59,Male,High,0,18.52,Reading,Hard,22,0.37,0.99,T022,4.9
+C0371,52,Male,Low,0,12.14,Music,Easy,22,0.33,0.72,T019,5.63
+C0097,40,Female,Low,0,15.25,Music,Medium,22,0.49,0.29,T048,3.72
+C0197,55,Male,High,0,18.51,Reading,Easy,10,0.43,0.87,T033,1.37
+C0469,56,Female,High,0,24.21,Reading,Medium,49,0.75,0.97,T028,4.5
+C0394,66,Female,Low,0,10.07,Art,Easy,46,0.89,0.77,T043,2.29
+C0239,71,Male,Medium,0,22.5,Music,Hard,40,0.52,0.54,T004,8.38
+C0143,46,Male,Low,0,23.48,Reading,Easy,26,0.7,0.96,T026,9.87
+C0096,50,Male,Low,0,18.41,Music,Medium,18,0.81,0.97,T011,8.89
+C0200,54,Male,High,0,23.63,Reading,Medium,54,0.58,0.95,T016,5.28
+C0123,42,Male,High,0,12.96,Math,Medium,22,0.35,0.53,T036,6.28
+C0186,63,Male,Low,0,24.06,Art,Hard,46,0.46,0.83,T033,9.48
+C0325,40,Female,Medium,0,19.06,Reading,Medium,23,0.92,0.72,T029,5.39
+C0463,40,Female,Low,0,5.84,Sensory Play,Medium,20,0.88,0.34,T035,6.39
+C0348,65,Male,Low,0,23.14,Reading,Hard,34,0.36,0.63,T005,6.29
+C0258,67,Female,Medium,0,14.69,Math,Medium,40,0.46,0.8,T031,7.08
+C0147,43,Female,Low,0,14.21,Sensory Play,Medium,23,0.84,0.92,T031,6.4
+C0251,45,Male,Low,0,16.33,Sensory Play,Hard,16,0.64,0.89,T008,6.71
+C0442,67,Male,High,0,7.99,Reading,Easy,33,0.83,0.32,T021,7.26
+C0419,63,Female,Medium,0,14.38,Math,Medium,58,0.45,0.59,T009,8.09
+C0402,52,Male,High,0,21.62,Sensory Play,Easy,45,0.97,0.58,T028,4.03
+C0345,66,Female,High,0,5.31,Art,Hard,51,0.85,0.92,T010,7.46
+C0450,43,Male,Medium,0,10.46,Art,Medium,51,0.44,0.2,T027,1.0
+C0146,60,Female,Medium,0,5.05,Music,Medium,56,0.69,0.79,T001,8.76
+C0147,44,Female,Low,0,13.31,Music,Hard,53,0.38,0.69,T020,2.9
+C0351,37,Female,High,0,19.57,Math,Medium,50,0.55,0.94,T030,4.03
+C0198,50,Female,Medium,0,20.98,Sensory Play,Easy,12,0.76,0.57,T040,8.04
+C0307,38,Male,High,0,23.9,Art,Easy,56,0.53,0.73,T016,6.37
+C0488,71,Male,High,0,17.17,Art,Hard,53,0.76,0.98,T026,3.09
+C0416,39,Female,Medium,0,10.09,Math,Medium,35,0.47,0.8,T029,2.25
+C0423,49,Female,Low,0,23.48,Sensory Play,Medium,56,0.8,0.25,T040,9.58
+C0127,60,Male,High,1,20.51,Math,Hard,35,0.55,0.33,T007,0.88
+C0038,45,Male,Medium,1,16.49,Reading,Easy,10,0.85,0.86,T036,0.04
+C0337,56,Female,Low,0,18.91,Art,Easy,24,0.4,0.47,T004,6.73
+C0359,71,Female,High,0,23.49,Math,Hard,20,0.55,0.76,T025,6.14
+C0128,47,Female,Medium,0,19.25,Math,Medium,46,0.62,0.76,T005,7.38
+C0266,62,Female,High,0,12.37,Reading,Easy,16,0.6,0.99,T015,7.32
+C0475,37,Female,Medium,0,19.26,Music,Medium,21,0.6,0.58,T000,8.63
+C0440,48,Male,Medium,0,5.81,Art,Easy,47,0.61,0.79,T008,9.22
+C0472,67,Female,High,0,12.73,Math,Medium,12,0.99,0.24,T020,7.75
+C0433,66,Male,High,0,13.13,Art,Easy,51,0.44,0.57,T006,2.32
+C0150,51,Male,Medium,0,8.34,Music,Medium,35,0.84,0.35,T042,4.63
+C0414,67,Male,Low,0,5.46,Math,Hard,39,0.69,0.87,T014,6.42
+C0477,67,Female,High,0,7.67,Reading,Easy,41,0.59,0.87,T023,5.39
+C0297,69,Male,Medium,1,18.09,Art,Hard,45,0.74,0.39,T004,1.59
+C0098,46,Male,Medium,0,21.05,Reading,Easy,54,0.9,0.45,T037,5.89
+C0262,45,Male,Low,0,24.76,Music,Easy,46,0.63,0.76,T028,8.87
+C0251,50,Male,Low,0,11.93,Music,Easy,27,0.91,0.79,T045,4.19
+C0143,52,Female,Low,0,16.99,Art,Medium,10,0.37,0.73,T045,6.69
+C0345,53,Female,High,0,23.74,Music,Easy,30,0.76,1.0,T010,6.16
+C0111,44,Male,Medium,0,8.34,Sensory Play,Hard,37,0.53,0.89,T003,3.77
+C0499,60,Male,Medium,0,19.35,Art,Medium,57,0.57,0.53,T009,5.65
+C0059,49,Female,Medium,0,20.1,Sensory Play,Medium,25,0.7,0.46,T033,2.1
+C0368,60,Female,Low,0,6.78,Music,Easy,57,0.64,0.68,T003,5.46
+C0001,57,Female,Medium,1,22.22,Art,Medium,37,0.57,0.85,T009,7.99
+C0384,65,Male,High,0,21.26,Sensory Play,Easy,31,0.52,0.58,T032,7.59
+C0303,55,Female,Low,1,5.67,Music,Hard,28,0.73,0.79,T045,3.58
+C0253,56,Male,Low,0,6.82,Math,Medium,57,0.65,0.22,T017,1.12
+C0139,67,Male,Low,0,5.98,Math,Medium,10,0.53,0.94,T011,8.0
+C0452,56,Female,Low,0,11.69,Reading,Hard,40,0.44,0.82,T022,2.65
+C0036,70,Male,High,0,15.19,Math,Hard,51,0.84,0.52,T043,0.53
+C0159,67,Female,Medium,0,15.65,Sensory Play,Easy,43,0.86,0.51,T024,4.45
+C0008,65,Male,High,0,10.35,Math,Medium,55,0.45,0.28,T036,7.39
+C0232,47,Female,Medium,0,23.23,Art,Hard,49,0.48,0.85,T003,8.08
+C0098,53,Male,High,0,12.37,Art,Medium,15,0.47,0.81,T012,9.82
+C0146,56,Male,Low,0,5.91,Art,Hard,37,0.92,0.7,T017,1.89
+C0303,48,Female,Low,0,11.0,Math,Medium,12,0.84,0.28,T028,2.94
+C0207,56,Female,High,0,15.62,Math,Hard,40,0.35,0.41,T043,6.09
+C0130,43,Female,High,0,13.16,Reading,Medium,25,0.88,0.57,T029,8.11
+C0403,42,Female,Medium,0,10.48,Music,Easy,26,0.33,0.41,T047,2.34
+C0151,58,Male,High,0,7.63,Reading,Medium,53,0.48,0.55,T037,4.1
+C0053,67,Female,High,0,21.38,Sensory Play,Easy,36,0.94,0.38,T027,4.08
+C0119,46,Female,Medium,0,24.92,Art,Easy,33,0.91,0.48,T006,7.73
+C0160,57,Male,Medium,0,11.59,Math,Easy,29,0.85,0.72,T023,2.41
+C0407,57,Female,Medium,0,12.63,Music,Medium,41,0.62,0.91,T040,9.69
+C0115,60,Female,High,0,17.36,Music,Medium,44,0.52,0.51,T009,5.1
+C0074,57,Male,Medium,0,19.37,Math,Easy,22,0.92,0.75,T036,2.82
+C0112,63,Female,Low,0,12.84,Reading,Hard,57,0.76,0.31,T026,2.84
+C0455,64,Female,Low,1,23.1,Music,Medium,52,0.51,0.63,T020,0.18
+C0419,48,Female,Low,0,16.2,Reading,Medium,29,0.62,0.94,T035,6.92
+C0421,53,Female,High,0,14.01,Math,Medium,57,0.92,0.22,T042,7.76
+C0103,37,Female,Low,0,17.93,Reading,Medium,11,0.93,0.41,T028,0.32
+C0339,64,Female,High,0,24.06,Art,Easy,13,0.76,0.31,T006,5.86
+C0253,56,Male,High,0,20.89,Math,Hard,36,0.81,0.63,T012,7.82
+C0226,50,Female,Low,0,5.8,Math,Hard,34,0.33,0.74,T044,3.76
+C0111,62,Male,Medium,1,11.65,Music,Hard,13,0.72,0.25,T022,4.33
+C0472,66,Male,High,0,14.41,Music,Hard,41,0.78,0.26,T049,3.62
+C0098,50,Male,Low,1,11.29,Music,Easy,26,0.31,0.9,T024,3.16
+C0152,58,Male,High,0,19.0,Art,Medium,10,0.89,0.56,T040,4.91
+C0348,59,Female,Medium,0,21.53,Art,Medium,42,0.95,0.57,T044,1.66
+C0401,48,Female,Medium,0,19.63,Sensory Play,Easy,39,0.47,0.96,T012,4.41
+C0383,57,Female,Low,0,24.79,Math,Medium,14,0.89,0.46,T036,9.42
+C0365,68,Male,High,0,10.45,Music,Easy,21,0.77,0.92,T029,0.27
+C0337,38,Female,High,1,22.5,Math,Hard,47,0.71,0.98,T025,1.65
+C0193,54,Female,High,0,20.33,Reading,Easy,41,0.89,0.39,T011,7.78
+C0309,58,Female,High,0,12.24,Art,Medium,47,0.5,0.61,T000,1.32
+C0162,64,Male,Low,0,19.68,Sensory Play,Medium,26,0.85,0.63,T017,2.71
+C0207,65,Male,Medium,0,7.08,Reading,Medium,54,0.52,0.89,T020,4.55
+C0444,60,Female,Low,0,20.79,Math,Hard,49,0.85,0.44,T023,9.43
+C0168,43,Male,High,0,15.65,Art,Easy,41,0.62,0.84,T016,1.84
+C0483,51,Male,High,0,10.85,Music,Easy,33,0.38,0.98,T041,9.23
+C0160,43,Female,Medium,0,18.12,Reading,Medium,21,0.57,0.87,T008,7.19
+C0067,36,Male,High,0,17.83,Art,Easy,56,0.46,0.93,T039,6.71
+C0288,40,Male,Low,0,9.19,Math,Medium,40,0.37,0.77,T027,7.24
+C0397,38,Female,Low,1,5.61,Math,Easy,28,0.38,0.92,T014,0.31
+C0276,36,Male,Medium,0,13.67,Reading,Hard,38,0.85,0.33,T012,0.99
+C0303,39,Male,Low,0,16.39,Reading,Hard,30,0.92,0.77,T027,3.35
+C0403,70,Male,Low,0,22.53,Reading,Easy,35,0.95,0.79,T016,0.74
+C0383,67,Male,Low,0,23.56,Sensory Play,Hard,37,0.9,0.55,T008,9.88
+C0391,69,Male,Low,0,15.58,Music,Hard,26,0.88,0.26,T020,5.8
+C0134,60,Male,High,0,20.08,Art,Hard,18,0.35,0.7,T029,4.87
+C0194,45,Male,Low,0,13.79,Math,Medium,30,0.85,0.24,T010,7.86
+C0400,56,Male,Medium,0,19.92,Math,Easy,59,0.85,0.51,T029,9.77
+C0127,62,Female,Medium,0,9.1,Music,Easy,43,0.39,0.51,T035,9.55
+C0032,62,Female,Low,0,12.42,Reading,Medium,20,0.76,1.0,T024,7.93
+C0175,37,Female,Medium,0,17.68,Reading,Medium,29,0.62,0.44,T006,3.77
+C0459,48,Female,Low,0,5.36,Math,Hard,58,0.93,0.86,T019,0.66
+C0442,44,Male,Medium,0,19.45,Music,Easy,59,0.79,0.24,T034,0.98
+C0370,71,Female,Medium,0,21.71,Math,Medium,56,0.97,0.62,T009,0.01
+C0469,57,Female,Low,1,12.98,Reading,Hard,48,0.37,0.63,T034,0.02
+C0374,61,Male,Low,0,13.96,Art,Easy,25,0.33,0.7,T000,9.36
+C0021,47,Male,High,0,22.03,Reading,Hard,38,0.98,0.85,T013,9.27
+C0237,52,Male,Low,0,20.51,Art,Easy,10,0.36,0.81,T044,6.68
+C0157,49,Male,Low,0,10.76,Sensory Play,Hard,27,0.57,0.81,T004,7.27
+C0037,49,Male,High,1,11.48,Music,Easy,31,0.75,0.55,T039,5.13
+C0229,69,Female,Low,0,18.58,Sensory Play,Easy,17,0.92,0.78,T043,2.38
+C0364,55,Male,Low,0,16.26,Reading,Easy,16,0.48,0.59,T037,9.14
+C0050,46,Female,High,0,8.24,Music,Easy,34,0.32,0.25,T033,2.78
+C0437,51,Female,Low,0,11.2,Reading,Hard,39,0.66,0.91,T023,7.4
+C0263,66,Male,Low,1,23.0,Music,Medium,43,0.63,0.91,T003,2.45
+C0282,41,Female,High,0,18.76,Music,Easy,53,0.51,0.46,T026,8.7
+C0026,54,Female,High,0,24.72,Reading,Easy,57,0.91,0.93,T004,6.51
+C0225,39,Male,Medium,0,20.34,Reading,Easy,50,0.82,0.81,T042,6.43
+C0276,39,Female,Low,0,23.84,Music,Easy,20,0.9,0.52,T012,0.97
+C0285,55,Female,Medium,0,9.32,Music,Hard,24,0.41,0.47,T039,4.19
+C0096,45,Female,Medium,0,20.43,Reading,Medium,44,0.78,0.98,T020,5.25
+C0283,59,Male,High,1,5.4,Reading,Medium,32,0.98,0.77,T036,2.94
+C0366,70,Male,Low,0,18.42,Math,Medium,54,0.73,0.5,T031,8.81
+C0447,61,Male,Low,0,14.39,Math,Hard,30,0.42,0.71,T037,8.38
+C0480,56,Female,High,1,11.94,Math,Medium,37,1.0,0.66,T030,4.94
+C0452,56,Male,Medium,0,22.25,Sensory Play,Hard,22,0.67,0.62,T031,3.4
+C0316,45,Female,High,0,22.09,Music,Hard,43,0.89,0.72,T014,8.02
+C0303,39,Male,Low,0,5.45,Art,Easy,47,0.4,0.63,T047,1.97
+C0146,55,Female,High,0,17.19,Sensory Play,Hard,15,0.77,0.72,T029,0.72
+C0003,52,Male,Low,0,12.36,Music,Medium,53,0.94,0.93,T042,0.46
+C0034,42,Male,Medium,1,13.31,Art,Medium,13,0.67,0.99,T006,0.39
+C0191,39,Female,Low,0,21.64,Math,Medium,14,0.5,0.77,T037,4.89
+C0048,64,Male,Medium,0,11.2,Art,Easy,49,0.39,0.94,T030,2.55
+C0016,49,Female,Medium,0,23.86,Reading,Easy,15,0.51,0.89,T043,6.9
+C0171,38,Male,Low,0,8.59,Reading,Easy,30,0.55,0.44,T025,6.54
+C0219,59,Male,Low,0,18.25,Music,Hard,37,0.8,0.95,T035,5.42
+C0157,51,Female,Medium,0,18.44,Sensory Play,Medium,12,0.43,0.26,T045,3.53
+C0476,39,Female,High,1,10.04,Math,Hard,32,0.37,0.46,T042,8.5
+C0045,59,Female,Low,0,11.5,Music,Hard,17,0.57,0.71,T025,7.1
+C0372,69,Male,Medium,0,21.7,Math,Medium,28,0.62,0.62,T043,2.72
+C0005,65,Female,Medium,0,20.24,Reading,Easy,20,0.74,0.63,T001,5.02
+C0098,53,Male,High,0,11.58,Sensory Play,Medium,59,0.8,0.84,T042,1.56
+C0379,54,Female,Low,0,15.68,Sensory Play,Hard,19,0.92,0.36,T044,3.29
+C0232,66,Female,Medium,0,6.23,Reading,Hard,37,0.5,0.99,T042,9.97
+C0036,54,Female,High,0,9.17,Art,Easy,29,0.67,0.55,T008,2.24
+C0279,54,Female,Medium,0,14.72,Sensory Play,Hard,53,0.56,0.96,T047,6.98
+C0348,57,Female,Low,0,6.72,Art,Hard,37,0.3,0.51,T004,2.38
+C0496,59,Female,High,0,21.87,Math,Medium,38,0.71,0.68,T026,9.38
+C0301,47,Male,Medium,0,19.36,Sensory Play,Easy,17,0.87,0.56,T011,3.1
+C0180,65,Female,High,0,23.87,Reading,Medium,28,0.33,0.74,T034,3.47
+C0094,66,Male,Low,0,18.87,Art,Medium,57,0.3,0.35,T028,5.94
+C0098,71,Female,High,0,23.81,Math,Medium,30,0.81,0.52,T015,5.88
+C0187,54,Female,Low,0,16.09,Math,Hard,27,0.78,0.25,T018,5.79
+C0480,71,Female,Medium,0,17.0,Sensory Play,Hard,18,0.58,0.68,T048,5.73
+C0115,65,Male,Low,0,24.54,Sensory Play,Easy,13,0.76,0.97,T042,3.12
+C0190,68,Male,Medium,0,17.84,Music,Hard,50,0.97,0.24,T026,4.34
+C0252,53,Female,Medium,0,5.62,Music,Easy,34,0.47,0.73,T017,5.93
+C0468,63,Male,Low,0,19.48,Sensory Play,Medium,43,0.47,0.82,T040,6.71
+C0415,46,Female,Medium,0,23.11,Music,Medium,18,0.43,0.37,T012,2.53
+C0470,68,Female,High,0,20.91,Reading,Hard,18,0.81,0.42,T029,7.01
+C0160,52,Male,Medium,1,16.68,Reading,Hard,27,0.55,0.36,T025,9.23
+C0255,41,Male,Low,0,18.43,Music,Easy,20,0.99,0.44,T005,7.58
+C0322,39,Male,High,0,24.8,Sensory Play,Hard,22,0.8,0.29,T002,0.84
+C0127,55,Male,High,0,6.81,Reading,Hard,47,0.56,0.5,T022,4.69
+C0017,62,Female,Medium,1,18.34,Math,Hard,18,0.4,0.5,T011,4.35
+C0280,50,Male,Medium,0,10.67,Sensory Play,Medium,25,0.71,0.85,T040,3.37
+C0489,41,Male,Low,0,17.8,Art,Hard,13,0.51,0.84,T040,4.91
+C0222,49,Female,High,0,17.15,Art,Hard,43,0.93,0.84,T014,4.4
+C0053,46,Male,Low,0,8.07,Sensory Play,Medium,16,0.61,0.65,T000,0.06
+C0057,44,Male,Medium,0,9.13,Music,Medium,24,0.5,0.46,T049,2.37
+C0322,61,Male,High,0,17.43,Reading,Medium,47,0.71,0.53,T046,2.14
+C0359,51,Male,Low,0,7.56,Reading,Medium,20,0.4,0.45,T007,3.49
+C0173,40,Female,Low,0,10.3,Sensory Play,Hard,41,0.69,0.67,T030,1.74
+C0279,45,Female,Low,0,21.7,Math,Hard,36,0.34,0.95,T010,0.68
+C0113,38,Male,Low,0,11.54,Music,Hard,39,0.72,0.43,T016,1.97
+C0287,48,Male,Low,0,14.76,Math,Easy,26,0.67,0.57,T026,8.54
+C0430,65,Female,High,0,23.82,Sensory Play,Medium,45,0.66,0.72,T030,7.97
+C0341,41,Male,Low,0,9.54,Sensory Play,Hard,28,0.78,0.88,T026,4.42
+C0150,52,Male,High,0,12.79,Math,Hard,16,0.33,0.4,T013,8.78
+C0449,54,Male,Low,1,17.13,Art,Hard,52,0.62,0.42,T022,2.33
+C0126,70,Male,Medium,0,20.11,Sensory Play,Medium,54,0.61,0.91,T004,5.84
+C0154,61,Male,Medium,0,23.03,Music,Medium,30,0.62,0.26,T029,1.43
+C0489,40,Male,Low,0,23.31,Math,Medium,37,0.99,0.68,T033,8.33
+C0385,64,Male,Medium,0,20.53,Art,Hard,12,0.4,0.89,T046,1.31
+C0473,55,Male,High,0,9.57,Math,Medium,23,0.78,0.94,T018,0.32
+C0272,56,Male,Low,0,5.5,Art,Hard,11,0.58,0.21,T030,2.73
+C0103,45,Female,High,0,12.68,Art,Easy,38,0.66,0.5,T015,9.01
+C0416,40,Female,Low,0,7.83,Music,Medium,27,0.83,0.41,T044,1.29
+C0392,71,Female,Medium,0,19.21,Sensory Play,Medium,46,0.41,0.65,T026,3.31
+C0298,41,Male,High,0,18.22,Art,Hard,54,0.83,0.71,T025,3.16
+C0245,61,Male,Medium,0,5.88,Sensory Play,Medium,54,0.35,1.0,T038,8.02
+C0175,39,Female,Medium,0,21.73,Music,Medium,33,0.64,0.61,T028,4.22
+C0038,70,Male,Low,0,9.97,Sensory Play,Hard,55,0.82,0.64,T048,6.12
+C0476,36,Female,High,0,13.64,Reading,Hard,21,0.43,0.53,T038,4.04
+C0169,59,Male,Medium,0,18.36,Art,Hard,54,0.84,0.32,T043,5.51
+C0246,71,Female,Low,0,13.59,Music,Easy,41,0.42,0.44,T044,0.62
+C0025,41,Female,Low,0,13.83,Math,Hard,27,0.86,0.4,T028,3.74
+C0354,66,Female,Low,0,6.31,Music,Medium,22,0.63,0.84,T044,8.55
+C0305,55,Male,Medium,0,13.03,Art,Easy,13,0.78,0.64,T045,6.91
+C0408,59,Female,Low,0,20.3,Music,Hard,32,0.94,0.44,T046,9.82
+C0407,60,Male,High,0,23.3,Math,Easy,19,0.59,0.59,T030,7.88
+C0012,71,Male,High,0,13.27,Reading,Easy,14,0.46,0.38,T001,4.52
+C0315,56,Male,Medium,0,13.47,Art,Medium,59,0.91,0.35,T005,6.76
+C0390,65,Male,High,0,19.05,Art,Easy,49,0.41,0.89,T008,7.76
+C0312,59,Male,Low,0,23.86,Music,Hard,23,0.74,0.96,T014,2.7
+C0035,65,Male,Medium,0,10.34,Sensory Play,Easy,43,0.95,0.26,T019,0.6
+C0172,57,Male,Low,0,13.8,Sensory Play,Easy,37,0.77,0.81,T047,4.06
+C0019,63,Female,Medium,0,20.92,Math,Medium,17,0.44,0.56,T001,1.45
+C0320,42,Female,Medium,0,17.19,Reading,Medium,25,0.41,0.51,T002,2.77
+C0263,70,Female,Low,0,7.21,Reading,Hard,40,0.48,0.75,T029,9.47
+C0493,63,Male,High,0,17.55,Music,Medium,16,0.57,0.41,T007,8.47
+C0399,49,Male,High,0,8.73,Music,Hard,12,0.41,0.22,T039,5.92
+C0141,45,Male,Medium,0,15.2,Sensory Play,Hard,38,0.86,0.37,T020,4.01
+C0459,51,Male,Low,0,15.58,Reading,Medium,45,0.55,0.35,T038,2.64
+C0370,51,Female,Low,0,22.52,Reading,Easy,48,0.96,0.23,T042,5.71
+C0470,66,Male,Medium,0,14.25,Reading,Medium,13,0.89,0.46,T012,5.33
+C0142,60,Female,High,0,10.59,Math,Easy,18,0.94,0.58,T039,7.81
+C0091,48,Male,Low,0,9.62,Math,Easy,26,0.51,0.79,T040,9.28
+C0353,41,Female,High,0,22.49,Music,Hard,58,0.7,0.46,T047,3.29
+C0321,44,Male,High,0,8.42,Sensory Play,Hard,29,0.53,0.36,T036,2.06
+C0287,71,Female,Medium,0,13.52,Art,Medium,23,0.48,0.38,T031,4.03
+C0214,55,Male,Medium,0,8.74,Sensory Play,Easy,55,0.72,0.91,T013,4.38
+C0446,53,Female,High,0,20.47,Math,Medium,38,0.87,0.36,T000,0.4
+C0341,56,Male,Low,0,14.49,Math,Hard,22,0.37,0.9,T026,8.62
+C0050,39,Female,Low,0,12.02,Music,Easy,45,0.49,0.56,T023,9.96
+C0152,68,Female,Medium,1,12.22,Art,Medium,54,0.44,0.95,T048,9.23
+C0185,62,Male,High,0,22.04,Reading,Medium,26,0.86,0.53,T021,8.61
+C0062,42,Female,Low,1,16.08,Art,Hard,56,0.95,0.34,T013,9.93
+C0189,41,Male,Low,1,19.36,Art,Hard,59,0.36,0.64,T044,9.08
+C0124,50,Male,Medium,0,22.94,Art,Hard,52,0.57,0.67,T007,6.88
+C0149,53,Male,High,0,23.03,Music,Hard,13,0.94,0.71,T026,1.67
+C0313,67,Female,Low,0,11.57,Math,Medium,29,0.54,0.53,T002,1.56
+C0057,46,Female,Medium,0,24.05,Reading,Hard,20,0.8,0.24,T032,0.49
+C0341,55,Male,Low,0,5.5,Art,Hard,51,0.37,0.7,T046,4.12
+C0304,59,Male,Low,1,12.54,Reading,Medium,31,0.61,0.95,T020,8.09
+C0179,50,Female,Low,0,22.92,Art,Medium,54,0.65,0.97,T031,4.9
+C0169,42,Female,Medium,0,10.49,Math,Easy,17,0.83,0.68,T039,3.66
+C0325,56,Female,High,0,10.46,Reading,Medium,37,0.5,0.22,T040,1.09
+C0270,61,Male,Medium,0,11.05,Sensory Play,Easy,54,0.48,0.28,T044,0.52
+C0053,49,Male,High,0,17.25,Math,Hard,50,0.51,0.87,T043,3.99
+C0490,56,Male,Low,0,13.77,Reading,Easy,39,0.69,0.86,T040,1.0
+C0443,53,Male,High,0,19.53,Art,Easy,42,0.91,0.96,T031,1.04
+C0100,40,Male,Low,0,22.9,Art,Hard,42,0.88,0.65,T023,3.95
+C0480,38,Female,Low,0,18.48,Math,Hard,56,0.34,0.89,T010,5.03
+C0263,58,Male,Medium,0,9.09,Math,Hard,45,0.92,0.86,T036,1.87
+C0052,61,Female,Low,0,23.65,Art,Easy,36,0.37,0.67,T020,6.85
+C0059,59,Female,Medium,0,10.29,Reading,Medium,29,0.59,0.83,T017,4.19
+C0491,54,Male,High,0,8.0,Sensory Play,Medium,42,0.84,0.3,T010,0.92
+C0107,60,Female,High,0,6.8,Music,Medium,34,0.36,0.71,T026,6.37
+C0004,56,Male,Low,0,16.27,Math,Hard,53,0.33,0.96,T042,3.57
+C0102,47,Female,Medium,0,7.28,Art,Hard,52,0.53,0.33,T037,0.52
+C0195,68,Male,Low,0,7.78,Reading,Medium,28,0.81,0.8,T000,9.48
+C0261,39,Male,Medium,0,11.0,Math,Hard,56,0.67,0.46,T028,5.71
+C0364,42,Female,Medium,0,10.63,Reading,Easy,30,0.59,0.85,T020,4.78
+C0479,57,Male,Medium,0,17.08,Math,Easy,51,0.87,0.76,T028,8.59
+C0371,68,Female,High,0,21.33,Art,Hard,42,0.84,0.94,T008,9.37
+C0349,52,Male,Medium,0,20.23,Reading,Medium,12,0.85,0.77,T006,2.2
+C0046,59,Male,High,0,10.25,Art,Medium,23,0.62,0.53,T037,8.1
+C0354,69,Male,Medium,1,9.91,Reading,Easy,24,0.31,0.21,T030,8.31
+C0310,63,Female,High,0,24.32,Math,Hard,42,0.42,0.83,T026,0.54
+C0423,57,Female,High,0,5.16,Music,Medium,51,0.82,0.53,T041,7.12
+C0307,52,Male,High,0,22.59,Music,Medium,31,0.83,0.74,T031,0.63
+C0143,69,Female,Low,0,8.99,Sensory Play,Hard,10,0.98,0.28,T004,5.95
+C0268,41,Male,Medium,0,23.95,Sensory Play,Hard,40,0.43,0.91,T032,6.69
+C0369,41,Female,Low,0,11.85,Art,Medium,56,0.39,0.55,T014,3.67
+C0123,69,Female,Medium,0,13.81,Reading,Hard,44,0.4,0.94,T004,8.81
+C0105,36,Male,Medium,0,19.14,Sensory Play,Hard,29,0.43,0.77,T019,8.01
+C0157,45,Male,Low,1,16.75,Math,Hard,41,0.67,0.3,T037,9.26
+C0146,56,Male,High,0,11.36,Music,Medium,21,0.98,0.66,T036,3.15
+C0144,40,Male,Medium,0,16.08,Reading,Easy,25,0.71,0.93,T016,0.22
+C0119,37,Male,High,0,19.61,Music,Hard,17,0.67,0.84,T049,8.11
+C0318,57,Female,Low,0,5.85,Reading,Medium,23,0.77,0.53,T003,2.23
+C0274,37,Female,High,0,5.22,Sensory Play,Easy,27,0.35,0.96,T020,4.67
+C0091,45,Male,Medium,0,14.16,Sensory Play,Medium,39,0.87,0.41,T033,8.17
+C0057,69,Male,Medium,0,7.64,Art,Medium,42,0.75,0.5,T039,2.16
+C0438,51,Male,Medium,0,18.29,Reading,Medium,43,0.42,0.8,T004,3.12
+C0345,57,Female,Low,0,9.28,Math,Easy,53,0.74,0.39,T003,4.39
+C0228,47,Male,Medium,0,13.66,Sensory Play,Medium,58,0.72,0.61,T021,2.72
+C0473,59,Male,Low,0,8.95,Art,Easy,43,0.35,0.78,T013,4.61
+C0116,45,Female,High,0,15.97,Sensory Play,Hard,58,0.49,0.72,T003,0.1
+C0317,70,Female,Medium,0,7.32,Music,Easy,16,0.57,0.32,T007,2.12
+C0278,67,Female,Medium,0,5.46,Sensory Play,Medium,15,0.47,0.7,T002,8.33
+C0126,42,Female,Medium,0,6.02,Reading,Easy,15,0.47,0.66,T045,4.13
+C0392,56,Male,High,0,24.09,Art,Medium,31,0.7,0.65,T028,6.36
+C0395,55,Female,Medium,0,7.85,Reading,Hard,17,0.63,0.86,T025,2.32
+C0128,61,Female,Low,0,19.17,Math,Easy,46,0.77,0.35,T049,6.5
+C0057,39,Male,High,0,6.36,Math,Hard,24,0.97,0.8,T029,10.0
+C0121,57,Male,High,0,7.16,Sensory Play,Easy,35,0.76,0.81,T011,5.95
+C0000,50,Male,High,0,15.18,Art,Medium,48,0.71,0.78,T014,6.28
+C0238,56,Female,High,0,14.3,Art,Easy,12,0.89,0.6,T040,1.12
+C0289,50,Male,High,0,24.03,Art,Hard,19,0.74,0.52,T001,4.03
+C0095,57,Female,Low,0,23.9,Art,Easy,12,0.42,0.52,T000,8.61
+C0125,63,Female,High,0,20.59,Sensory Play,Hard,39,0.52,0.79,T046,8.34
+C0117,49,Female,Medium,0,17.04,Reading,Hard,55,0.81,0.6,T046,5.22
+C0047,62,Male,High,0,14.1,Sensory Play,Medium,31,0.82,0.47,T027,9.03
+C0088,63,Female,High,0,12.12,Reading,Easy,12,0.99,0.7,T039,1.43
+C0487,61,Male,High,0,23.94,Music,Hard,10,0.74,0.87,T034,6.58
+C0236,37,Male,High,0,17.06,Music,Medium,42,0.93,0.25,T033,2.49
+C0372,60,Male,High,0,16.58,Reading,Medium,28,0.34,0.98,T003,6.46
+C0384,38,Female,Low,0,9.64,Sensory Play,Medium,45,0.7,0.28,T017,0.87
+C0271,43,Female,Low,0,5.93,Math,Hard,43,0.94,0.61,T011,9.44
+C0188,68,Female,High,0,23.9,Sensory Play,Easy,40,0.5,0.65,T049,7.86
+C0486,70,Male,Low,0,11.27,Math,Hard,52,0.41,0.31,T020,2.01
+C0191,41,Female,Medium,0,13.85,Sensory Play,Medium,33,0.55,0.93,T009,6.37
+C0446,58,Female,High,1,7.29,Art,Hard,21,0.85,0.58,T020,7.59
+C0068,60,Female,Medium,0,21.74,Art,Hard,22,0.36,0.31,T039,2.09
+C0277,54,Female,Medium,0,5.55,Music,Medium,25,0.72,0.77,T024,0.93
+C0348,40,Female,High,0,21.68,Music,Easy,25,0.39,0.73,T049,3.52
+C0246,46,Male,Medium,0,7.81,Reading,Medium,29,0.6,0.97,T016,1.36
+C0450,47,Male,Medium,0,22.73,Math,Medium,50,0.98,0.55,T005,5.66
+C0075,45,Male,Medium,0,19.6,Art,Hard,57,0.44,0.41,T013,4.24
+C0153,43,Male,High,0,8.29,Sensory Play,Medium,36,0.32,0.25,T036,4.62
+C0143,59,Female,High,0,16.32,Reading,Hard,48,0.6,0.79,T039,5.43
+C0434,63,Male,Medium,1,11.25,Sensory Play,Medium,22,0.7,0.69,T039,9.82
+C0484,71,Female,High,0,8.56,Art,Medium,13,0.51,0.98,T017,7.93
+C0085,56,Male,High,0,22.18,Art,Easy,41,0.68,0.77,T029,6.29
+C0184,43,Male,Medium,0,13.07,Art,Medium,54,0.97,0.95,T008,3.64
+C0284,44,Male,High,0,12.97,Art,Easy,49,0.52,0.99,T013,0.27
+C0461,50,Female,Low,0,8.4,Sensory Play,Medium,43,0.52,0.54,T045,1.17
+C0219,53,Female,High,0,12.66,Reading,Medium,48,0.64,0.32,T045,7.31
+C0068,55,Male,Low,0,22.43,Art,Medium,52,0.66,0.36,T016,3.69
+C0046,41,Female,Medium,1,12.26,Music,Easy,26,0.3,0.45,T033,3.34
+C0496,47,Male,High,0,24.03,Reading,Hard,33,0.73,0.61,T045,8.89
+C0093,37,Male,Medium,0,23.93,Music,Easy,38,1.0,0.3,T021,4.85
+C0237,42,Male,Medium,0,7.9,Sensory Play,Medium,55,0.5,0.44,T031,9.0
+C0445,51,Female,Medium,0,8.55,Art,Hard,37,0.74,0.45,T011,8.87
+C0499,38,Male,Medium,0,22.25,Reading,Medium,54,0.3,0.2,T015,0.8
+C0452,38,Male,Medium,0,12.86,Art,Easy,56,0.72,0.48,T021,9.45
+C0203,62,Male,High,0,5.09,Art,Easy,31,0.61,0.29,T037,0.77
+C0399,68,Female,Low,0,10.48,Reading,Hard,37,0.67,0.54,T049,9.64
+C0217,63,Male,High,0,16.95,Art,Easy,34,0.68,0.36,T038,4.53
+C0473,36,Female,High,0,20.99,Art,Medium,50,0.42,0.86,T001,7.61
+C0431,43,Male,High,0,7.67,Math,Hard,12,0.84,0.26,T044,7.06
+C0340,67,Female,High,0,7.21,Math,Medium,22,0.69,0.89,T007,5.18
+C0038,39,Male,Low,0,23.44,Reading,Hard,40,0.49,0.66,T043,6.19
+C0099,65,Male,High,0,20.02,Reading,Hard,22,0.96,0.57,T000,9.5
+C0288,41,Female,Medium,0,16.8,Art,Medium,50,0.31,0.64,T040,9.27
+C0253,54,Female,High,0,20.38,Music,Easy,27,0.81,0.5,T039,6.54
+C0221,67,Male,High,0,13.58,Reading,Medium,46,0.57,0.3,T040,6.58
+C0356,44,Female,Low,0,20.17,Art,Easy,52,0.67,0.81,T004,2.47
+C0022,47,Male,Low,0,12.44,Music,Easy,43,0.5,0.94,T044,8.29
+C0249,46,Male,Medium,0,9.88,Math,Medium,26,0.52,0.96,T045,6.33
+C0009,51,Male,High,0,19.58,Reading,Hard,30,0.31,0.74,T035,8.26
+C0245,36,Female,High,0,13.39,Art,Medium,45,0.81,0.53,T016,6.58
+C0324,56,Male,High,0,24.63,Math,Hard,59,0.8,0.58,T040,2.99
+C0099,65,Female,Medium,0,11.99,Sensory Play,Easy,49,0.76,0.73,T029,1.89
+C0289,48,Male,Low,0,23.43,Math,Hard,28,0.91,0.86,T014,0.77
+C0179,69,Female,Medium,0,23.66,Art,Medium,21,0.93,0.5,T019,5.86
+C0222,39,Female,High,0,9.84,Music,Hard,37,0.69,0.93,T035,2.84
+C0393,63,Male,Low,0,20.96,Sensory Play,Easy,20,0.78,0.46,T001,6.31
+C0249,66,Female,Low,0,13.66,Sensory Play,Easy,57,0.31,0.62,T044,0.59
+C0146,62,Male,Medium,0,23.35,Sensory Play,Hard,46,0.89,0.97,T003,3.76
+C0441,40,Male,Low,0,14.0,Reading,Easy,37,0.87,0.95,T049,2.61
+C0095,60,Male,Low,0,19.89,Art,Easy,44,0.31,0.76,T023,3.7
+C0256,38,Male,High,0,14.34,Sensory Play,Hard,53,0.68,0.46,T047,0.54
+C0324,68,Male,High,0,9.56,Math,Easy,24,0.93,0.38,T041,7.24
+C0492,39,Female,Low,0,8.99,Music,Hard,25,0.43,0.26,T001,1.17
+C0003,60,Male,Low,0,13.51,Art,Hard,54,0.55,0.77,T045,0.14
+C0015,55,Female,Medium,0,20.11,Math,Easy,16,0.53,0.6,T001,9.46
+C0279,69,Female,Medium,0,17.1,Reading,Hard,56,0.55,0.66,T049,1.93
+C0335,61,Male,Low,0,18.77,Sensory Play,Easy,12,0.33,0.58,T000,8.28
+C0246,40,Female,High,0,10.65,Math,Easy,40,0.5,0.59,T012,9.64
+C0257,70,Male,Low,0,14.63,Art,Easy,21,0.51,0.66,T005,5.34
+C0496,63,Female,Low,1,5.89,Math,Medium,17,0.91,0.93,T021,5.26
+C0475,64,Female,High,0,21.35,Reading,Easy,34,0.55,0.22,T016,3.67
+C0383,44,Female,High,0,24.8,Music,Hard,53,0.61,0.84,T048,4.26
+C0159,41,Male,Medium,0,13.14,Sensory Play,Hard,59,0.57,0.51,T021,4.82
+C0474,54,Female,Medium,0,5.22,Art,Hard,44,0.38,0.8,T042,1.52
+C0339,46,Male,Medium,0,8.4,Sensory Play,Medium,21,0.99,0.96,T005,3.65
+C0151,37,Female,Medium,1,18.05,Sensory Play,Medium,30,0.88,0.45,T002,8.16
+C0395,44,Female,High,0,17.24,Sensory Play,Hard,35,0.68,0.27,T045,1.82
+C0177,56,Female,Low,0,20.76,Math,Hard,11,0.63,0.39,T005,7.3
+C0162,59,Female,Medium,0,10.08,Math,Medium,23,0.75,0.38,T016,6.52
+C0379,69,Male,Medium,0,20.27,Music,Hard,55,0.53,0.79,T034,0.57
+C0032,57,Male,High,0,18.76,Reading,Easy,13,0.34,0.25,T048,0.22
+C0416,38,Female,High,0,11.46,Art,Easy,26,0.58,0.24,T049,3.53
+C0444,47,Female,Low,1,15.91,Math,Hard,56,0.99,0.75,T036,6.92
+C0178,63,Male,Low,0,7.95,Sensory Play,Easy,57,0.43,0.65,T046,3.3
+C0426,65,Male,High,1,14.05,Reading,Hard,14,0.67,0.53,T034,6.68
+C0100,61,Male,Medium,0,22.62,Art,Medium,33,0.31,0.66,T022,6.65
+C0267,56,Male,Medium,0,13.42,Art,Hard,58,0.39,0.79,T007,8.07
+C0322,63,Female,Medium,0,21.79,Art,Medium,16,0.71,0.28,T006,0.99
+C0064,61,Female,Low,0,16.81,Art,Easy,32,0.51,0.64,T049,5.77
+C0416,68,Male,Medium,0,8.84,Music,Easy,56,0.93,0.86,T009,0.62
+C0167,56,Male,Medium,0,16.62,Art,Easy,26,0.58,0.49,T025,1.76
+C0329,70,Male,High,0,15.12,Reading,Hard,21,0.45,0.81,T009,3.26
+C0042,69,Male,Medium,0,12.97,Math,Medium,20,0.68,0.88,T018,7.07
+C0043,53,Male,High,0,7.39,Reading,Medium,20,0.86,0.86,T022,9.74
+C0284,46,Male,Medium,1,13.33,Sensory Play,Easy,43,0.31,0.72,T030,3.43
+C0396,58,Female,Low,0,6.46,Music,Easy,56,0.65,0.77,T032,5.21
+C0011,57,Female,Medium,0,6.98,Music,Medium,46,0.84,0.83,T001,2.59
+C0094,52,Female,Medium,0,13.32,Sensory Play,Hard,59,0.37,0.79,T027,6.75
+C0301,40,Male,High,0,11.11,Reading,Easy,38,0.93,0.56,T031,3.67
+C0385,46,Male,High,0,23.51,Reading,Hard,57,0.49,0.33,T032,4.82
+C0252,65,Male,High,0,12.51,Sensory Play,Easy,45,0.42,0.45,T008,5.68
+C0498,50,Female,Medium,0,20.16,Art,Easy,36,0.71,0.37,T028,6.86
+C0241,62,Male,Medium,0,15.6,Art,Hard,51,0.42,0.49,T014,0.6
+C0034,70,Male,Low,0,19.08,Math,Hard,31,0.78,0.59,T017,5.55
+C0214,68,Female,Medium,0,10.2,Reading,Hard,11,0.64,0.97,T017,4.31
+C0336,55,Male,Low,0,23.84,Reading,Hard,56,0.38,0.97,T006,1.34
+C0089,51,Female,High,0,15.6,Sensory Play,Medium,45,0.94,0.82,T013,2.08
+C0263,69,Female,High,0,21.63,Sensory Play,Medium,57,0.77,0.98,T028,8.84
+C0092,37,Male,High,0,12.3,Art,Easy,39,0.68,1.0,T049,8.72
+C0409,70,Female,Low,0,7.0,Reading,Easy,16,0.56,0.91,T018,0.33
+C0457,63,Male,Medium,1,18.47,Reading,Easy,21,0.39,0.26,T004,6.89
+C0089,41,Female,High,0,5.16,Music,Medium,12,0.8,0.54,T040,5.54
+C0417,44,Male,Medium,0,14.51,Math,Hard,26,0.87,0.63,T049,9.4
+C0114,55,Female,Medium,0,8.86,Math,Easy,50,0.39,0.3,T044,9.08
+C0104,36,Male,High,0,17.55,Art,Medium,41,0.65,0.85,T004,5.8
+C0390,43,Female,Low,0,24.59,Reading,Easy,17,0.64,0.32,T014,1.39
+C0195,58,Female,Medium,0,14.29,Music,Medium,32,0.54,0.51,T025,4.6
+C0313,38,Female,High,1,21.35,Reading,Hard,47,0.85,0.26,T023,7.25
+C0113,39,Male,Medium,0,15.16,Sensory Play,Medium,39,0.37,0.62,T018,9.52
+C0492,60,Male,Medium,0,14.92,Art,Hard,24,0.44,0.68,T019,3.64
+C0074,50,Female,Medium,0,23.61,Math,Easy,19,0.3,0.79,T042,7.85
+C0412,56,Male,Medium,0,22.8,Reading,Hard,47,0.56,0.47,T008,6.83
+C0375,70,Female,Medium,0,20.72,Art,Medium,24,0.5,0.67,T027,0.78
+C0419,49,Male,Low,0,10.93,Math,Easy,39,0.91,0.79,T015,5.58
+C0216,71,Female,Low,0,15.9,Reading,Easy,55,0.82,0.81,T010,1.84
+C0276,47,Male,High,0,9.48,Music,Medium,35,0.36,0.44,T033,6.84
+C0248,52,Female,Low,0,13.88,Art,Hard,54,0.82,0.25,T024,6.1
+C0163,44,Female,Low,0,14.68,Reading,Medium,23,0.77,0.23,T039,9.73
+C0393,70,Female,Low,0,21.63,Math,Hard,12,0.5,0.81,T020,9.35
+C0356,48,Female,Medium,0,22.92,Math,Hard,45,0.31,0.51,T004,0.09
+C0456,50,Male,Medium,0,13.29,Music,Easy,35,0.38,0.31,T010,0.8
+C0407,53,Female,High,0,5.35,Art,Hard,23,0.47,0.35,T042,7.69
+C0191,68,Male,High,0,22.24,Art,Easy,40,0.87,0.81,T008,6.86
+C0226,41,Male,High,0,8.49,Reading,Medium,23,0.63,0.68,T010,8.01
+C0176,62,Female,Medium,0,17.44,Math,Medium,49,0.94,0.6,T036,2.67
+C0098,58,Male,Low,0,5.5,Math,Easy,19,0.85,0.7,T040,8.49
+C0495,62,Male,Low,0,12.99,Music,Easy,18,0.5,0.31,T000,4.42
+C0035,69,Male,Medium,1,24.72,Music,Hard,55,0.89,0.46,T025,2.62
+C0465,49,Female,High,0,7.01,Art,Easy,49,0.38,0.5,T009,0.11
+C0496,71,Male,High,0,13.47,Math,Medium,52,0.33,0.45,T039,8.71
+C0486,43,Male,High,0,11.14,Reading,Easy,51,0.73,0.89,T018,5.35
+C0095,70,Female,Medium,1,23.1,Sensory Play,Easy,27,0.54,0.67,T015,9.75
+C0151,54,Female,High,0,22.39,Reading,Easy,45,0.53,0.78,T044,7.15
+C0150,65,Male,High,1,9.75,Music,Hard,45,0.78,0.39,T036,0.8
+C0189,49,Female,Medium,1,6.62,Reading,Easy,21,0.9,0.41,T049,5.88
+C0223,55,Male,Low,0,17.54,Math,Hard,59,0.53,0.38,T040,0.17
+C0036,60,Male,Medium,0,11.73,Art,Hard,49,0.53,0.75,T003,5.58
+C0267,59,Male,Medium,1,18.44,Sensory Play,Easy,12,0.67,0.48,T013,3.5
+C0368,49,Female,Medium,0,5.64,Art,Hard,27,0.76,0.52,T029,6.43
+C0182,61,Male,Medium,0,7.67,Sensory Play,Easy,16,0.44,0.77,T006,5.42
+C0012,58,Female,Low,0,18.73,Sensory Play,Medium,40,0.94,0.98,T011,2.61
+C0278,57,Female,High,0,9.25,Math,Medium,10,0.76,0.33,T023,1.62
+C0216,54,Male,Medium,0,22.15,Math,Hard,40,0.74,0.25,T038,4.05
+C0354,38,Female,Low,0,6.17,Music,Medium,22,0.93,0.36,T042,9.87
+C0360,54,Female,High,0,9.31,Music,Easy,38,0.94,0.79,T021,4.36
+C0285,44,Female,High,0,24.97,Sensory Play,Hard,12,0.39,0.36,T046,7.49
+C0272,63,Female,High,0,13.66,Music,Easy,38,0.4,0.67,T029,0.57
+C0368,55,Female,Medium,0,19.06,Math,Hard,44,0.83,0.67,T038,3.79
+C0061,42,Male,Medium,0,8.65,Music,Hard,24,0.97,0.44,T019,5.8
+C0083,49,Female,High,0,17.2,Sensory Play,Hard,30,0.77,0.25,T025,7.51
+C0367,44,Male,High,0,19.52,Art,Hard,28,0.59,0.52,T048,5.28
+C0216,54,Male,High,0,11.29,Reading,Medium,37,0.78,0.35,T004,5.15
+C0341,49,Male,High,1,21.58,Music,Medium,13,0.46,0.35,T039,7.64
+C0396,71,Male,High,0,17.07,Math,Medium,54,1.0,0.62,T041,3.13
+C0186,52,Male,High,0,12.78,Art,Hard,22,0.6,0.74,T005,0.91
+C0018,65,Male,Low,1,16.15,Math,Medium,24,0.95,0.26,T033,3.47
+C0176,44,Female,High,1,16.54,Music,Hard,57,0.6,0.66,T004,1.59
+C0099,68,Female,Medium,0,8.31,Sensory Play,Medium,48,0.95,0.4,T009,9.66
+C0395,60,Female,Medium,0,13.05,Reading,Hard,41,0.53,0.74,T027,5.78
+C0444,49,Male,Medium,0,11.87,Reading,Medium,12,0.83,0.85,T002,4.47
+C0232,46,Female,High,0,13.02,Art,Medium,39,0.97,0.85,T012,9.12
+C0402,70,Female,Medium,0,20.22,Reading,Medium,29,0.75,0.5,T047,9.0
+C0075,49,Female,Low,0,14.65,Sensory Play,Hard,11,0.77,0.65,T046,4.16
+C0264,65,Male,High,0,23.81,Math,Hard,59,0.37,0.83,T001,8.75
+C0454,39,Female,Medium,0,10.87,Sensory Play,Medium,34,0.63,0.25,T034,0.64
+C0283,39,Male,Low,0,13.31,Art,Hard,20,0.92,0.68,T049,8.86
+C0205,63,Female,Low,1,20.74,Art,Easy,10,0.47,0.87,T046,3.11
+C0222,43,Male,Medium,0,15.92,Reading,Medium,57,0.85,0.5,T027,5.65
+C0383,37,Male,Low,1,15.94,Sensory Play,Medium,58,0.77,0.56,T036,2.7
+C0051,57,Male,Medium,1,6.07,Math,Easy,57,0.46,0.76,T022,9.85
+C0338,51,Female,Low,0,12.97,Sensory Play,Hard,19,0.5,0.25,T042,0.72
+C0366,64,Female,High,0,10.41,Math,Hard,26,0.6,0.51,T022,4.47
+C0143,65,Male,High,0,24.99,Math,Hard,39,0.39,0.44,T034,6.21
+C0372,47,Female,High,0,11.17,Sensory Play,Medium,44,0.94,0.21,T040,6.16
+C0068,70,Male,High,0,22.69,Music,Medium,59,0.82,0.36,T038,7.39
+C0098,46,Male,High,0,18.52,Sensory Play,Medium,28,0.56,0.52,T031,7.24
+C0395,56,Female,Medium,1,11.82,Math,Medium,55,0.51,0.36,T001,7.93
+C0024,56,Female,High,0,15.87,Art,Medium,43,0.78,0.68,T046,2.34
+C0435,40,Female,High,0,21.81,Art,Hard,41,0.6,0.56,T043,3.71
+C0378,55,Male,High,0,22.67,Reading,Easy,21,0.46,0.23,T047,3.82
+C0468,38,Male,High,0,8.21,Art,Hard,52,0.6,0.42,T015,9.56
+C0483,68,Female,Low,1,11.79,Music,Hard,26,0.91,0.22,T015,4.09
+C0052,44,Male,High,0,11.7,Math,Medium,15,0.35,0.49,T002,2.22
+C0150,44,Female,High,0,5.84,Sensory Play,Easy,22,0.56,0.41,T027,6.32
+C0143,39,Male,Medium,0,16.96,Sensory Play,Easy,48,0.97,0.75,T028,4.27
+C0056,70,Female,Low,0,22.1,Music,Hard,31,0.31,0.45,T019,2.5
+C0038,52,Female,Medium,0,12.63,Art,Easy,20,0.92,0.5,T035,7.15
+C0108,69,Male,High,0,19.8,Math,Hard,16,0.56,0.78,T032,1.92
+C0180,59,Female,Medium,0,17.55,Art,Hard,54,0.43,0.58,T021,6.33
+C0041,67,Female,Medium,1,12.51,Reading,Hard,54,0.31,0.65,T007,4.31
+C0185,36,Male,High,1,7.82,Art,Hard,30,0.35,0.87,T046,3.19
+C0422,43,Female,Low,0,19.19,Reading,Medium,10,0.42,0.37,T023,9.46
+C0397,58,Male,Low,0,22.09,Sensory Play,Easy,39,0.32,0.99,T036,3.24
+C0222,47,Female,Medium,0,18.72,Math,Medium,28,0.54,0.92,T019,3.48
+C0121,47,Male,High,0,5.36,Reading,Medium,56,0.33,0.43,T011,8.71
+C0132,50,Female,Medium,0,9.32,Art,Medium,55,0.78,0.91,T019,1.29
+C0162,54,Female,Medium,0,6.39,Art,Hard,38,0.87,0.8,T019,1.08
+C0214,61,Female,Medium,0,16.41,Sensory Play,Hard,44,0.92,0.94,T003,2.83
+C0220,64,Female,High,0,20.13,Music,Medium,29,0.68,0.75,T029,5.92
+C0234,57,Male,High,0,7.21,Music,Medium,45,0.96,0.74,T030,3.84
+C0330,56,Male,Low,0,21.77,Art,Easy,48,0.3,0.2,T021,6.09
+C0145,55,Male,High,0,16.11,Music,Medium,10,0.39,0.58,T014,1.6
+C0238,64,Male,Medium,0,18.8,Math,Hard,32,0.51,0.36,T037,2.61
+C0075,39,Male,Medium,1,24.43,Music,Medium,40,0.85,0.46,T036,5.65
+C0008,42,Male,Low,0,6.67,Math,Easy,44,0.92,0.98,T027,2.17
+C0073,63,Male,High,0,23.02,Art,Easy,56,0.73,0.27,T010,4.23
+C0441,63,Female,Medium,0,7.52,Art,Medium,54,0.57,0.78,T013,5.73
+C0491,39,Female,Low,0,12.86,Art,Easy,31,0.77,0.34,T010,9.74
+C0400,57,Female,Low,0,22.03,Sensory Play,Easy,55,0.43,0.21,T008,0.8
+C0252,47,Female,Medium,0,23.13,Music,Hard,16,0.62,0.6,T023,4.6
+C0229,38,Male,Medium,0,15.13,Reading,Easy,42,0.66,0.33,T009,3.96
+C0006,57,Male,High,0,16.88,Reading,Easy,54,0.37,0.97,T037,8.24
+C0173,37,Male,Low,0,19.16,Art,Medium,45,0.32,0.36,T042,9.0
+C0140,59,Female,Medium,0,21.66,Music,Hard,53,0.83,0.35,T040,9.07
+C0167,69,Male,Low,0,7.43,Math,Easy,16,0.67,0.23,T036,3.75
+C0169,62,Female,High,0,21.2,Reading,Medium,36,0.53,0.46,T041,3.05
+C0392,36,Male,Medium,0,14.63,Art,Medium,11,0.61,0.22,T031,4.49
+C0433,43,Male,High,0,14.01,Reading,Medium,26,0.97,0.6,T019,3.44
+C0282,58,Male,Low,0,13.48,Reading,Medium,10,0.57,0.6,T013,7.19
+C0121,41,Male,High,0,15.18,Reading,Medium,55,0.37,0.24,T037,2.14
+C0193,57,Female,High,0,23.9,Art,Medium,39,0.62,0.39,T003,6.59
+C0004,60,Female,Low,0,15.96,Art,Easy,31,0.75,0.87,T023,9.27
+C0028,53,Male,High,0,24.06,Sensory Play,Hard,37,0.31,0.57,T031,2.8
+C0164,52,Female,Low,1,8.61,Sensory Play,Hard,42,0.53,0.55,T009,6.77
+C0421,47,Male,Medium,0,19.48,Sensory Play,Medium,35,0.58,0.76,T042,1.44
+C0338,41,Male,Low,0,21.24,Reading,Medium,44,0.62,0.77,T015,1.21
+C0135,61,Male,Low,0,18.58,Music,Hard,20,0.51,0.81,T038,1.16
+C0495,62,Male,Medium,0,17.14,Art,Easy,16,0.77,0.86,T031,1.39
+C0364,43,Female,Low,0,16.3,Sensory Play,Medium,37,0.96,0.39,T017,2.16
+C0320,54,Male,Medium,0,22.22,Music,Hard,34,0.94,0.25,T024,5.63
+C0341,36,Male,Medium,0,21.43,Sensory Play,Hard,50,0.77,0.5,T006,7.67
+C0499,64,Female,Low,0,7.45,Sensory Play,Medium,40,0.65,0.88,T046,1.27
+C0144,70,Male,High,0,21.97,Music,Hard,12,0.88,0.26,T017,8.7
+C0326,49,Female,High,0,13.28,Sensory Play,Easy,42,0.89,0.66,T046,8.43
+C0216,70,Male,Medium,0,10.07,Reading,Hard,43,0.88,0.76,T017,7.27
+C0300,55,Male,High,0,22.4,Reading,Medium,30,0.41,0.59,T002,4.26
+C0131,48,Male,High,0,13.64,Reading,Medium,46,0.32,0.4,T000,0.02
+C0291,43,Male,Low,0,21.17,Math,Hard,58,0.99,0.46,T032,7.35
+C0069,55,Male,Medium,0,10.27,Sensory Play,Hard,28,0.97,0.26,T006,8.79
+C0251,68,Male,Medium,1,5.08,Math,Medium,46,0.7,0.43,T009,3.35
+C0414,61,Female,Low,0,14.91,Art,Easy,30,1.0,0.24,T043,7.18
+C0274,56,Male,High,0,7.0,Music,Hard,23,0.84,0.78,T007,0.62
+C0444,44,Female,Medium,0,20.09,Art,Easy,19,0.66,0.92,T031,7.09
+C0363,59,Female,High,0,10.52,Math,Easy,16,0.57,0.71,T022,0.68
+C0181,52,Male,Medium,0,13.87,Reading,Medium,38,0.72,0.73,T016,5.87
+C0166,59,Female,Medium,0,6.74,Sensory Play,Medium,49,0.66,0.58,T013,5.98
+C0090,56,Male,Medium,0,10.73,Sensory Play,Medium,17,1.0,0.32,T016,3.02
+C0201,48,Female,Medium,0,20.63,Reading,Easy,48,0.64,0.21,T024,0.79
+C0345,46,Male,High,0,8.03,Sensory Play,Medium,22,0.89,0.48,T020,9.49
+C0018,54,Female,High,0,17.94,Music,Medium,55,0.87,0.8,T005,5.36
+C0038,46,Female,High,0,23.35,Music,Easy,28,0.35,0.97,T019,5.8
+C0125,48,Male,High,0,18.6,Music,Easy,20,0.36,0.54,T048,6.15
+C0450,36,Female,Low,0,21.22,Art,Easy,11,0.76,0.49,T019,8.91
+C0172,54,Male,Medium,0,7.18,Reading,Easy,58,0.48,0.56,T025,0.6
+C0140,47,Male,Medium,0,10.01,Music,Hard,15,0.76,0.54,T031,8.93
+C0241,43,Male,Medium,0,22.89,Math,Medium,38,0.4,0.7,T007,2.4
+C0219,43,Male,Low,0,19.3,Music,Hard,50,0.58,0.79,T044,0.78
+C0125,47,Male,High,0,17.79,Art,Easy,14,0.37,0.83,T047,6.57
+C0057,68,Female,Medium,0,18.28,Math,Easy,50,0.5,0.72,T043,9.77
+C0147,61,Female,High,0,13.28,Reading,Easy,39,0.36,0.55,T028,0.57
+C0475,63,Female,High,0,5.89,Reading,Easy,48,0.98,0.96,T016,4.26
+C0455,40,Male,Low,0,20.69,Music,Easy,45,0.58,0.77,T017,5.3
+C0316,43,Female,Low,0,18.57,Math,Medium,36,0.93,0.54,T039,2.52
+C0382,60,Female,High,0,14.46,Math,Hard,59,0.98,0.56,T017,9.83
+C0360,62,Female,Medium,0,23.0,Music,Hard,27,0.94,0.85,T010,6.41
+C0422,58,Female,Medium,0,11.72,Music,Medium,58,0.62,0.55,T044,8.44
+C0000,65,Female,Low,1,10.89,Sensory Play,Medium,45,0.85,0.61,T011,4.16
+C0386,58,Male,Low,0,22.46,Sensory Play,Medium,25,0.41,0.43,T014,3.54
+C0460,55,Male,Low,0,20.94,Music,Hard,14,0.37,0.87,T025,5.53
+C0347,53,Female,Low,0,15.3,Art,Hard,18,0.91,0.62,T002,4.35
+C0189,53,Male,Low,0,7.61,Sensory Play,Easy,43,0.32,0.64,T002,7.15
+C0190,37,Male,Low,0,9.3,Music,Hard,43,0.98,0.9,T037,2.66
+C0368,39,Female,Low,0,18.12,Math,Hard,45,0.77,0.94,T034,4.5
+C0408,65,Female,Medium,0,12.7,Sensory Play,Medium,40,0.59,0.86,T008,8.95
+C0311,68,Male,Low,0,21.73,Art,Hard,29,0.4,0.25,T042,7.56
+C0416,71,Female,Low,0,24.0,Reading,Easy,26,0.81,0.55,T039,1.68
+C0421,53,Male,Medium,0,21.11,Math,Hard,29,0.69,0.47,T003,8.87
+C0116,54,Male,Medium,0,12.55,Art,Medium,37,0.8,0.37,T019,5.89
+C0133,63,Female,High,0,20.77,Art,Medium,30,0.59,0.93,T014,6.79
+C0057,55,Male,Low,0,12.03,Art,Easy,28,0.35,0.91,T028,2.94
+C0043,68,Male,Low,0,8.34,Math,Easy,12,0.52,0.57,T004,4.42
+C0172,47,Male,Low,0,5.67,Art,Hard,39,0.52,0.31,T038,8.07
+C0159,50,Female,Low,0,12.71,Reading,Easy,14,0.31,0.21,T039,3.31
+C0172,37,Female,High,0,23.07,Sensory Play,Easy,51,0.31,0.55,T006,1.65
+C0316,64,Female,Medium,1,9.78,Math,Medium,15,0.53,0.23,T007,3.78
+C0302,45,Female,Medium,1,9.13,Art,Medium,12,0.81,0.69,T031,0.69
+C0148,37,Male,Low,0,24.4,Music,Hard,58,0.74,0.69,T035,7.18
+C0079,46,Female,Low,0,5.5,Sensory Play,Hard,51,0.47,0.92,T032,1.48
+C0373,48,Female,Low,1,20.72,Math,Hard,33,0.72,0.35,T036,2.85
+C0212,45,Female,High,1,11.43,Music,Hard,53,0.75,0.5,T031,8.81
+C0202,49,Female,High,0,5.75,Music,Medium,10,0.67,0.89,T042,5.4
+C0251,53,Male,Medium,0,23.36,Art,Hard,59,0.66,0.58,T035,3.21
+C0228,44,Male,Low,0,7.79,Math,Hard,45,0.56,0.25,T033,5.48
+C0163,63,Male,Low,1,16.04,Art,Easy,24,0.39,0.29,T048,2.18
+C0226,38,Female,Low,0,10.48,Reading,Hard,50,0.57,0.85,T024,0.25
+C0146,55,Female,Low,0,6.3,Music,Easy,47,0.54,0.79,T043,6.04
+C0019,41,Male,High,0,6.0,Reading,Medium,53,0.71,0.9,T031,7.14
+C0440,62,Female,Medium,0,7.31,Art,Hard,27,0.9,0.3,T001,8.8
+C0401,37,Female,Medium,0,6.43,Sensory Play,Easy,32,0.56,0.81,T008,7.72
+C0046,64,Male,High,0,20.21,Music,Hard,56,0.8,0.72,T037,9.27
+C0232,38,Male,Low,0,14.71,Sensory Play,Easy,38,0.87,0.39,T028,9.86
+C0304,51,Female,Medium,0,11.86,Math,Hard,50,0.45,0.98,T037,7.45
+C0013,65,Female,Medium,0,13.37,Music,Medium,31,0.93,0.66,T017,8.68
+C0142,37,Female,High,0,23.58,Reading,Medium,33,0.35,0.93,T021,6.74
+C0414,52,Male,Low,0,23.22,Sensory Play,Easy,54,0.93,0.89,T034,1.71
+C0000,47,Male,Medium,0,19.31,Math,Easy,57,0.41,0.47,T014,1.82
+C0372,70,Male,Low,0,22.69,Music,Medium,22,0.54,0.63,T006,1.1
+C0053,36,Male,Medium,0,11.39,Math,Hard,42,0.72,0.55,T012,9.43
+C0373,50,Female,High,0,12.62,Reading,Easy,59,0.93,0.77,T041,6.73
+C0258,61,Male,Low,0,17.27,Music,Medium,31,0.48,0.67,T035,7.9
+C0143,56,Male,High,0,17.47,Math,Easy,44,0.83,0.83,T015,3.31
+C0470,66,Female,Medium,0,14.63,Art,Medium,26,0.8,0.21,T040,4.6
+C0440,60,Female,High,0,13.01,Music,Medium,31,0.41,0.75,T020,0.4
+C0458,58,Female,High,0,24.72,Music,Easy,14,0.64,0.46,T027,8.89
+C0011,59,Male,High,0,21.42,Music,Easy,34,0.64,0.38,T009,8.53
+C0329,63,Female,Medium,0,13.7,Music,Medium,15,0.51,0.84,T018,7.85
+C0223,56,Female,Low,0,19.55,Art,Hard,26,0.85,0.27,T016,0.58
+C0271,53,Male,High,0,10.39,Reading,Medium,40,0.95,0.38,T000,1.74
+C0455,71,Male,Low,0,7.0,Art,Hard,26,0.8,0.36,T012,3.34
+C0357,70,Female,Medium,0,12.05,Art,Hard,42,0.98,0.54,T035,2.63
+C0459,44,Male,Low,0,13.06,Math,Hard,48,0.34,0.46,T046,8.38
+C0407,65,Female,High,0,5.33,Sensory Play,Easy,57,0.33,0.78,T041,1.95
+C0155,69,Female,High,0,21.3,Sensory Play,Medium,46,0.93,0.76,T019,5.32
+C0372,67,Male,High,0,12.18,Math,Medium,57,0.93,0.46,T040,5.71
+C0007,38,Female,High,0,16.61,Art,Hard,13,0.37,0.55,T039,4.25
+C0121,38,Male,High,0,6.48,Math,Hard,52,0.55,0.37,T005,2.41
+C0347,63,Male,High,0,8.5,Music,Hard,23,0.88,0.74,T022,9.6
+C0163,50,Male,Medium,0,22.79,Math,Medium,22,0.39,0.52,T041,4.13
+C0089,58,Female,Medium,0,17.17,Math,Hard,36,0.49,0.31,T023,7.27
+C0135,46,Male,Medium,0,24.01,Music,Medium,33,0.78,0.3,T048,1.84
+C0185,67,Male,Low,0,24.98,Sensory Play,Medium,36,0.99,0.46,T004,8.23
+C0315,71,Female,Low,0,12.44,Music,Easy,17,0.86,0.8,T031,2.16
+C0177,68,Female,Medium,0,10.98,Reading,Hard,56,0.84,0.22,T045,6.75
+C0027,59,Female,Low,0,22.17,Math,Hard,59,0.54,0.41,T016,5.06
+C0219,69,Female,Low,0,24.97,Math,Hard,48,0.76,0.33,T010,1.47
+C0356,63,Male,High,0,17.59,Sensory Play,Easy,30,0.38,0.97,T026,0.25
+C0040,42,Male,High,0,20.9,Art,Hard,50,0.99,0.76,T003,9.31
+C0227,39,Male,Low,0,20.63,Music,Medium,20,0.64,0.39,T022,1.26
+C0191,36,Female,Low,0,12.11,Art,Hard,40,0.75,0.37,T022,7.05
+C0410,36,Female,Medium,0,16.49,Reading,Medium,36,0.91,0.89,T048,6.53
+C0446,55,Male,Low,0,21.66,Music,Medium,51,0.3,0.35,T033,3.42
+C0144,54,Female,High,0,18.76,Reading,Medium,55,0.98,1.0,T020,1.85
+C0200,64,Female,Low,0,5.42,Reading,Medium,57,0.55,0.43,T021,1.78
+C0416,45,Male,Medium,1,11.73,Reading,Hard,36,0.54,0.27,T000,5.85
+C0211,53,Male,High,0,7.89,Music,Easy,17,0.4,0.75,T031,5.47
+C0460,63,Female,High,0,9.66,Music,Easy,42,0.9,0.69,T027,8.76
+C0219,70,Female,High,0,23.11,Sensory Play,Medium,21,0.91,1.0,T017,6.4
+C0239,66,Female,High,0,5.74,Math,Hard,44,0.31,0.84,T006,8.19
+C0412,62,Male,Low,0,9.4,Art,Easy,43,0.34,0.54,T037,0.32
+C0396,46,Male,Medium,0,11.19,Art,Hard,25,0.94,0.74,T005,6.71
+C0045,40,Male,Low,0,17.34,Reading,Easy,45,0.39,0.85,T013,2.34
+C0034,43,Male,Low,0,15.68,Music,Medium,11,0.73,0.61,T029,2.53
+C0252,69,Male,High,0,9.37,Music,Medium,21,0.73,0.42,T043,7.21
+C0389,47,Female,Medium,0,8.28,Reading,Medium,36,0.91,0.37,T045,7.93
+C0081,36,Female,High,0,9.74,Math,Easy,26,0.7,0.44,T013,3.72
+C0370,66,Female,Low,0,15.05,Art,Hard,29,0.6,0.88,T043,7.9
+C0255,39,Male,Low,0,10.42,Sensory Play,Medium,30,0.98,0.5,T040,4.44
+C0196,40,Male,High,0,23.95,Math,Hard,39,0.46,0.43,T008,8.58
+C0302,65,Male,Low,0,14.28,Music,Hard,51,0.48,0.84,T030,0.25
+C0408,59,Female,Low,0,6.18,Reading,Medium,29,0.36,0.23,T001,0.83
+C0449,38,Male,High,0,19.59,Art,Easy,17,0.98,0.68,T017,7.76
+C0009,46,Male,Low,0,11.58,Reading,Medium,27,0.79,0.9,T004,6.24
+C0311,39,Female,Medium,0,18.07,Music,Medium,27,0.31,0.53,T025,5.59
+C0285,61,Male,High,0,10.59,Reading,Easy,27,0.79,0.42,T022,6.14
+C0241,62,Female,Medium,0,16.41,Art,Hard,11,0.58,0.59,T011,9.3
+C0250,62,Male,Low,0,20.44,Reading,Easy,21,0.98,0.77,T013,6.56
+C0364,41,Male,Low,0,23.56,Art,Easy,41,0.49,0.61,T012,6.47
+C0004,50,Female,High,0,10.22,Reading,Medium,51,0.8,0.21,T034,7.59
+C0118,65,Female,Low,0,11.7,Reading,Easy,17,0.74,0.26,T046,8.67
+C0288,70,Female,High,1,14.29,Art,Easy,19,0.31,0.78,T014,2.62
+C0373,58,Female,High,0,23.54,Reading,Easy,20,0.92,0.52,T034,6.17
+C0064,41,Female,High,0,23.03,Math,Hard,23,0.4,0.83,T018,5.84
+C0145,39,Female,High,0,6.8,Sensory Play,Hard,35,0.76,0.72,T014,1.35
+C0223,53,Male,High,1,7.64,Math,Medium,56,0.84,0.67,T007,5.2
+C0238,44,Male,Medium,0,14.91,Sensory Play,Medium,39,0.74,0.92,T022,0.7
+C0176,64,Female,High,0,7.13,Math,Hard,51,0.37,0.22,T012,1.85
+C0266,48,Male,Medium,0,11.91,Sensory Play,Easy,13,0.98,0.32,T022,9.13
+C0340,52,Female,Low,0,7.97,Reading,Medium,48,0.47,0.7,T030,1.19
+C0281,67,Male,High,0,17.72,Art,Medium,20,0.74,0.25,T029,5.79
+C0062,57,Female,Low,0,23.99,Art,Easy,33,0.86,0.72,T041,3.23
+C0216,39,Male,High,0,24.93,Music,Easy,31,0.96,0.99,T001,5.55
+C0341,40,Male,Medium,0,12.5,Sensory Play,Easy,12,0.72,0.9,T010,2.35
+C0314,48,Male,Medium,0,16.98,Music,Easy,46,0.48,0.67,T024,4.44
+C0282,69,Male,Medium,0,22.13,Music,Easy,11,0.89,0.92,T028,8.67
+C0176,57,Male,Low,0,7.35,Sensory Play,Hard,21,0.41,0.29,T021,3.76
+C0460,58,Female,High,0,18.79,Art,Easy,30,0.32,0.56,T018,3.53
+C0416,38,Female,Low,0,13.18,Sensory Play,Medium,14,0.94,0.54,T008,4.46
+C0097,69,Female,Medium,0,9.12,Reading,Hard,16,0.7,0.47,T040,1.0
+C0104,67,Male,Low,0,13.06,Music,Medium,13,0.35,0.2,T037,3.87
+C0098,56,Female,Medium,0,6.52,Music,Easy,52,0.71,0.91,T028,0.07
+C0384,56,Male,Medium,0,18.91,Sensory Play,Medium,50,0.4,0.82,T009,5.03
+C0404,46,Male,Medium,0,10.05,Music,Easy,45,0.32,0.72,T021,8.48
+C0495,39,Male,High,0,11.23,Art,Medium,31,0.38,0.3,T023,5.52
+C0310,36,Female,High,0,7.42,Music,Medium,38,0.84,0.5,T007,6.08
+C0005,63,Male,Medium,0,22.29,Sensory Play,Easy,18,0.83,0.94,T046,0.31
+C0475,59,Female,Low,0,14.87,Art,Medium,35,0.72,0.69,T005,8.6
+C0464,70,Female,Low,0,16.44,Art,Hard,21,0.45,0.68,T006,3.85
+C0196,48,Male,High,0,16.39,Music,Medium,57,0.82,0.93,T019,9.75
+C0350,69,Male,Medium,0,13.21,Sensory Play,Hard,10,0.59,0.65,T016,1.2
+C0132,46,Female,Low,0,8.85,Music,Hard,17,0.66,0.68,T035,9.45
+C0357,71,Female,Medium,0,19.9,Reading,Medium,42,0.93,0.48,T007,6.34
+C0258,52,Female,Low,0,7.54,Reading,Hard,13,0.62,0.5,T012,0.52
+C0436,70,Female,High,0,7.08,Art,Hard,23,0.74,0.75,T023,9.72
+C0022,53,Female,Medium,0,19.2,Music,Medium,38,0.97,0.46,T045,0.14
+C0484,57,Female,Medium,0,9.18,Reading,Easy,23,0.62,0.65,T049,7.31
+C0052,59,Male,Low,0,11.14,Math,Easy,18,0.69,0.42,T030,8.9
+C0164,54,Female,Low,0,14.5,Reading,Hard,18,0.71,0.33,T022,1.76
+C0201,56,Female,Low,0,13.99,Music,Hard,35,0.47,0.56,T016,3.43
+C0457,43,Female,Medium,1,19.17,Music,Easy,58,0.82,0.37,T049,5.61
+C0082,63,Female,High,0,17.47,Reading,Hard,56,0.81,0.92,T045,6.8
+C0144,40,Male,High,0,17.89,Music,Easy,51,0.45,0.44,T023,8.72
+C0084,52,Male,Low,0,19.28,Music,Medium,26,0.31,0.68,T042,7.61
+C0077,71,Female,High,0,10.85,Math,Hard,50,1.0,0.41,T009,3.63
+C0456,54,Female,Low,0,11.45,Art,Medium,13,0.71,0.41,T030,8.22
+C0365,62,Female,High,0,13.76,Music,Easy,55,0.43,0.48,T044,9.66
+C0000,69,Male,Medium,0,11.15,Sensory Play,Easy,12,0.5,0.93,T019,2.27
+C0050,46,Male,Low,0,24.7,Art,Medium,38,0.73,0.51,T015,0.74
+C0172,47,Male,High,0,21.28,Art,Hard,34,0.4,0.86,T013,4.27
+C0204,56,Male,Medium,0,8.29,Sensory Play,Medium,30,0.33,0.36,T002,8.81
+C0259,46,Male,High,0,5.11,Reading,Medium,21,0.86,0.24,T029,1.5
+C0445,63,Male,Medium,0,5.86,Math,Hard,10,0.8,0.83,T017,8.86
+C0448,40,Female,Medium,0,9.88,Music,Easy,10,0.52,0.63,T005,9.92
+C0368,52,Male,High,0,7.29,Reading,Medium,54,0.34,0.6,T019,0.54
+C0487,55,Male,High,0,15.67,Sensory Play,Medium,55,0.64,0.42,T034,4.95
+C0287,47,Female,Medium,0,22.16,Math,Easy,57,0.49,0.26,T018,3.29
+C0033,41,Male,Medium,0,19.74,Math,Medium,16,0.58,0.59,T025,3.94
+C0347,52,Female,Medium,0,9.31,Math,Easy,19,0.49,0.89,T034,4.52
+C0094,54,Male,Low,1,12.99,Sensory Play,Hard,24,0.42,0.3,T011,7.4
+C0071,61,Female,Medium,0,15.16,Reading,Easy,49,0.57,0.94,T007,5.91
+C0038,67,Female,Low,0,21.2,Music,Easy,20,0.98,0.42,T036,9.61
+C0153,41,Female,Medium,0,21.78,Math,Medium,55,0.49,0.63,T048,3.33
+C0249,71,Female,Low,0,23.19,Math,Easy,54,0.54,0.25,T009,5.42
+C0161,46,Female,Medium,0,15.18,Reading,Easy,32,0.53,0.54,T020,8.13
+C0437,68,Male,Medium,0,18.89,Math,Medium,22,0.64,0.3,T048,3.73
+C0117,59,Male,Medium,0,7.24,Math,Easy,36,0.89,0.24,T040,4.65
+C0258,58,Female,High,0,16.31,Sensory Play,Medium,50,0.58,0.97,T044,6.85
+C0378,50,Female,High,0,9.97,Art,Hard,26,0.86,0.78,T041,8.61
+C0305,62,Female,Medium,0,13.63,Reading,Easy,59,0.38,0.78,T028,4.16
+C0267,46,Male,Low,0,17.68,Reading,Hard,22,0.93,0.27,T030,5.32
+C0448,52,Female,Low,0,10.14,Reading,Easy,21,0.43,0.94,T039,9.75
+C0053,49,Female,Medium,0,6.04,Sensory Play,Easy,38,0.33,0.58,T006,0.42
+C0235,62,Female,High,0,5.2,Sensory Play,Hard,30,0.41,0.88,T033,4.48
+C0388,53,Female,Low,0,5.44,Music,Hard,29,0.43,0.21,T033,6.36
+C0477,63,Male,High,0,5.17,Sensory Play,Medium,29,0.66,0.44,T029,0.08
+C0221,39,Female,Low,0,7.21,Reading,Medium,40,0.61,1.0,T003,5.97
+C0250,42,Female,Medium,0,9.79,Music,Hard,17,0.8,0.54,T040,0.56
+C0312,70,Male,High,0,9.42,Art,Easy,33,0.34,0.91,T029,8.58
+C0400,44,Female,Low,1,24.74,Math,Medium,20,0.65,0.46,T024,8.07
+C0111,43,Female,Medium,0,11.12,Math,Easy,48,0.53,0.62,T013,0.32
+C0254,52,Male,Medium,1,7.55,Music,Medium,42,0.74,0.88,T023,0.49
+C0302,52,Male,Medium,0,15.91,Art,Medium,51,0.33,0.68,T042,7.54
+C0406,68,Male,High,0,22.16,Math,Medium,24,0.32,0.78,T030,3.7
+C0206,67,Female,High,0,18.56,Music,Hard,13,0.6,0.38,T038,5.75
+C0228,43,Female,Medium,0,10.92,Sensory Play,Easy,10,0.87,0.32,T027,2.7
+C0340,54,Male,High,0,16.23,Reading,Hard,41,0.77,0.38,T024,1.73
+C0397,38,Male,Low,0,19.3,Art,Medium,20,0.31,0.59,T018,2.96
+C0065,40,Male,Medium,0,19.56,Math,Hard,39,0.42,0.84,T003,2.47
+C0074,48,Female,Medium,0,18.33,Reading,Hard,46,0.46,0.48,T033,4.48
+C0434,66,Female,High,0,22.42,Music,Hard,28,0.6,0.65,T031,7.47
+C0102,51,Male,Medium,0,22.4,Math,Easy,45,0.71,0.84,T024,5.54
+C0421,67,Female,Low,0,16.58,Reading,Hard,43,0.45,0.39,T021,6.09
+C0191,57,Male,High,0,13.6,Sensory Play,Hard,16,0.57,0.91,T027,4.7
+C0251,64,Female,High,0,17.83,Art,Hard,54,0.71,0.96,T017,3.25
+C0225,57,Female,Medium,0,21.36,Music,Hard,29,0.57,0.23,T006,1.44
+C0293,38,Female,Medium,0,5.11,Math,Hard,21,0.4,0.25,T010,3.55
+C0305,45,Female,Medium,0,24.84,Sensory Play,Hard,41,0.64,0.27,T041,6.65
+C0097,56,Male,High,0,8.66,Art,Hard,11,0.53,0.82,T010,7.34
+C0337,51,Female,Medium,0,14.4,Art,Medium,31,0.9,0.35,T008,4.69
+C0285,47,Female,Low,0,22.44,Sensory Play,Hard,50,0.84,0.78,T034,6.45
+C0334,37,Male,Medium,0,9.5,Math,Hard,57,0.43,0.55,T036,2.11
+C0346,59,Female,Medium,0,14.54,Art,Easy,49,0.41,0.87,T022,8.6
+C0434,70,Male,High,0,7.65,Music,Medium,33,0.54,0.85,T032,8.66
+C0446,65,Male,Medium,0,12.9,Reading,Hard,59,0.59,0.97,T000,3.2
+C0481,65,Female,High,0,8.54,Music,Easy,40,0.95,0.4,T019,5.48
+C0307,70,Female,Medium,0,12.27,Art,Hard,13,0.51,0.38,T004,6.07
+C0248,54,Male,Low,0,12.47,Reading,Hard,33,0.91,0.23,T028,4.72
+C0165,43,Male,Low,1,24.86,Sensory Play,Hard,52,0.65,0.53,T025,9.11
+C0480,61,Male,High,0,24.9,Reading,Hard,26,0.92,0.57,T037,7.4
+C0471,42,Female,High,0,7.3,Reading,Hard,49,0.79,0.97,T002,6.73
+C0334,65,Male,Medium,0,19.52,Reading,Easy,28,0.8,0.86,T020,5.2
+C0029,42,Male,Medium,0,6.03,Art,Hard,49,0.66,0.33,T012,0.85
+C0246,38,Male,Low,0,5.6,Math,Easy,47,0.89,0.84,T030,1.08
+C0105,36,Female,Medium,0,7.11,Art,Hard,43,0.48,0.34,T016,2.99
+C0050,71,Male,Low,0,24.31,Math,Easy,56,0.94,0.26,T034,2.12
+C0080,60,Female,High,0,23.82,Sensory Play,Medium,42,0.75,0.87,T022,9.53
+C0132,36,Female,Medium,0,8.88,Sensory Play,Hard,15,0.61,0.98,T002,4.1
+C0284,50,Male,High,0,8.23,Sensory Play,Medium,45,0.99,0.27,T044,8.77
+C0387,48,Female,Medium,0,9.81,Sensory Play,Medium,22,0.9,0.85,T001,8.18
+C0137,43,Male,Low,0,15.31,Sensory Play,Medium,56,0.84,0.89,T002,8.13
+C0183,40,Female,High,0,16.39,Music,Hard,18,0.49,0.3,T019,2.16
+C0400,44,Female,High,0,9.43,Art,Medium,44,0.98,0.43,T047,4.47
+C0329,36,Male,Medium,0,20.13,Math,Easy,43,0.82,0.79,T043,3.18
+C0272,71,Male,High,0,11.19,Sensory Play,Hard,25,0.72,0.85,T008,9.7
+C0339,70,Male,Low,0,23.44,Music,Medium,27,0.95,0.48,T047,8.77
+C0471,37,Female,High,1,18.13,Music,Hard,27,0.41,0.33,T003,2.5
+C0068,58,Female,High,0,13.73,Music,Medium,47,0.4,0.72,T024,3.14
+C0033,44,Male,Medium,0,20.8,Art,Easy,59,0.69,0.76,T049,5.29
+C0261,69,Male,High,0,21.36,Sensory Play,Hard,52,0.34,0.6,T000,2.79
+C0052,49,Female,Medium,0,10.81,Music,Hard,41,0.76,0.32,T038,8.25
+C0449,39,Female,Medium,0,11.79,Music,Medium,16,0.47,0.88,T011,8.19
+C0204,65,Female,High,0,23.72,Sensory Play,Easy,32,0.38,0.72,T039,7.24
+C0125,66,Male,Low,0,8.29,Art,Hard,32,0.59,0.9,T039,6.89
+C0234,46,Female,Medium,0,5.84,Music,Medium,55,0.63,0.95,T023,5.47
+C0042,70,Male,High,0,14.08,Math,Easy,27,0.42,0.84,T008,3.47
+C0239,43,Female,Medium,0,21.02,Reading,Easy,16,0.33,0.97,T045,8.37
+C0458,38,Female,Low,0,20.43,Reading,Easy,51,0.59,0.96,T019,8.59
+C0370,49,Male,Low,0,23.39,Reading,Easy,49,0.83,0.7,T004,0.5
+C0110,48,Male,Medium,1,15.66,Art,Hard,33,0.91,0.78,T019,3.99
+C0248,67,Male,Low,0,7.0,Music,Hard,23,0.37,0.76,T020,0.27
+C0150,69,Female,High,0,16.77,Reading,Easy,59,0.67,0.7,T001,8.39
+C0182,54,Female,High,0,20.57,Reading,Medium,14,0.48,0.22,T020,1.77
+C0335,51,Female,Medium,1,6.87,Sensory Play,Medium,55,0.56,0.48,T041,6.74
+C0094,37,Male,Low,0,8.45,Music,Easy,31,0.95,0.28,T023,3.57
+C0458,52,Female,High,0,5.25,Music,Easy,31,0.55,0.44,T008,8.16
+C0373,69,Male,High,0,16.87,Sensory Play,Medium,19,0.56,0.25,T038,5.1
+C0399,51,Male,High,0,22.73,Music,Easy,35,0.45,0.94,T029,3.24
+C0007,37,Male,Medium,0,18.41,Math,Easy,24,0.97,0.56,T017,3.24
+C0387,37,Female,Medium,0,24.64,Art,Hard,47,0.62,0.35,T043,3.27
+C0359,61,Female,High,0,6.26,Sensory Play,Hard,50,0.7,0.67,T042,7.89
+C0387,48,Male,High,1,23.06,Reading,Easy,51,0.62,0.36,T009,7.11
+C0183,66,Female,Low,0,21.28,Music,Easy,58,0.48,0.84,T044,3.19
+C0280,69,Male,Low,0,11.28,Math,Hard,10,0.87,0.44,T040,4.9
+C0194,38,Male,Low,0,24.47,Math,Easy,23,0.32,0.45,T047,0.76
+C0351,43,Female,Medium,1,10.76,Art,Hard,45,0.78,0.9,T020,8.28
+C0194,58,Male,High,0,22.79,Math,Hard,40,0.72,0.65,T021,2.66
+C0154,49,Male,Medium,0,22.61,Music,Medium,37,0.4,0.91,T016,8.89
+C0092,62,Female,High,0,20.15,Music,Hard,43,0.42,0.53,T004,5.97
+C0159,64,Male,Low,0,16.27,Math,Medium,44,0.76,0.48,T005,5.68
+C0433,36,Male,Low,0,7.4,Music,Medium,48,0.52,0.6,T009,1.63
+C0060,52,Male,Low,0,15.64,Music,Hard,32,0.49,0.25,T042,0.7
+C0121,65,Male,Low,0,12.14,Reading,Easy,55,0.34,0.32,T001,5.53
+C0050,48,Male,High,0,20.84,Sensory Play,Hard,53,0.84,0.38,T006,4.68
+C0402,56,Male,Low,0,20.16,Music,Medium,28,0.92,0.85,T045,1.2
+C0276,54,Male,High,0,23.21,Music,Hard,27,0.87,0.79,T003,8.36
+C0004,54,Female,High,0,5.3,Art,Hard,24,0.63,0.35,T036,4.17
+C0465,60,Female,Medium,0,21.18,Sensory Play,Medium,10,0.67,0.42,T018,2.6
+C0091,57,Male,Low,0,23.77,Sensory Play,Hard,34,0.47,0.96,T027,7.88
+C0169,66,Male,Low,0,20.79,Sensory Play,Hard,35,0.42,0.27,T019,9.13
+C0316,52,Female,Medium,0,7.6,Math,Medium,44,0.88,0.64,T029,3.06
+C0021,58,Female,High,0,6.63,Reading,Easy,24,0.86,0.62,T041,7.76
+C0404,67,Female,Low,0,5.42,Reading,Medium,13,0.84,0.78,T037,6.53
+C0325,45,Female,High,0,17.57,Art,Medium,24,0.62,0.41,T001,9.9
+C0000,45,Female,Medium,0,17.59,Sensory Play,Hard,51,0.91,0.95,T002,2.04
+C0132,71,Male,High,1,24.74,Sensory Play,Medium,47,0.95,0.53,T046,9.61
+C0232,43,Female,Low,0,12.96,Music,Hard,54,0.53,0.43,T041,3.15
+C0011,55,Female,High,0,11.64,Math,Hard,48,0.46,0.47,T048,4.12
+C0345,67,Female,High,0,17.49,Math,Hard,10,0.62,0.48,T038,3.59
+C0045,49,Male,Low,1,21.51,Art,Medium,31,0.43,0.36,T024,2.68
+C0033,63,Male,Low,0,23.74,Reading,Medium,20,0.92,0.94,T001,6.93
+C0432,59,Male,High,0,21.06,Sensory Play,Hard,55,0.54,0.34,T038,5.89
+C0077,50,Male,High,0,13.53,Art,Easy,47,0.7,0.91,T014,3.06
+C0217,57,Male,Medium,0,17.7,Math,Easy,46,0.72,0.52,T002,1.32
+C0300,65,Male,Low,0,22.13,Math,Medium,35,0.66,0.42,T004,3.17
+C0410,39,Female,High,0,14.81,Math,Hard,36,0.41,0.36,T039,3.81
+C0072,48,Male,Low,0,9.33,Sensory Play,Hard,22,0.99,0.6,T035,3.81
+C0281,58,Male,Medium,0,8.39,Sensory Play,Medium,16,0.42,0.74,T049,3.57
+C0248,43,Female,High,0,5.0,Sensory Play,Easy,17,0.83,0.92,T039,0.49
+C0046,53,Male,High,0,19.36,Music,Medium,55,0.85,0.72,T037,4.64
+C0120,47,Female,High,0,7.22,Reading,Medium,32,0.4,0.59,T036,8.36
+C0213,66,Female,Low,0,9.88,Math,Hard,35,0.95,0.23,T026,1.8
+C0238,49,Male,Medium,0,10.96,Math,Medium,53,0.64,0.93,T004,1.46
+C0055,69,Female,Low,0,16.21,Music,Easy,36,0.74,0.92,T016,4.72
+C0349,53,Female,High,0,12.96,Math,Medium,18,0.75,0.5,T037,3.71
+C0106,69,Female,Medium,0,18.49,Math,Hard,55,0.65,0.22,T044,5.61
+C0318,46,Female,High,0,6.11,Sensory Play,Easy,47,0.4,0.79,T040,9.47
+C0047,47,Male,High,1,7.48,Sensory Play,Hard,56,0.83,0.83,T011,7.61
+C0060,50,Female,Low,0,14.98,Reading,Medium,22,0.71,0.63,T041,6.87
+C0336,66,Male,High,0,11.74,Math,Medium,16,0.38,0.52,T030,4.16
+C0025,64,Female,Medium,0,10.92,Art,Medium,20,0.79,0.88,T032,2.87
+C0291,61,Female,High,0,6.34,Math,Hard,19,0.79,0.35,T042,5.4
+C0256,53,Female,High,0,22.91,Math,Medium,42,0.68,0.55,T028,8.85
+C0007,67,Male,Low,0,18.84,Reading,Easy,48,0.36,0.22,T037,8.77
+C0112,57,Male,Medium,1,7.43,Art,Easy,59,0.55,0.33,T002,4.46
+C0354,52,Male,Low,0,6.3,Math,Hard,12,0.34,0.95,T037,2.46
+C0252,58,Female,High,1,24.5,Art,Hard,50,0.63,0.66,T040,2.25
+C0179,59,Female,Low,0,18.62,Sensory Play,Hard,38,0.93,0.84,T039,0.34
+C0206,43,Female,Low,0,13.35,Sensory Play,Medium,46,0.3,0.59,T029,8.43
+C0302,41,Female,Low,0,19.03,Art,Easy,54,0.49,0.87,T046,2.65
+C0126,40,Male,Low,0,20.13,Math,Easy,25,0.86,0.63,T021,3.59
+C0055,64,Female,High,0,20.6,Art,Easy,25,0.31,0.2,T037,8.09
+C0213,63,Male,High,0,14.56,Art,Hard,53,0.31,0.92,T031,1.2
+C0013,46,Female,Medium,0,13.6,Sensory Play,Hard,59,0.73,0.32,T042,4.61
+C0473,36,Male,Low,1,5.22,Art,Medium,52,0.85,0.56,T009,1.22
+C0027,54,Male,Low,0,23.53,Music,Hard,58,0.84,0.58,T031,4.42
+C0470,44,Female,Medium,0,17.07,Music,Easy,16,0.85,0.24,T042,0.47
+C0077,62,Female,Low,0,9.06,Sensory Play,Medium,24,0.55,0.24,T003,5.18
+C0215,69,Male,Medium,0,23.39,Math,Hard,47,0.92,0.81,T028,7.96
+C0385,39,Female,High,0,23.3,Math,Hard,15,0.31,0.44,T044,6.76
+C0364,71,Female,Medium,0,24.78,Sensory Play,Easy,27,0.52,0.53,T007,5.09
+C0153,53,Male,Low,0,22.48,Math,Medium,28,0.54,0.65,T019,8.29
+C0013,50,Male,Medium,0,24.96,Reading,Hard,11,0.42,0.5,T046,2.28
+C0186,48,Male,High,0,9.89,Music,Hard,12,0.54,0.82,T006,8.31
+C0311,54,Male,Low,0,21.84,Reading,Medium,55,0.71,0.91,T000,2.76
+C0370,41,Female,High,0,21.46,Reading,Medium,34,0.66,0.25,T024,3.62
+C0006,47,Male,High,0,9.62,Reading,Hard,45,0.52,0.71,T025,1.28
+C0002,52,Male,Medium,0,6.97,Sensory Play,Hard,58,0.82,0.45,T008,1.02
+C0110,58,Male,High,0,24.59,Reading,Easy,37,0.8,0.67,T022,9.32
+C0406,61,Female,Low,0,10.92,Art,Medium,47,0.5,0.59,T039,1.9
+C0237,64,Male,High,0,22.42,Math,Hard,37,0.53,0.47,T001,3.33
+C0362,68,Female,High,0,5.08,Sensory Play,Hard,41,0.5,0.28,T025,5.29
+C0238,62,Male,Medium,0,5.42,Art,Hard,50,0.39,0.65,T013,3.48
+C0492,60,Male,High,0,14.32,Art,Hard,45,0.83,0.29,T043,8.7
+C0273,45,Female,Medium,1,9.77,Music,Easy,48,0.33,0.32,T030,9.01
+C0293,58,Male,Medium,0,18.8,Music,Medium,45,0.41,0.99,T025,3.26
+C0226,56,Male,Low,0,16.31,Art,Hard,52,0.37,0.45,T048,0.92
+C0370,56,Female,Low,0,6.55,Music,Medium,32,0.88,0.67,T018,2.1
+C0014,48,Male,Low,0,8.25,Math,Medium,11,0.33,0.42,T037,4.74
+C0191,68,Male,Low,0,12.76,Math,Hard,19,0.77,0.89,T004,2.88
+C0472,59,Male,Medium,0,8.71,Music,Hard,15,0.33,0.43,T005,4.53
+C0118,46,Male,High,0,20.84,Reading,Hard,17,0.85,0.49,T034,7.59
+C0484,52,Female,Low,0,13.32,Art,Easy,24,0.94,0.69,T015,4.21
+C0027,39,Male,Low,0,6.87,Math,Hard,54,0.64,0.9,T030,1.97
+C0201,60,Female,Low,0,14.69,Music,Medium,38,0.86,0.85,T017,3.58
+C0038,65,Male,High,0,6.82,Music,Medium,37,0.79,0.41,T013,7.43
+C0440,44,Female,Low,0,7.58,Math,Easy,31,0.86,0.86,T024,4.24
+C0272,56,Male,High,0,9.79,Math,Hard,43,0.84,0.76,T014,2.5
+C0230,55,Female,Medium,1,22.19,Reading,Hard,29,0.44,0.99,T025,4.27
+C0085,54,Male,Medium,0,23.49,Music,Easy,42,0.65,0.95,T035,4.55
+C0473,54,Female,Medium,0,21.53,Music,Easy,24,0.97,0.63,T010,2.96
+C0125,47,Female,High,0,11.68,Sensory Play,Hard,16,0.54,0.8,T036,9.96
+C0299,52,Male,Low,1,10.45,Reading,Hard,33,0.98,0.66,T040,7.68
+C0024,63,Female,Low,0,15.98,Math,Medium,35,0.71,0.68,T036,6.92
+C0144,70,Male,Low,0,19.44,Math,Hard,59,0.62,0.28,T006,8.55
+C0012,53,Male,Low,0,24.87,Art,Hard,19,0.76,0.2,T017,6.66
+C0211,49,Male,Low,0,7.63,Math,Medium,24,0.87,0.24,T049,7.91
+C0024,70,Male,High,0,5.99,Music,Medium,46,0.58,0.97,T019,4.13
+C0067,42,Male,Medium,0,18.89,Math,Medium,33,0.32,0.3,T001,5.0
+C0393,48,Female,Low,0,21.64,Music,Medium,20,0.8,0.24,T025,0.47
+C0066,53,Male,Medium,0,21.93,Music,Easy,49,0.97,0.45,T022,2.81
+C0232,48,Male,High,0,18.57,Reading,Medium,30,0.74,0.67,T031,3.68
+C0108,71,Male,High,0,24.08,Math,Easy,49,0.43,0.96,T012,6.25
+C0145,66,Male,Low,0,15.22,Reading,Medium,47,0.47,0.76,T012,4.64
+C0110,37,Male,High,0,23.28,Music,Medium,24,0.94,0.42,T016,6.08
+C0227,51,Male,Medium,0,24.36,Math,Medium,24,0.31,0.95,T024,7.13
+C0110,44,Female,Low,0,21.94,Math,Hard,46,0.68,0.23,T021,0.43
+C0469,44,Female,Low,0,11.2,Reading,Easy,54,0.41,0.98,T026,2.58
+C0033,46,Male,Medium,0,8.92,Reading,Medium,23,0.5,0.25,T016,1.71
+C0110,57,Female,Low,0,15.96,Music,Hard,52,0.51,0.8,T025,1.87
+C0263,68,Male,Low,0,14.06,Music,Easy,30,0.45,0.24,T037,5.03
+C0423,71,Male,Medium,0,22.56,Math,Easy,53,0.85,0.95,T013,7.4
+C0368,58,Male,Low,0,7.0,Math,Hard,29,0.53,0.29,T013,2.73
+C0235,69,Male,Low,0,10.15,Sensory Play,Easy,42,0.54,0.24,T011,8.24
+C0082,44,Male,Medium,0,20.04,Sensory Play,Hard,12,0.62,0.91,T004,8.92
+C0041,59,Female,High,0,6.9,Art,Medium,49,0.93,0.28,T036,3.51
+C0424,43,Female,Medium,0,11.42,Music,Hard,32,0.78,0.84,T003,6.81
+C0100,42,Female,Low,0,12.74,Art,Easy,53,0.34,0.8,T028,1.17
+C0005,71,Female,Medium,0,17.45,Art,Easy,56,0.33,0.68,T024,7.44
+C0179,53,Male,Low,0,8.16,Reading,Medium,32,0.7,0.5,T044,1.65
+C0281,38,Female,Low,0,22.21,Reading,Hard,36,0.92,0.93,T003,6.87
+C0319,63,Male,Medium,0,13.95,Sensory Play,Medium,44,0.53,0.9,T049,4.22
+C0225,41,Female,Low,0,23.34,Art,Hard,34,0.47,0.54,T015,9.28
+C0442,56,Female,High,0,14.36,Sensory Play,Hard,41,0.82,0.39,T049,4.64
+C0439,63,Female,Low,0,10.5,Music,Hard,31,0.72,0.42,T001,0.31
+C0314,36,Female,Medium,0,7.84,Math,Medium,17,0.7,0.38,T022,4.81
+C0364,71,Male,High,0,5.07,Reading,Medium,47,0.4,0.63,T003,7.95
+C0453,56,Female,High,0,15.64,Music,Easy,27,0.42,0.89,T019,6.47
+C0228,70,Female,Low,0,7.14,Music,Medium,37,0.5,0.82,T016,9.66
+C0376,48,Male,Medium,0,12.83,Reading,Hard,37,0.44,0.84,T005,8.43
+C0288,45,Male,Low,0,16.79,Reading,Hard,20,0.98,0.56,T017,5.27
+C0436,45,Female,Low,0,10.51,Art,Hard,21,0.31,0.46,T019,2.07
+C0149,48,Male,Medium,1,8.5,Sensory Play,Medium,11,0.74,0.81,T038,0.04
+C0276,59,Male,Medium,0,20.49,Music,Easy,46,0.66,0.83,T044,9.81
+C0197,37,Male,Low,0,23.94,Art,Medium,13,0.53,0.76,T040,9.38
+C0069,57,Female,High,0,7.01,Art,Easy,50,0.92,0.23,T033,2.74
+C0111,52,Male,Low,0,8.11,Music,Medium,54,0.77,0.67,T039,6.38
+C0003,71,Female,High,0,24.2,Music,Hard,54,1.0,0.48,T045,7.29
+C0349,49,Female,Low,0,5.76,Math,Easy,56,0.42,0.36,T023,5.78
+C0330,45,Female,Medium,0,24.55,Sensory Play,Medium,43,0.36,0.76,T017,8.43
+C0445,70,Female,High,0,5.09,Music,Hard,32,0.4,0.41,T029,0.78
+C0317,60,Male,Medium,0,22.47,Reading,Easy,22,0.49,0.93,T000,8.96
+C0349,38,Female,Medium,1,11.15,Math,Easy,16,0.59,0.44,T022,3.92
+C0094,52,Male,Medium,0,23.77,Sensory Play,Hard,41,0.9,0.64,T028,4.81
+C0151,47,Female,Medium,1,11.34,Reading,Hard,32,0.5,0.86,T040,4.45
+C0310,59,Male,Medium,1,18.09,Reading,Medium,58,0.94,0.52,T040,5.31
+C0136,64,Female,Low,0,6.6,Sensory Play,Medium,17,0.62,0.86,T031,5.98
+C0246,60,Male,High,0,9.85,Math,Hard,59,0.75,0.78,T001,7.1
+C0386,71,Female,Low,0,20.47,Reading,Medium,56,0.49,0.94,T047,5.25
+C0242,61,Female,Low,0,15.57,Art,Hard,56,0.41,0.46,T035,6.85
+C0030,36,Male,Low,0,23.56,Sensory Play,Hard,46,0.91,0.28,T044,3.38
+C0039,55,Female,Medium,0,13.58,Sensory Play,Medium,43,0.38,0.54,T016,9.37
+C0228,63,Female,Low,0,22.4,Music,Medium,57,0.84,0.83,T042,0.65
+C0035,51,Female,High,0,13.98,Math,Easy,38,0.71,0.56,T001,5.46
+C0407,52,Male,Low,0,24.58,Art,Easy,46,0.9,0.41,T003,0.87
+C0222,63,Female,Medium,0,24.2,Art,Medium,32,0.8,0.22,T043,4.43
+C0005,47,Female,High,0,11.58,Music,Medium,47,0.5,0.45,T033,2.58
+C0321,62,Male,High,0,22.72,Reading,Medium,38,0.7,0.77,T000,9.37
+C0467,65,Male,High,0,21.95,Reading,Easy,53,0.31,0.32,T022,0.13
+C0219,69,Male,High,0,9.21,Art,Medium,14,0.63,0.47,T005,3.91
+C0074,41,Male,Low,0,17.49,Math,Easy,49,0.36,0.22,T015,7.82
+C0003,42,Male,Medium,0,6.45,Reading,Easy,20,0.6,0.78,T001,1.88
+C0334,67,Female,High,0,21.73,Sensory Play,Easy,23,0.38,0.9,T045,8.16
+C0133,67,Female,High,0,8.49,Music,Easy,58,0.97,0.65,T011,8.6
+C0117,60,Female,Medium,0,6.42,Math,Hard,51,0.67,0.22,T026,7.08
+C0368,68,Male,Low,0,13.0,Reading,Medium,11,0.94,0.37,T018,2.09
+C0093,42,Female,High,0,16.54,Art,Medium,44,0.32,0.55,T027,2.72
+C0485,47,Male,Low,0,22.1,Music,Hard,54,0.75,0.67,T034,1.67
+C0434,51,Male,Low,0,24.48,Reading,Medium,58,0.51,0.6,T042,1.84
+C0061,51,Female,Low,0,13.79,Art,Easy,44,0.6,0.93,T003,0.36
+C0440,71,Male,Low,0,6.21,Reading,Hard,51,0.91,0.95,T048,8.57
+C0193,48,Male,High,0,19.98,Music,Easy,37,0.99,0.29,T048,5.29
+C0334,42,Female,High,0,16.3,Sensory Play,Hard,17,0.47,0.31,T006,3.28
+C0202,71,Male,Low,1,13.96,Sensory Play,Easy,41,0.96,0.49,T036,2.9
+C0391,44,Male,Low,0,11.19,Art,Medium,13,0.78,0.54,T024,5.45
+C0025,67,Female,Medium,0,15.05,Sensory Play,Medium,54,0.97,0.67,T040,3.27
+C0434,46,Male,Medium,0,11.77,Music,Medium,16,0.69,0.82,T016,8.64
+C0172,43,Male,Medium,0,20.14,Art,Hard,48,0.97,0.31,T040,2.11
+C0299,68,Female,High,0,15.88,Reading,Medium,57,0.92,0.84,T013,8.82
+C0132,58,Female,Medium,0,22.54,Math,Hard,36,0.39,0.69,T036,6.64
+C0325,60,Female,High,0,15.87,Reading,Easy,46,0.52,0.98,T001,9.57
+C0409,43,Female,High,0,9.77,Music,Medium,26,0.47,0.72,T023,0.15
+C0117,57,Male,High,0,22.02,Art,Easy,19,0.7,0.77,T014,0.59
+C0323,39,Male,High,0,16.14,Reading,Medium,13,0.86,0.36,T047,5.01
+C0274,38,Female,Medium,0,9.14,Art,Easy,32,0.83,0.82,T032,9.12
+C0211,64,Male,Low,0,17.47,Sensory Play,Hard,23,0.81,0.26,T011,7.31
+C0224,64,Male,Low,0,12.15,Math,Medium,14,0.56,0.73,T018,6.22
+C0019,69,Female,Low,1,21.89,Music,Hard,11,0.4,0.24,T046,0.32
+C0112,69,Female,Medium,0,14.07,Reading,Hard,55,0.45,0.29,T004,3.54
+C0139,63,Male,Low,0,19.53,Math,Easy,33,0.82,0.29,T000,3.46
+C0046,48,Female,Medium,0,6.91,Music,Medium,27,0.4,0.24,T042,5.42
+C0000,50,Female,Medium,0,12.92,Music,Hard,36,0.46,0.46,T008,2.58
+C0089,58,Female,Medium,0,24.66,Sensory Play,Easy,33,0.6,1.0,T038,2.67
+C0141,61,Male,Low,1,21.17,Art,Easy,38,0.35,0.48,T033,6.21
+C0319,39,Female,Low,0,8.2,Art,Easy,20,0.45,0.81,T028,9.45
+C0037,61,Male,Low,0,10.56,Math,Medium,57,0.4,0.31,T048,6.6
+C0292,44,Male,High,0,11.6,Sensory Play,Medium,27,0.97,0.56,T047,6.68
+C0381,40,Male,Medium,0,18.01,Music,Easy,57,0.43,0.35,T047,9.86
+C0138,67,Female,High,0,20.14,Sensory Play,Medium,13,0.9,0.35,T045,1.53
+C0355,55,Female,Medium,0,19.99,Sensory Play,Easy,42,0.38,0.28,T001,0.34
+C0332,46,Female,Low,1,15.2,Math,Medium,23,0.91,0.55,T018,7.46
+C0490,50,Female,Medium,0,21.22,Art,Medium,53,0.72,0.26,T027,4.39
+C0258,67,Female,Medium,0,13.74,Sensory Play,Easy,51,0.89,0.93,T034,4.29
+C0160,63,Male,High,0,7.48,Sensory Play,Easy,41,0.91,0.56,T039,2.25
+C0389,57,Male,Medium,0,16.29,Sensory Play,Medium,13,0.72,0.87,T047,5.07
+C0177,52,Male,Low,1,24.05,Reading,Easy,29,0.94,0.98,T021,4.42
+C0009,61,Female,Medium,0,20.86,Sensory Play,Easy,30,0.71,0.74,T003,3.45
+C0260,42,Male,Medium,0,16.57,Sensory Play,Easy,12,0.8,0.92,T007,4.43
+C0406,61,Male,Medium,0,17.94,Music,Easy,34,0.59,0.31,T000,3.84
+C0137,60,Female,High,0,23.61,Reading,Medium,13,0.94,0.86,T035,9.4
+C0171,45,Female,Medium,0,13.57,Sensory Play,Hard,56,0.88,0.42,T006,9.8
+C0385,54,Male,Medium,0,11.63,Sensory Play,Medium,20,0.42,0.58,T024,8.4
+C0012,46,Male,High,0,24.54,Math,Easy,25,0.7,0.72,T028,9.9
+C0167,48,Female,High,0,22.27,Math,Easy,45,0.93,0.92,T000,2.66
+C0129,43,Female,High,0,11.46,Reading,Medium,15,0.86,0.93,T017,8.43
+C0083,39,Female,High,0,14.28,Music,Easy,40,0.97,0.27,T003,4.07
+C0320,66,Female,Low,0,13.3,Reading,Medium,49,0.46,0.49,T019,7.46
+C0318,63,Male,Low,0,7.98,Reading,Hard,22,0.56,0.83,T045,2.01
+C0100,46,Male,Medium,0,24.16,Math,Easy,32,0.66,0.76,T007,8.12
+C0328,36,Female,Low,0,13.09,Math,Hard,13,0.46,0.22,T026,0.83
+C0272,59,Male,Medium,0,22.51,Music,Hard,46,0.58,0.56,T049,2.71
+C0264,66,Male,Low,0,8.79,Sensory Play,Easy,51,0.68,0.86,T038,8.22
+C0458,61,Female,High,0,15.96,Music,Easy,46,0.43,0.79,T034,7.47
+C0398,40,Male,High,0,5.48,Sensory Play,Medium,53,0.48,0.53,T024,5.01
+C0407,55,Male,Low,0,20.28,Art,Medium,42,0.39,0.79,T013,6.73
+C0037,46,Male,Low,0,16.62,Math,Easy,51,0.8,0.64,T043,1.86
+C0418,68,Female,Medium,0,17.51,Art,Medium,38,0.55,0.93,T046,6.68
+C0093,62,Female,Medium,0,6.03,Art,Hard,46,0.45,0.67,T039,0.08
+C0094,69,Male,Medium,0,9.22,Math,Hard,28,0.66,0.52,T030,8.33
+C0304,50,Female,High,0,6.49,Art,Easy,29,0.35,0.89,T004,5.16
+C0068,67,Female,High,0,10.78,Reading,Medium,41,0.95,0.24,T016,9.44
+C0317,56,Female,High,0,17.55,Sensory Play,Easy,53,0.51,0.92,T009,4.78
+C0443,40,Male,High,1,16.32,Music,Hard,25,0.92,0.76,T042,4.33
+C0235,41,Male,Medium,0,17.24,Math,Easy,14,0.65,0.95,T015,4.5
+C0433,57,Female,High,0,15.99,Reading,Easy,58,0.9,0.4,T047,3.6
+C0333,53,Male,High,0,10.46,Music,Easy,55,0.47,0.76,T003,1.67
+C0372,49,Male,High,0,9.89,Music,Easy,21,0.42,0.85,T004,8.42
+C0375,45,Male,High,0,7.74,Music,Hard,54,0.89,0.76,T041,3.89
+C0458,48,Male,Low,0,21.98,Art,Easy,30,0.45,0.37,T045,5.29
+C0136,66,Male,Medium,0,17.33,Art,Easy,23,0.82,0.42,T040,0.2
+C0417,65,Female,Medium,0,8.73,Art,Medium,46,0.54,0.65,T049,0.6
+C0075,38,Male,High,0,8.54,Art,Easy,31,0.82,0.56,T019,5.97
+C0482,65,Male,Low,0,22.46,Reading,Medium,39,0.94,0.79,T005,8.79
+C0034,41,Male,Medium,1,19.85,Art,Easy,32,0.99,0.5,T010,4.93
+C0000,64,Female,Medium,0,18.19,Math,Medium,14,0.55,0.89,T016,1.65
+C0295,43,Female,High,0,13.14,Music,Easy,38,0.56,0.55,T040,1.16
+C0319,68,Female,High,0,10.24,Reading,Medium,39,0.99,0.23,T002,9.0
+C0405,52,Male,Medium,0,24.59,Art,Easy,27,0.9,0.21,T015,7.02
+C0059,46,Female,Medium,0,20.94,Music,Easy,55,0.33,0.72,T035,9.66
+C0319,48,Female,Low,0,11.04,Reading,Medium,59,0.7,0.63,T025,0.82
+C0348,46,Female,Medium,0,21.95,Music,Easy,10,0.43,0.63,T023,9.03
+C0327,66,Female,Medium,0,20.18,Reading,Easy,48,1.0,0.83,T046,8.46
+C0266,63,Male,High,0,10.94,Sensory Play,Easy,26,0.4,0.5,T033,8.93
+C0360,41,Female,Medium,0,13.53,Reading,Easy,12,0.69,1.0,T019,0.06
+C0228,51,Female,High,0,8.72,Art,Hard,51,0.77,0.96,T016,7.42
+C0269,39,Male,Medium,1,7.22,Music,Easy,16,0.96,0.21,T019,5.49
+C0315,70,Male,Medium,0,19.46,Music,Hard,36,0.89,0.92,T015,5.73
+C0285,61,Female,Medium,0,10.35,Music,Hard,37,0.47,0.74,T048,4.69
+C0290,47,Male,Low,0,21.4,Math,Easy,53,0.7,0.6,T003,7.43
+C0212,46,Female,High,0,24.91,Math,Medium,40,0.97,0.67,T017,10.0
+C0164,60,Male,Low,0,6.53,Art,Medium,24,0.82,0.87,T035,7.11
+C0004,53,Male,Medium,0,14.46,Sensory Play,Easy,57,0.78,0.96,T034,6.78
+C0338,54,Female,Low,1,21.04,Math,Hard,17,0.83,0.65,T029,6.54
+C0378,58,Male,High,1,20.78,Reading,Medium,15,0.53,0.35,T017,6.95
+C0077,53,Female,Medium,0,20.2,Art,Easy,37,0.81,0.71,T020,3.42
+C0409,61,Male,Low,0,11.98,Sensory Play,Easy,13,0.46,0.26,T031,3.2
+C0061,41,Female,Low,0,14.08,Reading,Hard,39,0.6,0.71,T004,7.84
+C0131,39,Male,High,0,16.9,Music,Medium,52,0.92,0.85,T040,0.53
+C0088,64,Male,Low,0,24.48,Math,Easy,26,0.31,0.48,T022,7.59
+C0236,69,Male,High,0,11.55,Reading,Medium,43,0.59,0.26,T029,8.14
+C0041,52,Male,Medium,1,23.46,Sensory Play,Easy,15,0.49,0.75,T026,5.22
+C0088,51,Male,Medium,0,10.39,Art,Easy,45,0.44,0.47,T014,9.1
+C0401,37,Female,Low,0,24.78,Reading,Easy,44,0.89,0.4,T040,4.73
+C0295,69,Male,Medium,0,18.41,Art,Hard,48,0.79,0.75,T013,1.78
+C0327,43,Female,Medium,1,14.27,Music,Hard,48,0.38,0.98,T020,3.61
+C0294,48,Female,Low,0,17.27,Sensory Play,Hard,25,0.65,0.8,T033,9.06
+C0103,43,Female,Medium,0,10.45,Sensory Play,Medium,11,0.63,0.59,T025,9.94
+C0013,65,Male,Low,0,10.48,Math,Hard,17,0.4,0.68,T024,4.22
+C0287,67,Female,High,0,7.27,Sensory Play,Hard,24,0.86,0.31,T049,1.67
+C0178,71,Male,High,0,7.28,Reading,Medium,36,0.56,0.85,T044,2.86
+C0124,65,Female,High,0,11.95,Reading,Medium,25,0.83,0.68,T030,5.53
+C0421,36,Female,Low,0,20.26,Reading,Medium,10,0.43,0.97,T047,5.72
+C0352,52,Female,Low,0,17.16,Music,Medium,19,0.52,0.98,T005,6.3
+C0022,55,Female,Medium,0,7.05,Sensory Play,Hard,16,0.37,0.48,T047,8.35
+C0062,59,Female,Medium,0,22.04,Sensory Play,Hard,57,0.4,0.99,T003,7.11
+C0142,57,Male,Medium,0,17.03,Reading,Medium,19,0.92,0.97,T023,2.61
+C0480,64,Female,Medium,0,24.22,Math,Hard,21,0.38,0.71,T041,3.95
+C0152,57,Female,Medium,1,18.4,Math,Easy,26,0.37,0.47,T030,8.4
+C0144,44,Male,Low,0,8.5,Sensory Play,Hard,54,0.96,0.8,T018,6.33
+C0224,45,Male,Low,0,14.48,Sensory Play,Easy,21,0.75,0.42,T010,1.66
+C0494,71,Male,High,0,17.97,Art,Medium,24,0.37,0.7,T028,3.26
+C0449,63,Female,High,0,5.57,Sensory Play,Medium,55,0.98,0.22,T004,7.91
+C0461,63,Female,High,0,5.3,Reading,Hard,41,0.4,0.7,T017,1.72
+C0308,56,Female,High,0,7.59,Music,Medium,41,0.84,0.96,T002,6.91
+C0103,59,Female,Low,0,10.03,Sensory Play,Hard,35,0.32,0.39,T039,5.64
+C0103,37,Female,Low,0,13.59,Sensory Play,Hard,23,0.74,0.82,T010,1.47
+C0434,43,Female,Low,0,14.75,Reading,Hard,59,0.68,0.43,T020,6.89
+C0038,62,Male,Medium,0,7.76,Art,Hard,35,0.45,0.77,T029,1.42
+C0434,57,Male,Medium,0,18.47,Sensory Play,Easy,14,0.75,0.76,T018,3.98
+C0197,62,Female,High,0,16.92,Math,Easy,47,0.73,0.35,T024,3.09
+C0133,64,Female,Medium,0,10.89,Math,Medium,59,0.86,0.68,T034,6.9
+C0066,38,Female,Low,1,5.27,Math,Easy,55,0.91,0.89,T011,7.82
+C0390,48,Female,High,0,6.55,Music,Medium,13,0.66,0.51,T046,1.68
+C0178,45,Female,High,0,12.83,Music,Medium,37,0.64,0.77,T025,8.12
+C0455,71,Male,Medium,0,8.08,Sensory Play,Hard,10,0.74,0.74,T047,0.07
+C0041,44,Male,High,1,12.54,Sensory Play,Hard,22,0.81,0.41,T004,5.3
+C0447,62,Female,Medium,0,17.56,Sensory Play,Hard,52,0.55,0.93,T018,5.17
+C0499,69,Male,Medium,0,15.94,Music,Hard,12,0.65,0.65,T026,6.24
+C0014,36,Female,High,0,9.62,Sensory Play,Hard,58,0.71,0.48,T037,2.4
+C0110,67,Female,Medium,1,11.88,Reading,Hard,59,0.99,0.33,T028,0.1
+C0156,60,Female,Medium,0,17.28,Art,Easy,34,0.71,0.58,T011,4.55
+C0288,64,Male,Medium,0,22.22,Math,Medium,51,0.46,0.78,T018,0.71
+C0499,42,Male,Medium,0,20.06,Math,Medium,25,0.71,0.7,T008,8.92
+C0477,38,Female,High,0,16.07,Reading,Hard,30,0.87,0.78,T017,1.74
+C0230,55,Male,Low,0,12.25,Sensory Play,Easy,22,0.9,0.83,T028,4.25
+C0410,55,Male,Low,0,12.3,Music,Hard,53,0.86,0.55,T002,4.34
+C0419,65,Female,Medium,0,22.59,Sensory Play,Easy,45,0.92,0.62,T022,5.53
+C0156,70,Male,Medium,0,5.78,Sensory Play,Easy,17,0.53,0.99,T029,7.83
+C0037,70,Male,Medium,0,24.76,Math,Medium,53,0.66,0.97,T045,4.72
+C0440,62,Female,Low,0,18.29,Math,Medium,28,0.85,0.53,T023,0.26
+C0096,61,Female,Medium,0,18.62,Music,Easy,56,0.49,0.75,T036,7.71
+C0484,49,Male,High,0,5.76,Math,Medium,25,0.56,0.41,T036,0.82
+C0410,52,Female,High,0,17.11,Sensory Play,Easy,21,0.88,0.32,T003,6.42
+C0438,53,Male,High,0,14.7,Reading,Easy,29,0.84,0.81,T027,8.03
+C0288,64,Female,Low,0,7.12,Music,Easy,27,0.98,0.55,T015,2.83
+C0253,55,Female,Medium,0,10.56,Reading,Medium,21,1.0,0.34,T012,4.49
+C0195,62,Female,Medium,0,22.81,Sensory Play,Hard,57,0.47,0.81,T007,0.14
+C0085,53,Female,Medium,0,16.0,Music,Medium,34,0.93,0.93,T047,8.04
+C0321,39,Male,Low,0,13.27,Reading,Hard,20,0.37,0.95,T024,7.03
+C0009,36,Female,Low,0,6.45,Music,Medium,31,0.8,0.68,T001,2.31
+C0004,36,Female,Low,0,19.28,Sensory Play,Medium,55,0.45,0.58,T029,3.9
+C0122,61,Female,Low,0,19.06,Music,Hard,43,0.51,0.31,T039,6.95
+C0329,55,Male,High,0,17.28,Sensory Play,Easy,22,0.96,0.83,T002,3.58
+C0352,58,Male,Low,1,15.21,Music,Hard,55,0.48,0.96,T022,1.62
+C0117,45,Female,Low,0,13.68,Music,Easy,47,0.77,0.91,T028,5.19
+C0293,46,Female,Low,1,16.87,Math,Easy,21,0.42,0.8,T040,7.24
+C0396,40,Female,Medium,0,9.67,Sensory Play,Medium,48,0.37,0.2,T029,3.21
+C0158,36,Female,Medium,1,23.83,Art,Medium,45,0.54,0.53,T010,1.22
+C0302,52,Female,Medium,0,16.78,Music,Medium,37,0.74,0.53,T020,8.3
+C0227,57,Female,High,0,11.22,Reading,Medium,36,0.47,0.92,T026,2.53
+C0364,69,Male,High,0,13.99,Math,Medium,48,0.51,0.25,T023,5.13
+C0215,64,Female,Low,0,21.11,Math,Hard,22,0.8,0.62,T030,6.91
+C0435,39,Female,Medium,1,8.23,Music,Hard,52,0.37,0.31,T029,3.17
+C0183,40,Female,High,0,10.86,Art,Hard,49,0.61,0.73,T000,6.49
+C0014,46,Female,Medium,0,18.59,Math,Hard,36,0.96,0.83,T000,4.6
+C0156,56,Female,High,1,11.31,Sensory Play,Medium,40,0.58,0.71,T007,5.7
+C0135,70,Female,High,0,20.85,Music,Hard,11,0.6,0.84,T047,5.91
+C0260,47,Male,Low,0,7.61,Music,Hard,27,0.82,0.69,T041,8.24
+C0156,61,Male,Low,0,20.25,Art,Easy,35,0.85,0.35,T033,6.56
+C0046,54,Male,High,1,6.37,Sensory Play,Medium,51,0.84,0.51,T015,2.64
+C0323,42,Male,Low,0,5.25,Sensory Play,Hard,40,1.0,0.97,T026,0.6
+C0331,42,Male,High,0,22.96,Art,Hard,47,0.35,0.43,T003,0.02
+C0172,61,Male,High,0,16.63,Reading,Hard,31,0.99,0.25,T018,9.04
+C0129,40,Female,Medium,0,12.04,Sensory Play,Medium,45,0.97,0.51,T028,9.42
+C0410,56,Female,Low,0,9.65,Reading,Hard,28,0.9,0.49,T040,0.94
+C0094,49,Female,Low,1,17.34,Reading,Easy,23,0.62,0.58,T002,4.87
+C0114,39,Female,Low,1,15.18,Music,Medium,23,0.91,0.65,T010,1.52
+C0242,58,Female,Medium,0,24.83,Music,Easy,59,0.45,0.99,T007,9.49
+C0419,55,Female,Medium,0,24.66,Math,Medium,38,0.85,0.8,T038,2.47
+C0291,50,Male,Medium,0,17.7,Music,Hard,26,0.43,0.23,T032,5.02
+C0281,64,Female,Low,0,13.86,Sensory Play,Medium,59,0.87,0.77,T007,1.66
+C0298,43,Male,Low,0,14.82,Sensory Play,Medium,59,0.73,0.86,T024,3.33
+C0282,54,Male,Low,1,18.65,Reading,Medium,46,0.37,0.92,T023,2.67
+C0068,63,Female,Medium,0,7.03,Sensory Play,Easy,18,0.93,0.54,T025,4.75
+C0147,62,Female,Medium,0,11.57,Music,Medium,10,0.7,0.45,T025,4.2
+C0010,39,Female,High,0,6.51,Music,Hard,13,0.76,0.87,T016,3.31
+C0253,50,Female,Medium,0,6.47,Music,Medium,16,0.5,0.82,T026,1.06
+C0329,70,Female,High,0,8.92,Art,Medium,20,0.91,0.63,T028,4.84
+C0359,36,Female,Low,0,14.71,Sensory Play,Hard,23,0.68,0.29,T042,8.5
+C0037,38,Female,Medium,0,20.7,Math,Hard,51,0.59,0.72,T038,7.3
+C0133,59,Male,Low,1,14.71,Sensory Play,Easy,28,0.67,0.25,T008,7.21
+C0199,62,Female,Low,0,11.71,Sensory Play,Hard,49,0.79,0.28,T013,3.66
+C0022,71,Female,Low,0,6.65,Art,Hard,12,0.79,0.46,T004,7.08
+C0302,69,Male,Low,0,16.01,Sensory Play,Hard,17,0.55,0.5,T049,4.66
+C0345,64,Female,Medium,0,10.43,Reading,Medium,38,0.57,0.57,T029,1.5
+C0301,59,Female,Low,0,17.3,Music,Easy,59,0.69,0.47,T027,4.19
+C0362,59,Male,High,0,24.54,Music,Hard,46,0.95,0.23,T044,1.33
+C0395,39,Female,Medium,1,7.23,Art,Hard,52,0.82,0.33,T036,1.14
+C0217,38,Female,Low,0,9.24,Music,Hard,18,0.57,0.29,T007,0.23
+C0140,69,Female,Medium,0,14.46,Reading,Medium,28,0.54,0.54,T014,2.83
+C0103,58,Female,High,0,24.37,Art,Medium,21,0.67,0.37,T027,3.31
+C0445,58,Female,Low,0,20.44,Math,Easy,36,0.91,0.43,T035,6.99
+C0209,40,Female,High,0,22.96,Music,Easy,46,0.31,0.58,T032,5.38
+C0472,66,Male,Low,0,11.67,Sensory Play,Medium,57,0.8,0.39,T005,8.58
+C0480,41,Female,High,0,24.84,Reading,Hard,34,0.51,0.4,T011,1.76
+C0110,45,Female,Low,0,7.06,Reading,Hard,54,0.45,0.87,T006,2.66
+C0103,42,Male,Medium,0,6.06,Music,Easy,47,0.31,0.64,T044,9.41
+C0315,56,Male,Low,0,22.11,Math,Hard,57,0.93,0.89,T027,4.44
+C0170,55,Female,Medium,0,23.55,Sensory Play,Medium,59,0.94,0.61,T006,7.89
+C0459,38,Male,Low,0,6.81,Math,Easy,26,0.34,0.93,T040,4.92
+C0491,57,Female,Low,1,7.27,Math,Medium,53,0.67,0.4,T000,4.71
+C0355,39,Female,High,0,5.66,Music,Medium,42,0.41,0.69,T023,1.48
+C0495,63,Male,High,0,7.09,Sensory Play,Hard,48,0.83,0.6,T044,8.51
+C0323,47,Female,High,0,9.19,Music,Medium,23,0.77,0.93,T018,0.78
+C0132,71,Female,Low,0,24.4,Music,Medium,37,0.51,0.53,T031,3.1
+C0375,40,Male,Low,0,18.36,Reading,Hard,27,0.38,0.88,T029,6.73
+C0292,48,Male,Low,0,20.57,Music,Medium,42,0.88,0.65,T000,5.07
+C0327,58,Male,Medium,0,20.52,Art,Hard,51,0.77,0.77,T031,8.81
+C0126,65,Male,Medium,0,15.7,Sensory Play,Medium,24,0.3,0.91,T019,0.39
+C0105,60,Female,Low,0,20.95,Reading,Hard,20,0.74,1.0,T020,6.49
+C0496,62,Male,High,0,16.92,Sensory Play,Hard,45,0.87,0.78,T018,4.77
+C0091,49,Male,High,0,11.29,Reading,Easy,24,0.71,0.45,T029,1.54
+C0286,71,Male,High,0,16.22,Art,Medium,57,0.6,0.44,T049,7.43
+C0377,51,Male,Low,0,15.67,Music,Medium,39,0.71,0.45,T027,4.11
+C0392,57,Male,High,0,21.47,Reading,Easy,24,0.73,0.28,T031,5.32
+C0050,56,Female,Low,0,24.63,Reading,Hard,58,0.75,0.24,T029,9.67
+C0028,56,Male,Medium,0,13.22,Reading,Hard,32,0.98,0.66,T022,4.86
+C0461,43,Female,High,0,20.27,Art,Easy,52,0.43,0.85,T026,8.23
+C0295,51,Male,Medium,0,7.0,Sensory Play,Easy,59,0.74,0.23,T036,7.7
+C0296,66,Male,High,0,20.54,Art,Hard,57,0.43,0.65,T025,6.63
+C0213,45,Male,Low,0,12.43,Reading,Hard,24,0.45,0.5,T002,8.97
+C0266,67,Male,Low,0,5.79,Reading,Easy,38,0.77,0.91,T030,2.52
+C0406,69,Male,Low,0,12.26,Music,Medium,20,0.94,0.32,T001,8.21
+C0256,44,Male,Low,0,17.21,Art,Hard,54,0.41,0.65,T009,3.78
+C0301,52,Male,High,0,7.39,Art,Easy,27,0.97,0.98,T037,8.12
+C0100,46,Male,Medium,0,23.48,Math,Medium,49,0.52,0.48,T018,4.94
+C0404,67,Female,Low,0,6.55,Sensory Play,Medium,40,0.57,0.79,T030,8.58
+C0345,45,Male,High,0,23.6,Math,Medium,18,0.41,0.91,T028,8.95
+C0109,57,Female,Medium,0,19.14,Math,Medium,31,0.73,0.35,T024,5.98
+C0419,52,Male,Low,0,11.59,Sensory Play,Easy,20,0.72,0.99,T031,5.08
+C0181,39,Female,Medium,0,12.82,Music,Hard,26,0.61,0.85,T016,7.83
+C0470,60,Male,Low,0,19.82,Music,Medium,42,0.63,0.31,T044,2.67
+C0312,56,Male,Medium,0,17.03,Sensory Play,Medium,20,0.74,0.45,T048,0.15
+C0000,36,Male,Medium,0,18.43,Sensory Play,Easy,48,0.71,0.7,T022,4.07
+C0318,60,Female,Low,0,12.78,Art,Medium,17,0.56,0.91,T017,5.08
+C0437,71,Female,High,0,14.76,Art,Easy,13,0.92,0.36,T010,2.97
+C0054,52,Female,Medium,1,24.8,Art,Easy,45,0.77,0.78,T019,3.83
+C0370,59,Female,Low,0,9.28,Art,Hard,28,0.44,0.42,T012,1.33
+C0423,37,Male,Medium,0,13.36,Reading,Medium,33,0.52,0.84,T023,2.77
+C0398,50,Male,Medium,0,10.84,Reading,Hard,50,0.85,0.75,T042,2.4
+C0148,67,Male,High,0,20.3,Music,Easy,58,0.37,0.62,T019,3.01
+C0430,41,Female,Medium,0,20.28,Reading,Medium,27,0.83,0.72,T041,2.99
+C0456,36,Male,Medium,0,10.85,Reading,Easy,42,0.55,0.9,T027,5.59
+C0308,58,Female,Low,0,6.63,Art,Easy,55,0.69,0.51,T034,2.51
+C0136,52,Female,Low,0,5.23,Art,Easy,45,0.5,0.82,T020,9.41
+C0201,69,Female,High,0,13.55,Sensory Play,Medium,19,0.99,0.33,T005,5.11
+C0435,64,Female,Medium,0,13.21,Art,Easy,23,0.93,0.76,T006,1.29
+C0312,44,Female,Medium,0,24.77,Sensory Play,Easy,16,0.95,0.8,T028,2.8
+C0116,48,Male,Medium,0,14.4,Sensory Play,Medium,21,0.43,0.55,T022,7.3
+C0153,41,Female,High,1,10.13,Reading,Hard,31,0.89,0.83,T004,0.14
+C0424,41,Female,Medium,1,22.82,Art,Easy,36,0.67,0.65,T021,9.38
+C0290,55,Male,Low,0,14.82,Reading,Hard,57,0.8,0.95,T008,4.45
+C0062,38,Female,High,0,16.98,Art,Hard,46,0.45,0.29,T031,5.21
+C0243,52,Female,Low,1,6.91,Reading,Hard,20,0.8,0.3,T009,9.88
+C0024,47,Male,Low,0,12.66,Reading,Hard,45,0.94,0.87,T045,5.03
+C0089,36,Male,High,0,23.88,Reading,Hard,22,0.49,0.87,T042,9.48
+C0074,52,Male,Low,0,16.79,Music,Hard,41,0.46,0.58,T048,9.15
+C0293,38,Female,Medium,0,11.89,Reading,Medium,17,0.37,0.97,T027,9.41
+C0385,61,Male,High,0,17.51,Math,Medium,16,0.49,0.74,T010,8.12
+C0390,50,Male,Low,0,23.21,Math,Hard,52,0.68,0.99,T006,2.96
+C0209,71,Male,Medium,0,10.48,Math,Medium,52,0.88,0.63,T029,3.46
+C0474,67,Female,Medium,0,15.1,Sensory Play,Medium,26,0.5,0.36,T042,3.65
+C0417,67,Male,Low,0,24.17,Reading,Hard,31,0.73,0.56,T044,9.79
+C0346,39,Female,Medium,0,8.45,Math,Hard,55,0.64,0.98,T037,3.61
+C0016,53,Female,High,0,19.39,Sensory Play,Easy,43,0.5,0.5,T033,1.09
+C0127,54,Male,Low,0,17.29,Math,Medium,29,0.66,0.97,T045,7.78
+C0426,70,Female,Medium,0,18.59,Art,Hard,17,0.42,0.84,T027,3.66
+C0442,49,Female,Medium,0,12.02,Music,Medium,31,0.75,0.55,T031,6.21
+C0363,68,Male,Low,0,11.28,Reading,Medium,36,0.38,0.63,T015,9.24
+C0250,49,Female,Low,0,18.68,Music,Medium,43,0.81,0.69,T038,5.76
+C0178,69,Male,Low,0,9.31,Music,Easy,30,0.42,0.73,T000,6.38
+C0181,39,Female,Low,0,13.39,Art,Hard,24,1.0,0.26,T033,6.43
+C0151,59,Female,High,0,8.76,Art,Medium,14,0.88,0.95,T040,6.12
+C0024,64,Male,Low,0,5.17,Art,Hard,47,0.54,0.68,T022,1.6
+C0454,54,Male,High,0,24.4,Sensory Play,Medium,26,0.6,0.94,T049,4.56
+C0179,41,Female,High,0,13.63,Math,Hard,17,0.48,0.71,T019,0.08
+C0197,68,Female,Low,0,24.39,Reading,Hard,28,0.84,0.54,T017,6.26
+C0343,54,Male,High,0,7.81,Art,Hard,14,0.57,0.65,T017,5.75
+C0160,36,Female,Low,0,16.75,Reading,Medium,32,0.83,0.86,T041,3.18
+C0176,40,Female,Low,0,9.02,Reading,Easy,28,0.31,0.46,T039,5.24
+C0284,62,Female,Medium,1,20.8,Reading,Hard,23,0.39,0.97,T020,4.93
+C0062,51,Female,Low,0,20.67,Art,Easy,19,0.56,0.57,T007,2.51
+C0490,41,Male,Medium,0,7.25,Art,Hard,40,0.38,0.96,T033,2.93
+C0149,48,Male,High,0,23.24,Math,Easy,22,0.72,0.9,T049,7.63
+C0153,70,Male,Medium,0,8.89,Art,Hard,31,0.34,0.81,T010,7.56
+C0155,54,Male,High,0,17.26,Art,Easy,46,0.9,0.57,T042,4.7
+C0369,47,Male,Low,0,24.71,Reading,Hard,48,0.83,0.67,T042,7.18
+C0468,51,Male,High,0,22.65,Math,Hard,19,0.45,0.87,T009,4.51
+C0048,45,Female,High,0,24.13,Music,Easy,40,0.64,0.64,T007,8.51
+C0454,60,Male,Low,0,11.85,Art,Hard,52,0.62,0.79,T046,3.33
+C0336,55,Female,High,0,7.11,Art,Medium,44,0.81,0.83,T007,9.27
+C0083,66,Female,Low,0,8.77,Music,Hard,22,0.58,0.61,T018,5.42
+C0360,39,Female,Medium,1,15.01,Reading,Hard,39,0.32,0.63,T000,5.36
+C0176,58,Male,Low,0,20.86,Math,Medium,43,0.49,0.36,T002,6.71
+C0147,37,Female,Low,0,8.0,Reading,Medium,45,0.63,0.4,T043,3.41
+C0117,57,Male,High,0,18.19,Sensory Play,Medium,44,0.98,0.92,T031,7.24
+C0341,43,Female,Medium,0,11.47,Art,Easy,56,0.92,0.87,T047,3.2
+C0475,42,Female,Low,0,11.82,Sensory Play,Medium,13,0.43,0.21,T015,3.98
+C0062,49,Male,Medium,0,18.24,Art,Easy,13,0.81,0.9,T029,6.75
+C0188,38,Female,Medium,0,14.34,Sensory Play,Medium,56,0.96,0.22,T048,3.78
+C0359,51,Female,High,1,21.24,Music,Easy,15,0.31,0.57,T027,2.0
+C0048,54,Female,Low,0,8.12,Art,Medium,37,0.8,0.25,T027,8.72
+C0326,53,Female,High,0,20.8,Art,Medium,39,0.62,0.98,T015,9.22
+C0256,51,Male,Low,0,6.28,Sensory Play,Hard,36,0.78,0.98,T040,6.27
+C0223,43,Female,Medium,0,8.88,Math,Medium,14,0.72,0.69,T032,8.11
+C0140,68,Female,Low,0,18.12,Sensory Play,Hard,53,0.99,0.51,T024,9.87
+C0477,47,Male,Low,0,22.1,Art,Medium,48,0.5,0.61,T017,6.15
+C0214,46,Female,Medium,0,10.05,Art,Medium,44,0.85,0.81,T025,9.09
+C0434,40,Female,Medium,0,11.54,Math,Hard,48,0.46,0.38,T005,3.59
+C0378,62,Female,Low,0,15.74,Reading,Hard,53,0.6,0.55,T037,7.0
+C0439,47,Female,High,0,9.23,Math,Easy,24,0.98,0.79,T043,0.56
+C0210,52,Male,Low,0,21.22,Reading,Hard,28,0.84,0.52,T002,7.89
+C0317,41,Female,Medium,0,20.47,Art,Easy,39,0.52,0.23,T042,8.3
+C0031,68,Male,High,0,7.91,Music,Medium,47,0.73,0.61,T005,4.01
+C0157,40,Female,Medium,0,14.28,Music,Hard,41,0.33,0.79,T013,6.39
+C0284,63,Female,Medium,0,20.5,Sensory Play,Hard,49,0.49,0.98,T017,8.58
+C0304,49,Female,High,0,11.75,Math,Medium,38,0.8,0.23,T015,8.84
+C0428,40,Male,Medium,0,17.66,Math,Medium,15,0.7,0.63,T023,1.07
+C0476,68,Female,Medium,0,6.0,Music,Medium,35,0.63,0.56,T012,8.27
+C0285,54,Female,Medium,0,17.17,Reading,Medium,36,0.78,0.39,T000,2.74
+C0143,57,Male,Medium,0,8.05,Math,Hard,44,0.58,0.71,T037,7.27
+C0423,40,Male,Medium,0,21.61,Reading,Medium,37,0.32,0.33,T013,3.25
+C0018,37,Male,Medium,0,12.11,Reading,Medium,14,0.61,0.43,T016,0.56
+C0017,65,Male,Medium,0,10.63,Reading,Hard,50,0.93,0.83,T012,2.1
+C0256,39,Female,Medium,0,21.82,Reading,Easy,57,0.9,0.57,T012,4.09
+C0077,68,Female,Medium,0,6.0,Sensory Play,Hard,25,0.59,0.99,T008,7.41
+C0370,48,Female,Low,0,12.93,Sensory Play,Easy,50,0.32,0.51,T005,1.01
+C0174,55,Female,Low,0,12.4,Music,Medium,27,0.75,0.57,T005,8.13
+C0497,42,Male,Medium,0,10.7,Sensory Play,Hard,22,0.82,0.44,T029,9.97
+C0193,50,Female,Low,0,23.24,Math,Medium,52,0.51,0.39,T036,7.88
+C0475,58,Female,High,0,20.02,Sensory Play,Hard,34,0.63,0.94,T045,4.74
+C0112,49,Female,Low,0,6.28,Math,Easy,19,0.99,0.8,T013,5.68
+C0113,58,Female,Medium,0,19.29,Math,Hard,38,0.7,0.47,T003,0.06
+C0221,54,Male,Medium,0,15.55,Reading,Medium,19,0.55,0.76,T033,2.09
+C0165,64,Female,Low,0,23.02,Music,Hard,15,0.74,0.97,T001,8.99
+C0434,55,Female,Medium,0,11.26,Reading,Medium,25,0.43,0.26,T016,0.22
+C0318,64,Female,High,0,16.48,Reading,Hard,34,0.44,0.41,T041,9.05
+C0131,59,Male,High,0,15.02,Sensory Play,Easy,53,0.95,0.36,T013,1.13
+C0384,53,Male,Medium,0,14.79,Sensory Play,Hard,13,0.47,0.9,T016,1.33
+C0263,45,Female,High,0,14.12,Math,Hard,46,0.52,0.34,T029,1.75
+C0412,43,Female,High,0,9.11,Sensory Play,Hard,43,0.68,0.45,T042,7.99
+C0054,61,Female,Low,1,20.11,Sensory Play,Hard,28,0.93,0.64,T028,4.78
+C0358,64,Male,High,0,14.03,Art,Easy,42,0.85,0.7,T006,1.45
+C0130,45,Female,Low,0,24.17,Math,Medium,13,0.33,0.85,T008,6.87
+C0287,52,Female,Medium,0,10.22,Math,Hard,53,0.79,0.53,T045,9.41
+C0265,37,Female,Low,1,18.65,Art,Hard,43,0.65,0.63,T022,5.72
+C0457,41,Male,Medium,1,23.81,Math,Hard,21,0.63,0.97,T035,0.99
+C0466,40,Female,Medium,0,18.27,Music,Easy,40,0.78,0.44,T013,0.55
+C0365,63,Female,Medium,0,22.43,Music,Medium,25,0.44,0.4,T019,7.96
+C0161,40,Male,Medium,0,21.55,Art,Medium,11,0.99,0.77,T016,6.26
+C0379,53,Male,Medium,0,12.2,Sensory Play,Hard,58,0.75,0.82,T031,9.23
+C0480,61,Female,Low,0,17.0,Music,Hard,11,0.56,0.53,T024,5.47
+C0086,55,Male,Medium,0,8.13,Art,Medium,45,0.72,0.37,T029,0.62
+C0054,62,Female,High,0,15.71,Music,Hard,15,0.45,0.82,T048,4.04
+C0475,47,Male,High,0,9.61,Reading,Hard,32,0.74,0.74,T026,6.58
+C0287,42,Male,Medium,0,19.87,Art,Hard,48,0.32,0.9,T026,3.85
+C0177,38,Female,High,0,15.56,Math,Easy,56,0.54,0.88,T045,10.0
+C0390,45,Female,Low,0,13.22,Music,Easy,53,0.82,0.36,T030,4.05
+C0348,69,Female,Low,0,10.38,Math,Medium,46,0.87,0.87,T044,5.46
+C0007,60,Male,Medium,0,24.97,Art,Easy,55,0.48,0.34,T025,2.25
+C0320,70,Female,Medium,0,6.43,Music,Easy,25,0.68,0.89,T013,1.52
+C0312,51,Female,Medium,0,5.87,Math,Medium,52,0.67,0.82,T047,6.45
+C0246,37,Female,High,0,9.35,Sensory Play,Easy,53,0.6,0.66,T020,5.89
+C0322,59,Female,High,0,24.42,Sensory Play,Medium,28,0.46,0.71,T027,0.04
+C0471,45,Female,Low,0,24.58,Reading,Hard,58,0.79,0.28,T014,2.85
+C0470,57,Male,High,0,18.1,Art,Medium,33,0.48,0.23,T029,6.44
+C0442,61,Female,Low,0,22.6,Math,Medium,36,0.94,0.46,T024,8.12
+C0254,62,Female,High,0,9.28,Reading,Medium,16,0.67,0.86,T010,3.12
+C0327,64,Male,Low,0,24.44,Art,Hard,39,0.91,0.57,T043,6.47
+C0053,55,Female,Medium,0,7.86,Sensory Play,Hard,50,0.5,0.38,T010,2.65
+C0248,62,Female,High,0,7.02,Math,Hard,23,0.86,0.87,T027,6.9
+C0238,55,Female,Low,0,7.24,Music,Medium,53,0.38,0.38,T004,6.98
+C0228,54,Female,High,0,16.46,Sensory Play,Medium,24,0.84,0.85,T027,1.3
+C0066,55,Female,Medium,0,20.62,Music,Medium,21,0.57,0.56,T007,6.65
+C0050,70,Male,Low,0,12.33,Music,Medium,38,0.63,0.57,T025,3.34
+C0096,37,Male,High,1,24.56,Math,Medium,32,0.42,0.42,T005,1.73
+C0091,65,Male,High,0,13.69,Math,Medium,22,0.31,0.92,T031,5.0
+C0494,69,Female,Medium,0,8.01,Music,Medium,18,0.77,0.27,T047,4.52
+C0263,57,Male,Medium,0,14.32,Reading,Easy,33,0.71,0.32,T031,7.74
+C0417,38,Female,Low,1,18.58,Music,Hard,48,0.74,0.71,T011,0.85
+C0290,41,Female,High,0,21.64,Music,Easy,39,0.48,0.88,T005,7.9
+C0095,50,Female,High,0,14.18,Math,Hard,10,0.47,0.28,T012,1.06
+C0087,62,Male,Medium,0,16.87,Art,Medium,19,0.88,0.79,T038,2.07
+C0077,45,Male,Medium,0,10.35,Sensory Play,Easy,47,0.83,0.79,T039,5.16
+C0287,44,Male,Low,0,17.92,Math,Medium,56,0.54,0.67,T043,4.63
+C0119,68,Female,High,0,24.72,Reading,Easy,24,0.75,0.59,T033,9.89
+C0301,67,Male,High,0,5.98,Sensory Play,Easy,18,0.88,0.46,T022,5.89
+C0490,41,Female,Low,0,22.73,Math,Medium,22,0.92,0.48,T040,3.27
+C0399,71,Male,Low,0,16.25,Math,Easy,32,0.3,0.74,T044,9.0
+C0451,37,Male,Medium,0,10.04,Art,Easy,42,0.87,0.25,T016,3.12
+C0499,64,Female,Medium,0,24.1,Reading,Hard,18,0.55,0.67,T044,2.74
+C0164,39,Female,Low,0,14.67,Reading,Medium,12,0.8,0.42,T047,4.94
+C0181,36,Male,Low,0,11.63,Math,Medium,39,0.56,0.57,T000,9.13
+C0468,54,Male,High,0,8.63,Art,Easy,18,0.72,0.65,T006,7.09
+C0397,61,Male,Low,0,9.89,Math,Medium,34,0.75,0.91,T012,6.77
+C0222,60,Female,Low,0,21.66,Music,Hard,56,0.58,0.66,T013,7.26
+C0310,45,Female,High,0,17.29,Music,Hard,33,0.66,0.38,T016,6.6
+C0431,50,Male,Low,0,23.26,Art,Medium,41,0.81,0.26,T029,7.6
+C0465,57,Male,Medium,0,9.64,Math,Medium,16,0.63,0.7,T047,1.93
+C0006,56,Female,Medium,0,7.42,Art,Hard,45,0.31,0.64,T046,1.77
+C0329,57,Male,High,0,5.12,Math,Medium,34,0.31,0.74,T048,3.62
+C0262,71,Female,Low,1,15.16,Math,Easy,29,0.76,0.57,T033,8.51
+C0160,69,Female,Medium,0,24.97,Music,Medium,26,0.89,0.86,T026,7.14
+C0150,65,Female,Medium,0,18.9,Sensory Play,Easy,45,0.85,0.94,T024,5.66
+C0084,60,Female,Medium,0,11.17,Reading,Hard,35,0.52,0.23,T043,0.19
+C0146,63,Female,Medium,0,22.54,Reading,Medium,28,0.63,0.8,T034,2.36
+C0111,36,Female,Low,0,20.63,Art,Hard,46,0.46,0.23,T008,8.04
+C0380,39,Male,Low,0,5.31,Reading,Medium,57,0.99,0.56,T005,2.42
+C0402,42,Female,Low,0,21.34,Music,Easy,12,0.48,0.57,T025,7.3
+C0035,44,Female,Low,0,11.01,Sensory Play,Medium,52,0.59,0.76,T037,1.85
+C0284,71,Male,Medium,0,7.99,Math,Hard,37,0.78,0.48,T038,6.06
+C0187,54,Female,High,0,9.53,Math,Easy,31,0.91,0.86,T026,6.28
+C0081,36,Male,High,0,14.37,Music,Medium,56,0.34,0.47,T039,7.52
+C0001,45,Female,Medium,0,13.5,Reading,Hard,28,0.51,0.47,T030,4.38
+C0384,71,Male,Medium,0,10.78,Math,Hard,55,0.7,0.38,T002,6.33
+C0302,44,Male,High,0,8.44,Reading,Medium,25,0.73,0.75,T023,4.87
+C0196,67,Female,High,0,20.24,Music,Hard,15,0.35,0.26,T014,9.47
+C0403,67,Female,Medium,0,24.8,Math,Easy,46,0.76,0.49,T005,5.22
+C0010,41,Female,Medium,0,20.56,Art,Medium,40,0.67,0.41,T010,2.1
+C0233,52,Female,Low,0,10.92,Sensory Play,Easy,58,0.88,0.38,T029,6.68
+C0385,45,Male,Low,1,9.9,Reading,Hard,57,0.46,0.25,T034,5.48
+C0194,62,Male,High,1,9.35,Reading,Hard,43,0.44,0.35,T047,8.04
+C0470,70,Male,Medium,1,7.73,Reading,Hard,40,0.86,0.56,T037,1.77
+C0118,56,Female,High,0,16.03,Reading,Easy,20,0.79,0.6,T042,2.61
+C0395,60,Male,Low,0,17.11,Music,Hard,45,0.85,0.42,T039,9.22
+C0019,63,Female,Low,0,19.11,Music,Medium,15,0.85,0.72,T028,9.3
+C0260,50,Female,High,0,18.6,Music,Medium,36,0.37,0.47,T022,4.42
+C0292,39,Male,Low,0,10.85,Music,Hard,16,0.5,0.49,T041,0.48
+C0421,64,Female,Medium,0,11.61,Math,Medium,58,0.48,0.83,T041,3.07
+C0255,44,Male,High,1,18.63,Music,Easy,41,0.95,0.64,T002,2.47
+C0221,62,Female,Medium,0,11.99,Math,Easy,17,0.64,0.96,T025,4.15
+C0392,61,Male,Medium,1,9.25,Art,Hard,42,0.38,0.49,T013,3.18
+C0225,54,Female,Low,0,12.49,Music,Medium,56,0.5,0.86,T018,8.29
+C0052,63,Male,Medium,0,10.44,Art,Medium,53,0.91,0.79,T020,0.03
+C0427,52,Male,High,0,6.77,Music,Hard,24,0.89,0.91,T020,6.45
+C0354,55,Female,Medium,0,21.6,Art,Easy,36,0.93,0.97,T008,6.64
+C0499,58,Female,Medium,0,22.06,Sensory Play,Hard,39,0.57,0.21,T012,6.61
+C0341,67,Male,Medium,0,9.4,Art,Medium,31,0.75,0.27,T040,5.21
+C0363,68,Female,Medium,0,6.3,Math,Medium,56,0.49,0.74,T043,6.11
+C0279,40,Female,Medium,0,19.78,Reading,Hard,38,0.43,0.51,T045,8.1
+C0080,69,Female,Low,0,9.23,Art,Easy,50,0.32,0.86,T036,7.84
+C0201,46,Male,High,0,12.87,Reading,Easy,57,0.46,0.21,T037,0.35
+C0157,38,Male,Low,0,6.28,Sensory Play,Hard,39,0.72,0.85,T044,0.3
+C0119,68,Female,High,0,9.53,Sensory Play,Medium,11,0.93,0.31,T044,8.39
+C0058,46,Female,High,0,20.86,Math,Easy,24,0.39,0.43,T023,5.75
+C0493,51,Male,High,0,21.09,Math,Hard,56,0.94,0.98,T037,9.57
+C0214,53,Female,High,0,9.14,Art,Medium,36,0.54,0.24,T045,4.32
+C0127,65,Male,High,0,11.72,Music,Easy,16,0.6,0.48,T010,1.77
+C0223,45,Female,Medium,0,7.68,Sensory Play,Easy,36,0.56,0.27,T028,4.73
+C0208,53,Female,Low,0,6.48,Reading,Hard,30,0.59,0.88,T044,4.37
+C0369,54,Female,Low,0,24.84,Music,Medium,22,0.48,0.76,T043,5.17
+C0114,71,Male,Medium,0,18.11,Sensory Play,Easy,26,0.79,0.84,T047,8.08
+C0208,48,Male,High,0,15.84,Art,Hard,20,0.83,0.62,T037,6.56
+C0013,38,Male,Low,1,20.31,Sensory Play,Easy,19,0.88,0.49,T040,1.85
+C0008,45,Male,Medium,0,21.8,Math,Medium,42,0.54,0.2,T016,7.34
+C0039,36,Female,Medium,0,21.13,Reading,Easy,23,0.84,0.42,T047,5.92
+C0449,62,Female,Low,0,5.33,Reading,Medium,46,0.75,0.61,T025,5.78
+C0236,43,Male,Low,0,8.74,Math,Easy,17,0.97,0.73,T025,6.78
+C0280,52,Female,High,1,18.1,Music,Easy,42,0.6,0.38,T011,5.64
+C0358,44,Female,High,0,12.52,Math,Hard,16,0.99,0.31,T017,4.58
+C0200,41,Male,Low,0,24.65,Reading,Easy,43,0.82,0.36,T008,6.4
+C0245,60,Female,High,0,18.31,Art,Medium,16,0.84,0.48,T002,7.24
+C0277,63,Female,Medium,0,24.13,Music,Hard,16,0.32,0.32,T009,2.26
+C0234,68,Male,High,0,9.03,Sensory Play,Medium,50,0.65,0.33,T042,4.97
+C0493,44,Female,High,0,22.28,Art,Medium,45,0.67,0.24,T001,4.58
+C0003,53,Female,Medium,0,11.43,Music,Hard,16,0.33,0.89,T007,0.4
+C0153,56,Female,High,0,24.79,Reading,Medium,29,0.52,0.38,T042,8.34
+C0441,37,Male,Medium,0,8.15,Reading,Easy,27,0.97,0.86,T017,3.77
+C0028,71,Male,High,0,15.33,Art,Hard,54,0.6,0.55,T038,0.73
+C0108,50,Female,Low,0,20.86,Music,Easy,52,0.43,0.71,T030,4.58
+C0097,63,Female,High,0,13.65,Sensory Play,Easy,50,0.66,0.26,T013,1.61
+C0214,53,Female,Low,0,14.36,Sensory Play,Medium,23,0.32,0.67,T038,7.04
+C0292,69,Male,Low,0,24.73,Math,Medium,49,0.66,0.43,T032,5.72
+C0074,57,Male,Low,0,13.51,Art,Easy,23,0.72,0.28,T028,2.7
+C0325,46,Male,Low,0,17.08,Music,Hard,30,0.55,0.93,T043,9.5
+C0145,48,Female,Low,0,6.09,Art,Easy,58,0.83,0.68,T032,2.92
+C0127,39,Female,Medium,0,21.84,Sensory Play,Easy,36,0.39,0.39,T034,5.55
+C0340,57,Female,Medium,1,17.96,Music,Medium,55,0.91,0.54,T001,8.02
+C0041,42,Female,Medium,0,13.08,Reading,Medium,35,0.97,0.49,T034,5.14
+C0355,59,Female,Low,0,5.32,Reading,Easy,36,0.3,0.76,T031,9.61
+C0040,39,Male,High,0,16.83,Music,Easy,33,0.89,0.69,T035,8.44
+C0421,63,Female,Medium,0,5.25,Art,Medium,14,0.65,0.22,T045,9.21
+C0033,50,Female,High,0,5.02,Art,Easy,51,0.62,0.36,T049,3.73
+C0016,36,Female,High,1,17.32,Reading,Medium,47,0.47,0.58,T022,5.48
+C0164,38,Male,Low,1,8.78,Reading,Easy,37,0.61,0.56,T004,8.4
+C0152,49,Female,Low,0,8.84,Sensory Play,Hard,51,0.97,0.61,T046,9.04
+C0485,36,Male,Low,1,18.07,Music,Hard,52,0.45,0.77,T015,9.44
+C0377,56,Male,Medium,0,6.07,Art,Easy,41,0.43,0.75,T039,8.79
+C0075,64,Male,Low,0,11.27,Sensory Play,Medium,33,0.47,0.5,T023,7.31
+C0086,40,Male,Medium,0,7.99,Art,Easy,15,0.69,0.9,T039,0.24
+C0116,45,Male,Medium,0,16.6,Reading,Easy,19,0.95,0.25,T027,3.15
+C0361,63,Female,Medium,0,18.24,Music,Medium,55,0.7,0.67,T024,1.29
+C0341,56,Female,Medium,0,19.42,Math,Easy,12,0.47,0.96,T006,1.55
+C0468,42,Male,Low,0,10.1,Music,Medium,16,0.61,0.64,T037,2.91
+C0026,38,Male,Medium,0,6.78,Math,Easy,38,0.57,0.56,T006,0.75
+C0312,55,Male,Low,0,6.57,Sensory Play,Medium,43,0.33,0.31,T021,2.43
+C0286,54,Female,Low,0,13.52,Math,Easy,16,0.66,0.85,T021,9.57
+C0133,70,Female,Medium,0,23.92,Math,Hard,26,0.39,0.5,T026,3.12
+C0218,39,Male,Low,0,9.35,Sensory Play,Medium,22,0.89,0.76,T032,1.6
+C0167,40,Female,High,0,10.13,Music,Hard,30,0.68,0.36,T044,7.18
+C0097,36,Female,Low,0,7.02,Sensory Play,Medium,40,0.89,0.23,T031,8.29
+C0267,39,Male,Low,0,17.11,Reading,Medium,18,0.97,0.44,T038,3.14
+C0236,47,Male,Medium,0,18.6,Reading,Medium,54,0.96,0.43,T031,2.78
+C0308,62,Female,Medium,0,17.86,Math,Medium,56,0.37,0.9,T000,2.42
+C0454,58,Female,Low,1,22.22,Sensory Play,Easy,22,0.96,0.89,T009,3.93
+C0393,60,Female,Medium,0,14.73,Sensory Play,Easy,26,0.86,0.63,T044,0.87
+C0172,56,Male,High,1,7.69,Sensory Play,Medium,17,0.84,0.22,T003,6.69
+C0400,59,Male,High,0,10.79,Music,Easy,18,0.36,0.38,T028,8.22
+C0409,60,Male,Medium,0,18.25,Art,Medium,18,0.43,0.71,T006,6.64
+C0468,67,Female,Low,0,17.26,Art,Medium,49,0.98,0.28,T037,4.21
+C0475,67,Female,High,0,15.62,Art,Hard,57,0.45,0.76,T005,2.89
+C0189,40,Male,High,0,18.66,Music,Medium,39,0.42,0.21,T010,4.09
+C0121,71,Female,Low,0,17.75,Sensory Play,Medium,16,0.55,0.75,T008,4.24
+C0045,51,Male,Medium,0,22.63,Art,Easy,26,0.94,0.88,T029,6.66
+C0063,68,Female,High,0,16.72,Sensory Play,Medium,48,0.63,0.58,T021,9.28
+C0129,56,Male,Low,0,20.57,Math,Medium,47,0.94,0.86,T038,0.71
+C0309,44,Female,Low,0,9.97,Art,Hard,14,0.53,0.83,T008,9.53
+C0362,41,Female,High,0,18.56,Math,Easy,26,0.46,0.74,T037,9.1
+C0192,70,Male,Medium,0,23.04,Music,Easy,49,0.65,0.56,T045,1.18
+C0306,57,Male,High,0,12.71,Reading,Hard,10,0.73,0.42,T032,1.84
+C0180,40,Male,Low,0,20.58,Music,Medium,25,0.57,0.89,T025,3.12
+C0291,58,Male,High,0,19.5,Music,Hard,26,0.54,0.72,T015,5.6
+C0370,52,Male,Medium,0,6.19,Music,Easy,39,0.45,0.84,T008,1.34
+C0281,47,Female,Low,0,16.63,Art,Hard,40,0.49,0.64,T022,2.0
+C0028,58,Male,Medium,0,7.6,Math,Easy,44,0.77,0.34,T014,9.03
+C0148,51,Male,High,0,24.35,Art,Hard,54,0.56,0.98,T018,1.09
+C0266,38,Male,High,0,21.23,Reading,Medium,17,0.36,0.35,T041,3.99
+C0295,65,Male,Medium,0,7.19,Music,Medium,57,0.4,0.93,T015,7.63
+C0010,57,Male,High,0,7.44,Sensory Play,Easy,39,0.56,0.37,T024,8.89
+C0163,44,Female,Medium,0,16.89,Reading,Hard,48,0.95,0.5,T034,3.36
+C0112,64,Male,High,0,11.9,Math,Easy,30,0.57,0.55,T012,1.64
+C0186,58,Male,Medium,0,5.7,Reading,Medium,24,0.34,0.94,T045,7.37
+C0294,48,Male,Medium,0,15.83,Art,Easy,43,0.59,0.91,T006,7.73
+C0231,67,Female,Low,0,12.76,Sensory Play,Medium,36,0.77,0.86,T033,9.8
+C0226,58,Female,Low,0,7.02,Art,Easy,11,0.72,0.5,T013,1.4
+C0309,52,Male,Medium,0,21.04,Music,Hard,19,0.5,0.2,T022,7.09
+C0097,56,Male,High,0,23.3,Music,Medium,14,0.78,0.75,T022,4.17
+C0054,37,Female,High,0,20.13,Reading,Easy,36,0.74,0.53,T016,9.15
+C0110,41,Female,High,0,21.45,Music,Medium,13,0.42,0.81,T012,4.08
+C0151,53,Female,Medium,1,9.33,Music,Hard,56,0.41,0.84,T026,4.46
+C0245,65,Male,Medium,0,10.27,Math,Medium,22,0.68,0.55,T001,1.27
+C0405,57,Male,Medium,0,9.17,Math,Hard,26,0.76,0.8,T036,3.21
+C0068,68,Female,Medium,0,20.3,Art,Medium,30,0.97,0.87,T029,4.01
+C0311,65,Male,Low,0,23.96,Art,Hard,32,0.6,0.94,T003,0.18
+C0288,52,Female,Medium,0,19.34,Math,Medium,42,0.84,0.67,T029,4.38
+C0249,67,Female,High,0,22.63,Reading,Hard,59,0.38,0.82,T002,3.36
+C0035,49,Female,Low,0,17.77,Math,Easy,24,0.92,0.6,T013,8.04
+C0238,45,Male,High,0,12.75,Art,Easy,23,0.74,0.23,T010,1.07
+C0147,71,Female,Medium,0,13.52,Sensory Play,Medium,18,0.74,0.32,T039,7.6
+C0466,69,Female,Low,0,6.51,Music,Hard,53,0.4,0.3,T022,7.14
+C0226,44,Male,Medium,0,5.63,Sensory Play,Easy,46,0.33,0.34,T040,2.42
+C0243,63,Female,Low,0,18.91,Sensory Play,Medium,39,0.79,0.21,T047,0.83
+C0490,46,Male,High,0,13.77,Music,Easy,38,0.38,0.89,T031,8.42
+C0336,49,Female,Medium,0,16.04,Math,Hard,32,0.39,0.65,T002,2.49
+C0445,54,Male,Medium,0,16.15,Reading,Medium,43,0.43,0.51,T041,1.46
+C0364,50,Female,Low,0,10.55,Sensory Play,Hard,16,0.37,0.53,T000,3.59
+C0490,63,Female,Low,0,14.52,Reading,Hard,18,0.74,0.57,T008,4.01
+C0481,59,Female,Medium,0,14.42,Art,Hard,59,0.6,0.26,T047,3.26
+C0200,43,Female,Low,0,12.77,Sensory Play,Easy,13,0.49,0.42,T008,9.76
+C0153,44,Female,Medium,0,21.41,Art,Medium,11,0.61,0.88,T011,8.81
+C0449,68,Male,Low,0,14.02,Math,Hard,36,0.89,0.79,T000,8.73
+C0072,68,Male,High,0,17.07,Sensory Play,Easy,42,0.95,0.65,T015,3.99
+C0200,54,Female,Low,0,22.91,Art,Hard,41,0.64,0.58,T029,9.63
+C0295,38,Female,High,0,22.32,Art,Easy,53,0.7,0.41,T007,6.84
+C0016,45,Female,Low,0,22.81,Math,Medium,54,0.48,0.58,T045,8.32
+C0128,36,Male,Low,0,10.4,Reading,Medium,55,0.66,0.68,T045,5.01
+C0216,64,Male,Medium,0,5.7,Reading,Medium,46,0.82,0.77,T009,1.61
+C0060,69,Female,Low,1,10.22,Sensory Play,Medium,36,0.64,0.33,T032,8.87
+C0426,48,Male,Low,0,10.57,Math,Hard,37,0.51,0.85,T037,4.86
+C0103,36,Female,High,1,23.19,Sensory Play,Easy,12,0.71,0.48,T040,9.69
+C0041,69,Female,Low,0,17.98,Reading,Medium,45,0.96,0.6,T021,2.55
+C0024,64,Female,Medium,0,6.63,Math,Hard,58,0.92,0.69,T015,9.92
+C0038,48,Male,High,1,7.71,Music,Medium,52,0.84,0.59,T018,2.22
+C0290,64,Female,Medium,0,8.11,Math,Medium,17,0.49,0.66,T010,3.68
+C0130,59,Female,Medium,0,17.61,Math,Medium,53,0.47,0.29,T010,5.94
+C0497,61,Female,Medium,0,19.71,Music,Easy,59,0.89,0.55,T013,6.93
+C0228,52,Male,Medium,0,22.19,Art,Easy,59,0.43,0.42,T038,7.2
+C0107,42,Male,High,0,23.81,Art,Easy,50,0.72,0.27,T025,4.76
+C0171,48,Male,Low,0,9.03,Art,Medium,46,0.61,0.35,T043,0.77
+C0434,40,Female,Medium,0,11.2,Reading,Hard,58,0.63,0.68,T019,4.96
+C0477,61,Male,High,0,9.81,Math,Hard,54,0.62,0.36,T019,3.35
+C0101,38,Female,Medium,0,12.18,Music,Hard,47,0.93,0.34,T004,6.58
+C0353,42,Male,Low,0,23.29,Reading,Medium,31,0.36,0.64,T000,1.82
+C0011,36,Female,High,0,16.5,Music,Easy,23,0.85,0.92,T010,3.94
+C0274,52,Male,High,0,19.76,Reading,Hard,24,0.88,0.83,T046,9.66
+C0100,60,Female,Low,0,14.8,Reading,Medium,55,0.96,0.92,T009,0.89
+C0043,38,Male,High,0,5.58,Reading,Medium,13,0.62,0.67,T046,6.02
+C0442,50,Male,Low,0,6.28,Music,Hard,27,0.65,0.53,T027,0.91
+C0304,64,Male,High,0,15.76,Sensory Play,Hard,10,0.97,0.78,T044,1.57
+C0444,67,Female,High,0,19.38,Reading,Medium,21,0.62,0.41,T046,6.05
+C0016,61,Male,Low,0,9.31,Art,Hard,50,0.65,0.26,T033,4.44
+C0329,51,Male,Low,1,19.44,Math,Medium,51,0.53,0.48,T012,5.48
+C0056,60,Male,High,0,21.21,Sensory Play,Hard,59,0.32,0.44,T043,8.8
+C0310,63,Male,High,0,13.24,Sensory Play,Easy,26,0.6,0.74,T024,8.17
+C0496,44,Female,Low,0,19.93,Music,Medium,28,0.76,0.64,T022,8.88
+C0302,36,Male,Low,0,13.08,Sensory Play,Easy,45,0.78,0.31,T035,6.16
+C0011,64,Female,High,0,18.57,Music,Hard,57,0.3,0.93,T011,4.9
+C0317,57,Female,High,0,20.28,Music,Medium,16,0.86,0.67,T046,4.59
+C0079,51,Female,High,0,24.84,Art,Hard,18,0.64,0.57,T044,7.4
+C0215,42,Female,Low,0,11.91,Reading,Medium,17,0.66,0.95,T001,5.21
+C0338,49,Male,High,0,13.22,Sensory Play,Hard,34,0.97,0.28,T019,1.06
+C0263,64,Female,Medium,0,8.31,Reading,Easy,16,0.5,0.83,T015,1.42
+C0478,54,Female,Low,0,9.08,Reading,Easy,51,0.83,0.49,T013,3.57
+C0148,54,Female,High,0,18.87,Reading,Hard,17,0.7,0.76,T001,0.68
+C0080,37,Female,Low,0,23.34,Music,Easy,33,0.79,0.94,T048,2.39
+C0214,50,Male,Medium,0,12.89,Reading,Easy,26,0.59,0.61,T015,6.56
+C0484,38,Male,Low,0,8.6,Sensory Play,Hard,21,0.5,0.22,T003,0.12
+C0373,46,Female,High,0,10.7,Music,Medium,55,0.68,0.22,T042,6.04
+C0463,65,Female,Medium,0,14.1,Sensory Play,Hard,40,0.56,0.46,T012,7.72
+C0197,53,Female,Medium,0,10.81,Music,Medium,21,0.46,0.83,T037,1.7
+C0199,37,Male,High,0,9.67,Math,Easy,11,0.89,0.43,T048,1.81
+C0024,67,Male,High,1,19.72,Math,Easy,21,0.63,0.47,T000,0.29
+C0465,43,Male,High,0,5.16,Math,Easy,36,0.89,0.83,T008,5.12
+C0088,57,Male,Low,0,15.78,Math,Easy,55,0.63,0.29,T020,6.55
+C0267,41,Male,Low,0,20.88,Music,Easy,16,0.69,0.88,T017,4.57
+C0142,47,Female,Low,0,10.32,Reading,Medium,22,1.0,0.41,T042,3.89
+C0058,71,Male,High,0,17.07,Art,Medium,45,0.97,0.24,T031,4.54
+C0409,50,Male,High,0,18.38,Art,Medium,10,0.49,0.29,T045,7.82
+C0488,63,Female,Low,0,18.1,Math,Hard,58,0.91,0.96,T033,0.34
+C0364,53,Male,Medium,0,13.92,Reading,Easy,44,0.57,0.56,T019,7.84
+C0025,37,Male,Low,0,11.93,Sensory Play,Easy,39,0.35,0.41,T042,6.66
+C0046,48,Male,Medium,0,21.72,Reading,Easy,40,0.7,0.62,T001,2.41
+C0287,50,Female,High,0,20.17,Sensory Play,Hard,26,0.98,0.75,T003,5.25
+C0265,55,Male,High,0,11.43,Art,Hard,17,0.98,0.46,T044,0.49
+C0015,64,Female,Low,0,7.06,Reading,Hard,12,0.39,0.78,T037,3.8
+C0198,64,Female,Low,0,6.44,Reading,Easy,19,0.84,0.4,T006,1.74
+C0400,38,Male,High,0,6.89,Art,Medium,43,0.86,0.29,T021,0.22
+C0406,54,Male,Low,0,16.66,Reading,Hard,31,0.56,0.64,T019,3.57
+C0281,38,Male,High,0,6.03,Sensory Play,Hard,13,0.76,0.32,T034,7.26
+C0468,49,Male,High,0,11.74,Reading,Medium,41,0.64,0.95,T003,9.21
+C0085,39,Female,Medium,0,20.06,Sensory Play,Hard,38,0.46,0.2,T019,6.62
+C0249,46,Male,Low,1,10.89,Math,Medium,55,0.83,0.8,T034,4.02
+C0390,66,Female,High,0,20.27,Reading,Easy,20,0.48,0.42,T032,9.99
+C0269,67,Female,Low,0,19.91,Sensory Play,Medium,55,0.54,0.88,T020,2.83
+C0334,62,Female,Medium,0,9.92,Art,Medium,22,0.43,0.25,T044,1.87
+C0116,65,Female,Medium,0,19.58,Math,Easy,13,0.8,0.96,T013,4.64
+C0006,37,Female,Low,0,19.96,Reading,Hard,11,0.62,0.28,T030,5.05
+C0136,44,Male,Low,0,12.95,Sensory Play,Easy,43,0.61,0.83,T021,3.55
+C0370,63,Female,High,0,9.21,Reading,Hard,52,0.72,0.61,T047,6.95
+C0175,66,Female,Medium,0,15.43,Sensory Play,Hard,31,0.41,0.54,T029,1.84
+C0327,69,Male,Medium,0,23.43,Reading,Medium,14,0.93,0.42,T028,5.1
+C0497,50,Male,Medium,0,17.79,Math,Easy,18,0.63,0.87,T035,5.0
+C0314,60,Female,Low,0,8.46,Math,Medium,29,0.56,0.36,T048,8.24
+C0214,71,Female,High,0,18.66,Reading,Easy,30,0.39,0.78,T041,9.27
+C0476,43,Male,Low,0,13.54,Reading,Easy,26,0.42,0.56,T028,6.63
+C0081,44,Female,Low,1,16.83,Music,Medium,21,0.94,1.0,T006,3.05
+C0222,67,Male,Low,0,19.68,Reading,Hard,37,0.62,0.69,T031,6.9
+C0477,52,Male,High,0,15.3,Reading,Hard,27,0.81,0.28,T012,2.51
+C0371,70,Female,Low,0,21.28,Math,Easy,12,0.36,0.54,T012,9.67
+C0422,54,Male,Medium,0,19.44,Reading,Hard,14,0.75,0.25,T013,8.22
+C0482,64,Female,Medium,0,17.3,Art,Medium,23,0.95,0.43,T005,4.31
+C0401,42,Female,Medium,0,8.02,Reading,Medium,57,0.51,0.47,T015,7.84
+C0442,63,Female,High,0,21.72,Music,Medium,35,0.71,0.88,T040,4.09
+C0489,44,Male,Low,0,23.72,Sensory Play,Easy,28,0.96,0.87,T047,0.75
+C0102,63,Female,High,0,7.74,Math,Easy,50,0.8,0.21,T020,7.07
+C0272,41,Male,Low,0,14.76,Art,Hard,26,0.34,0.63,T043,4.05
+C0013,64,Female,Medium,0,10.18,Sensory Play,Medium,48,0.57,0.38,T015,9.3
+C0158,52,Female,Low,0,20.09,Art,Medium,51,0.36,0.46,T004,3.07
+C0151,51,Male,Low,0,19.43,Math,Easy,13,0.9,0.22,T023,8.43
+C0482,58,Female,Low,0,7.82,Music,Easy,51,0.74,0.8,T042,6.8
+C0107,66,Female,High,0,22.54,Math,Easy,44,0.97,0.96,T000,8.53
+C0187,38,Male,Low,0,8.62,Art,Medium,33,0.31,0.38,T009,2.92
+C0300,56,Male,Low,0,20.95,Art,Medium,50,0.6,0.47,T042,4.61
+C0097,61,Male,Low,0,14.14,Math,Hard,22,0.37,0.37,T046,8.23
+C0130,71,Female,High,0,11.57,Reading,Medium,42,0.55,0.94,T034,6.44
+C0292,57,Male,High,0,8.16,Math,Hard,24,0.41,0.21,T030,3.6
+C0170,47,Male,High,0,8.35,Music,Hard,24,0.53,0.67,T014,5.12
+C0423,48,Female,Low,0,18.24,Math,Medium,40,0.87,0.9,T010,9.96
+C0473,46,Male,Medium,0,16.01,Sensory Play,Hard,52,0.41,0.35,T008,7.42
+C0182,51,Female,Medium,0,7.44,Reading,Hard,37,0.63,0.67,T001,6.15
+C0470,43,Female,Medium,0,7.25,Sensory Play,Easy,19,0.95,0.24,T043,8.28
+C0363,37,Male,Low,0,6.45,Math,Medium,16,1.0,0.85,T029,4.42
+C0038,65,Female,Medium,0,19.88,Reading,Hard,42,0.48,0.42,T015,9.5
+C0014,65,Male,Medium,0,19.24,Sensory Play,Hard,16,0.95,0.99,T047,5.52
+C0375,47,Male,Medium,0,6.17,Sensory Play,Hard,14,0.48,0.94,T000,3.27
+C0496,45,Male,Low,0,16.21,Reading,Medium,35,0.59,0.79,T047,0.86
+C0003,46,Male,Medium,0,6.69,Reading,Easy,25,0.91,0.6,T005,3.76
+C0348,50,Female,Medium,0,23.07,Art,Easy,17,0.85,0.81,T045,5.69
+C0469,51,Female,Low,0,23.14,Reading,Medium,31,0.9,0.3,T010,7.03
+C0408,52,Male,High,0,18.96,Math,Medium,43,0.86,0.45,T032,8.75
+C0396,61,Male,Medium,1,23.52,Music,Medium,49,0.46,0.22,T016,9.44
+C0209,37,Female,High,0,21.23,Art,Medium,37,0.69,0.72,T033,1.02
+C0160,47,Male,Medium,0,21.57,Reading,Easy,55,0.57,0.84,T045,6.01
+C0015,61,Female,Low,0,16.39,Music,Hard,45,0.62,0.96,T039,6.67
+C0492,58,Male,High,0,11.12,Art,Hard,56,0.41,0.75,T024,1.72
+C0425,53,Female,High,0,9.36,Math,Medium,16,0.52,0.79,T021,5.46
+C0107,67,Female,High,0,11.54,Music,Medium,49,0.9,0.92,T025,3.35
+C0381,38,Female,High,0,17.57,Reading,Hard,52,0.93,0.95,T026,0.77
+C0449,38,Male,Medium,0,8.45,Reading,Easy,37,0.73,0.59,T037,0.66
+C0310,65,Male,Medium,0,10.17,Math,Medium,11,0.65,0.29,T008,7.59
+C0226,36,Male,High,0,14.36,Art,Medium,18,0.8,0.57,T036,6.15
+C0169,65,Male,Medium,0,9.66,Music,Easy,15,0.73,0.64,T004,7.15
+C0033,67,Male,High,0,16.77,Math,Easy,10,0.99,0.71,T017,6.85
+C0413,63,Female,High,0,23.46,Art,Easy,12,0.43,0.99,T021,1.34
+C0250,56,Female,Low,0,19.96,Sensory Play,Medium,19,0.61,0.93,T045,1.52
+C0246,48,Female,High,0,18.33,Sensory Play,Easy,46,0.94,0.52,T011,2.52
+C0268,62,Female,Medium,0,16.65,Art,Medium,53,0.94,0.29,T043,3.99
+C0140,71,Female,High,0,14.76,Reading,Medium,32,0.65,0.37,T021,9.39
+C0273,42,Female,Low,0,8.73,Reading,Easy,42,0.39,0.34,T005,6.74
+C0415,57,Female,Medium,0,22.89,Sensory Play,Hard,18,0.87,0.48,T035,2.55
+C0095,45,Male,Low,0,9.97,Reading,Easy,22,0.71,0.9,T026,0.56
+C0226,50,Female,Low,0,6.83,Reading,Hard,37,0.84,0.55,T046,6.84
+C0378,50,Male,High,0,20.0,Art,Easy,16,0.62,0.65,T014,6.25
+C0038,39,Female,Low,0,8.51,Art,Easy,35,0.44,0.34,T016,6.76
+C0301,67,Female,Low,1,12.44,Reading,Medium,25,0.32,0.59,T002,2.61
+C0499,58,Male,Medium,0,5.57,Art,Medium,49,0.69,0.9,T009,5.17
+C0028,41,Female,Low,0,7.74,Music,Medium,35,0.41,0.82,T024,3.62
+C0445,59,Male,High,0,8.46,Sensory Play,Medium,48,0.43,0.26,T020,8.18
+C0496,55,Female,High,0,6.09,Music,Medium,41,0.61,0.89,T039,0.69
+C0476,55,Male,High,0,18.13,Music,Medium,45,0.61,0.42,T008,2.75
+C0317,47,Female,Low,0,21.74,Reading,Medium,51,0.49,0.73,T023,6.03
+C0244,68,Male,Medium,0,12.47,Reading,Hard,10,0.39,0.32,T031,2.05
+C0235,63,Male,High,1,22.49,Music,Hard,58,0.96,0.74,T002,6.73
+C0184,43,Female,Low,0,9.27,Music,Medium,30,0.39,0.23,T032,1.37
+C0271,36,Female,High,0,11.51,Math,Hard,22,0.55,0.68,T042,0.23
+C0439,57,Male,High,1,8.01,Math,Easy,35,0.51,0.72,T044,8.63
+C0235,41,Female,Medium,0,17.41,Sensory Play,Hard,54,0.91,0.4,T011,3.33
+C0238,56,Male,High,1,13.4,Music,Medium,18,0.59,0.95,T028,1.57
+C0376,67,Female,Medium,1,17.27,Art,Hard,46,0.39,0.24,T020,1.73
+C0265,70,Male,Low,0,20.23,Math,Easy,32,0.31,0.91,T038,8.86
+C0413,50,Female,High,0,15.91,Reading,Hard,10,0.81,0.51,T033,6.54
+C0408,40,Male,Low,0,17.55,Music,Medium,11,0.8,0.77,T032,9.56
+C0358,41,Female,Low,0,23.71,Art,Easy,52,0.59,0.72,T031,8.0
+C0339,60,Male,Low,1,10.98,Art,Easy,37,0.39,0.33,T019,7.68
+C0388,64,Male,High,0,12.18,Art,Hard,45,0.56,0.46,T002,5.0
+C0064,42,Female,Medium,0,19.35,Reading,Easy,40,0.71,0.62,T003,8.21
+C0477,48,Female,High,0,17.23,Math,Easy,50,0.79,0.88,T016,4.13
+C0176,53,Male,Low,0,8.57,Art,Easy,14,0.35,0.96,T049,8.27
+C0002,37,Male,Medium,0,12.52,Math,Medium,46,0.69,0.22,T016,7.58
+C0428,43,Male,Low,0,14.36,Sensory Play,Easy,34,0.49,0.48,T018,6.78
+C0141,46,Male,Medium,0,13.39,Reading,Hard,17,0.73,0.73,T003,3.3
+C0375,68,Female,High,0,8.57,Math,Hard,43,0.75,0.62,T028,6.31
+C0157,62,Male,Medium,1,23.49,Math,Easy,48,0.94,0.95,T016,5.07
+C0497,55,Male,High,0,20.25,Art,Hard,58,0.59,0.21,T021,4.62
+C0323,47,Male,Low,0,14.63,Art,Easy,41,0.68,0.55,T001,9.9
+C0145,66,Female,Medium,0,18.6,Reading,Hard,20,0.49,0.74,T041,5.04
+C0445,62,Male,Low,0,22.95,Math,Easy,56,0.5,0.37,T011,0.32
+C0292,67,Female,Medium,0,7.72,Music,Easy,34,0.33,0.78,T044,6.26
+C0152,45,Female,High,1,10.01,Art,Easy,12,0.5,0.26,T010,7.28
+C0431,38,Female,Medium,0,15.85,Art,Medium,54,0.34,0.56,T039,8.85
+C0192,62,Female,Medium,0,20.98,Sensory Play,Hard,59,0.97,0.74,T028,6.33
+C0436,70,Female,High,0,5.73,Reading,Easy,41,0.74,0.41,T019,0.19
+C0493,66,Female,High,0,24.68,Math,Medium,44,0.42,0.26,T004,1.2
+C0462,50,Female,High,0,14.1,Math,Medium,41,0.38,0.97,T024,1.61
+C0072,51,Male,Medium,0,12.18,Math,Easy,43,0.56,0.93,T033,2.11
+C0398,48,Male,Low,0,10.85,Art,Easy,46,0.52,0.94,T011,8.0
+C0304,70,Female,Medium,0,8.49,Reading,Easy,14,0.5,0.98,T027,3.1
+C0376,46,Male,Medium,0,20.83,Math,Easy,54,0.63,0.35,T033,3.12
+C0343,56,Male,Low,0,24.11,Music,Easy,37,0.94,0.33,T005,7.56
+C0451,46,Female,High,0,13.27,Sensory Play,Hard,37,0.7,0.23,T018,4.12
+C0139,65,Male,Medium,0,24.05,Sensory Play,Easy,17,0.66,0.91,T011,0.65
+C0186,70,Female,Low,1,21.48,Math,Easy,36,0.86,0.8,T024,5.85
+C0292,57,Male,High,0,14.62,Art,Hard,25,0.3,0.71,T012,1.3
+C0060,66,Female,High,0,18.48,Sensory Play,Medium,27,0.44,0.94,T016,5.72
+C0484,49,Female,Medium,1,13.7,Sensory Play,Hard,34,0.65,0.66,T011,7.8
+C0426,59,Male,High,0,16.17,Sensory Play,Medium,57,0.79,0.3,T002,9.29
+C0379,67,Male,High,0,6.16,Sensory Play,Medium,10,0.64,0.34,T023,0.67
+C0197,71,Female,Low,0,18.93,Math,Hard,17,0.41,0.31,T007,3.04
+C0294,67,Female,Low,0,6.06,Reading,Easy,30,0.95,0.45,T047,6.52
+C0439,50,Female,High,0,21.34,Reading,Medium,43,0.53,0.5,T035,3.15
+C0318,70,Male,Low,0,21.5,Art,Easy,33,0.85,0.84,T025,4.51
+C0301,38,Male,High,0,9.74,Music,Hard,46,0.92,0.35,T044,0.2
+C0343,51,Male,Medium,0,11.47,Reading,Medium,35,0.54,0.78,T007,6.93
+C0010,40,Male,Low,1,14.63,Music,Easy,56,0.89,0.59,T031,8.83
+C0061,56,Female,High,0,16.93,Reading,Medium,23,0.8,1.0,T031,9.77
+C0332,45,Female,High,0,10.75,Reading,Medium,38,0.93,0.82,T000,8.31
+C0225,54,Female,Low,0,16.85,Art,Hard,39,0.48,0.98,T002,0.32
+C0152,60,Female,Low,0,10.96,Sensory Play,Easy,12,0.95,0.47,T000,6.52
+C0198,39,Male,Medium,0,6.11,Art,Easy,16,0.35,0.3,T014,4.96
+C0051,64,Female,High,1,5.05,Reading,Medium,45,0.86,0.6,T049,9.38
+C0259,54,Female,Medium,0,7.02,Sensory Play,Easy,20,0.6,0.3,T019,9.02
+C0058,37,Male,Medium,0,20.85,Sensory Play,Medium,41,0.42,0.59,T002,9.88
+C0071,45,Male,Medium,0,24.23,Sensory Play,Hard,21,0.36,0.42,T014,8.62
+C0147,60,Female,Low,0,13.54,Music,Hard,24,0.57,0.59,T036,5.47
+C0348,55,Male,Medium,0,15.25,Reading,Easy,47,0.57,0.96,T020,7.15
+C0062,54,Female,Low,0,7.94,Math,Hard,33,0.46,0.43,T041,9.65
+C0309,58,Male,Low,0,16.02,Art,Hard,10,0.45,0.99,T038,5.78
+C0372,59,Male,Medium,0,7.89,Music,Easy,27,0.58,0.38,T022,8.4
+C0242,46,Female,Medium,0,17.22,Art,Medium,55,0.59,0.37,T039,9.42
+C0492,69,Male,High,0,23.67,Math,Hard,16,0.61,0.64,T034,5.71
+C0365,63,Female,Medium,0,8.91,Sensory Play,Easy,51,0.91,0.87,T017,1.59
+C0329,40,Male,High,0,20.29,Math,Easy,50,0.73,0.8,T016,1.56
+C0106,40,Male,Medium,0,5.47,Art,Easy,11,0.31,0.78,T030,1.15
+C0225,56,Male,Medium,0,12.51,Math,Hard,49,0.66,0.43,T047,4.76
+C0312,47,Male,Medium,0,7.21,Reading,Hard,40,0.83,0.22,T025,4.8
+C0217,39,Male,Medium,0,12.05,Math,Medium,42,0.34,0.33,T021,6.17
+C0424,55,Female,High,0,8.47,Reading,Medium,39,0.6,0.48,T044,4.83
+C0240,60,Male,High,0,12.47,Math,Medium,40,0.62,0.98,T035,9.73
+C0258,49,Female,Medium,1,13.35,Reading,Medium,43,0.97,0.94,T034,2.91
+C0375,46,Male,Medium,0,11.01,Reading,Medium,16,0.63,0.36,T010,8.74
+C0261,67,Female,High,0,18.13,Math,Medium,34,0.82,0.78,T026,1.0
+C0004,46,Male,Low,0,23.38,Music,Easy,25,0.51,0.66,T033,6.02
+C0260,53,Female,Low,0,13.01,Sensory Play,Medium,31,0.85,0.24,T017,6.48
+C0053,62,Female,Low,0,8.85,Sensory Play,Hard,45,0.53,0.5,T026,7.72
+C0046,53,Male,High,0,10.41,Sensory Play,Medium,36,0.6,0.59,T003,5.03
+C0214,58,Male,High,0,22.08,Reading,Hard,26,0.64,0.73,T016,1.97
+C0176,46,Male,Low,1,16.43,Sensory Play,Medium,13,0.95,0.44,T005,3.69
+C0008,56,Female,Low,0,14.1,Reading,Easy,44,0.34,0.95,T041,2.72
+C0098,40,Female,Medium,0,7.99,Music,Easy,50,0.44,0.56,T010,4.19
+C0019,58,Male,High,0,13.99,Math,Hard,31,0.79,0.4,T004,5.3
+C0377,60,Male,High,0,10.57,Math,Medium,56,0.7,0.45,T017,6.25
+C0240,45,Female,Low,0,23.86,Reading,Easy,44,0.48,0.8,T024,8.45
+C0060,57,Female,Low,0,22.68,Reading,Easy,53,0.5,0.71,T009,9.1
+C0378,54,Male,High,0,6.68,Music,Medium,24,0.56,0.79,T040,4.63
+C0489,36,Female,Medium,0,15.33,Sensory Play,Hard,49,0.62,0.43,T015,0.89
+C0418,42,Male,Low,0,9.5,Music,Hard,53,0.87,0.46,T009,7.97
+C0177,39,Male,High,1,13.22,Math,Hard,30,0.31,0.52,T009,4.77
+C0337,36,Male,High,0,22.54,Math,Easy,22,0.93,0.35,T035,5.46
+C0061,50,Female,Medium,0,15.55,Sensory Play,Medium,56,0.59,0.75,T020,5.96
+C0144,47,Female,Medium,0,11.68,Math,Easy,20,0.46,0.46,T013,6.68
+C0215,57,Female,Low,0,9.16,Reading,Easy,58,0.66,0.46,T007,8.9
+C0002,57,Female,Low,0,21.01,Math,Easy,36,0.76,0.42,T000,9.52
+C0159,52,Male,Low,0,17.49,Art,Easy,40,0.33,0.56,T015,9.4
+C0226,64,Female,High,0,14.36,Sensory Play,Medium,53,0.8,0.82,T025,8.09
+C0485,49,Male,Low,0,9.35,Sensory Play,Easy,41,0.83,0.87,T048,8.89
+C0268,55,Male,High,0,11.68,Sensory Play,Easy,39,0.42,0.84,T041,0.5
+C0119,68,Male,Low,0,24.2,Art,Hard,27,0.42,0.7,T005,8.49
+C0380,50,Female,Medium,1,15.4,Music,Easy,25,0.44,0.42,T038,0.72
+C0494,47,Male,Medium,0,13.01,Reading,Medium,44,0.86,0.79,T049,7.46
+C0088,55,Male,High,0,15.43,Sensory Play,Easy,18,0.49,0.23,T001,1.69
+C0328,65,Female,Medium,0,20.58,Math,Medium,48,0.86,0.84,T008,3.6
+C0067,38,Male,High,0,11.8,Reading,Medium,46,0.68,0.82,T004,1.84
+C0397,63,Female,High,0,8.57,Math,Medium,19,0.84,0.74,T039,4.43
+C0356,61,Female,Medium,1,16.7,Reading,Hard,21,0.69,0.28,T004,4.12
+C0097,65,Female,High,0,18.3,Reading,Hard,17,0.54,1.0,T046,0.48
+C0266,48,Male,Medium,0,19.25,Math,Easy,12,0.94,0.81,T007,8.3
+C0104,48,Female,Low,0,22.64,Math,Easy,28,0.8,0.79,T004,8.54
+C0439,37,Female,Low,0,12.42,Reading,Easy,20,0.64,0.25,T004,7.88
+C0322,37,Female,Medium,0,6.51,Sensory Play,Medium,17,0.75,0.52,T016,8.48
+C0122,71,Female,Medium,0,24.17,Math,Medium,35,0.73,0.27,T008,7.51
+C0475,61,Male,Medium,0,13.7,Art,Medium,54,0.55,0.49,T033,9.37
+C0028,46,Female,Medium,0,17.47,Art,Easy,32,0.6,0.66,T032,5.76
+C0136,43,Male,Low,0,18.33,Reading,Easy,19,0.52,0.9,T021,5.83
+C0194,57,Female,High,0,15.93,Music,Easy,27,1.0,0.43,T020,8.6
+C0408,55,Male,High,0,9.11,Reading,Easy,21,0.71,0.7,T042,3.49
+C0225,43,Female,Low,0,20.1,Reading,Hard,48,0.36,0.33,T014,0.5
+C0331,64,Male,High,0,21.08,Sensory Play,Hard,35,0.66,0.48,T000,7.5
+C0169,61,Female,Low,0,16.06,Sensory Play,Hard,20,0.33,0.96,T006,2.55
+C0008,65,Male,High,1,14.77,Music,Easy,19,0.5,0.8,T022,4.74
+C0462,52,Male,Medium,0,7.28,Music,Hard,12,0.61,0.64,T046,2.4
+C0039,55,Male,Medium,0,6.68,Music,Hard,16,0.67,0.4,T005,8.27
+C0024,51,Female,Medium,0,11.79,Music,Easy,13,0.98,0.5,T019,9.58
+C0260,42,Male,Low,0,11.22,Music,Hard,49,0.99,0.33,T025,0.55
+C0394,51,Male,Low,0,24.07,Reading,Easy,17,0.37,0.48,T041,2.33
+C0442,62,Male,High,0,20.67,Reading,Easy,47,0.68,0.32,T011,1.9
+C0225,58,Male,High,0,18.2,Art,Easy,22,0.87,0.84,T012,6.73
+C0471,59,Female,High,0,15.35,Art,Medium,21,0.47,0.26,T046,4.29
+C0123,44,Male,Low,0,8.35,Math,Easy,44,0.83,0.35,T048,4.56
+C0462,70,Male,High,0,24.57,Reading,Hard,47,0.92,0.75,T012,1.57
+C0037,55,Male,Medium,0,12.5,Music,Hard,52,0.76,0.92,T001,4.15
+C0327,52,Female,High,0,7.14,Math,Easy,45,0.53,0.97,T031,3.03
+C0250,66,Male,Medium,0,14.88,Sensory Play,Medium,56,0.95,0.87,T049,6.11
+C0388,43,Male,Low,0,22.48,Reading,Medium,11,0.92,0.37,T030,2.17
+C0175,50,Male,Medium,0,22.75,Art,Medium,24,0.8,0.43,T010,6.15
+C0089,66,Male,Medium,0,5.22,Reading,Hard,58,0.55,0.9,T036,3.78
+C0401,65,Female,Medium,0,22.73,Reading,Medium,43,0.85,0.91,T003,3.46
+C0453,55,Male,Low,0,10.43,Reading,Medium,48,0.52,0.71,T033,3.06
+C0036,47,Male,Low,0,5.78,Reading,Easy,35,0.48,0.45,T015,6.74
+C0315,52,Female,Low,0,21.96,Sensory Play,Medium,57,0.66,0.38,T030,5.62
+C0175,65,Female,Low,1,22.28,Art,Medium,14,1.0,0.88,T024,8.52
+C0460,64,Female,High,0,16.92,Reading,Medium,57,0.86,0.36,T038,2.42
+C0283,54,Male,Low,0,16.49,Sensory Play,Easy,34,0.81,0.73,T007,0.4
+C0452,46,Female,Medium,0,21.26,Math,Easy,43,0.62,0.97,T007,1.82
+C0460,69,Male,Low,0,20.73,Reading,Medium,56,0.52,0.76,T033,3.43
+C0080,42,Female,High,0,22.8,Sensory Play,Hard,13,0.9,0.41,T014,1.8
+C0113,69,Male,High,0,16.05,Music,Hard,43,0.7,0.43,T004,0.84
+C0039,55,Female,High,1,24.35,Math,Easy,36,0.87,0.27,T018,4.45
+C0300,59,Male,Medium,0,24.92,Art,Medium,51,0.64,0.75,T009,6.77
+C0223,45,Female,Low,0,7.33,Reading,Hard,38,0.83,0.61,T008,7.52
+C0317,67,Male,Low,0,21.99,Reading,Medium,14,0.91,0.37,T028,3.99
+C0348,50,Male,Low,1,15.0,Sensory Play,Easy,27,0.57,0.38,T039,4.78
+C0114,55,Male,Medium,0,12.75,Art,Hard,13,0.31,0.21,T036,7.55
+C0185,38,Male,Medium,0,17.26,Music,Easy,10,0.48,0.98,T018,3.53
+C0322,43,Male,High,0,6.12,Math,Medium,59,0.94,0.86,T012,7.85
+C0055,58,Male,High,0,15.13,Art,Easy,29,0.78,0.52,T045,9.67
+C0039,46,Male,Low,0,22.42,Reading,Easy,15,0.82,0.96,T039,8.8
+C0353,43,Male,Medium,0,9.27,Sensory Play,Easy,29,0.53,0.74,T015,4.54
+C0039,64,Female,Medium,0,13.53,Music,Easy,29,0.79,0.8,T029,5.8
+C0346,65,Male,Low,0,23.79,Sensory Play,Hard,55,0.75,0.74,T004,7.16
+C0460,45,Male,Low,0,13.57,Math,Medium,36,0.42,0.81,T032,3.49
+C0236,63,Female,High,0,12.17,Art,Hard,35,0.98,0.34,T018,7.99
+C0288,71,Male,High,0,13.81,Sensory Play,Medium,41,0.55,0.65,T018,4.37
+C0261,48,Female,High,1,15.39,Sensory Play,Medium,19,0.53,0.88,T016,8.47
+C0215,67,Male,Low,0,17.64,Reading,Medium,27,0.56,0.22,T023,2.55
+C0146,71,Female,Low,0,21.01,Sensory Play,Medium,50,0.36,0.3,T027,0.11
+C0335,61,Female,High,0,14.04,Music,Medium,21,0.74,0.4,T041,6.33
+C0167,57,Male,High,0,21.35,Art,Hard,19,0.47,0.44,T036,4.52
+C0091,39,Female,Medium,0,15.67,Math,Medium,33,0.86,0.35,T021,0.6
+C0352,66,Male,Medium,0,11.77,Sensory Play,Easy,33,0.58,0.7,T038,4.88
+C0058,53,Male,High,0,18.16,Music,Hard,47,0.62,0.44,T015,1.69
+C0058,59,Male,High,0,19.35,Math,Hard,55,0.75,0.33,T034,6.3
+C0303,58,Male,Medium,0,16.16,Music,Medium,34,0.83,0.92,T026,4.45
+C0168,57,Female,High,0,6.13,Sensory Play,Easy,17,0.46,0.76,T011,1.71
+C0268,37,Male,Medium,0,8.4,Sensory Play,Easy,23,0.98,0.4,T045,4.12
+C0362,66,Female,Medium,0,10.71,Art,Medium,52,0.74,0.49,T027,2.33
+C0044,46,Female,Medium,1,10.65,Reading,Medium,40,0.3,0.79,T000,6.53
+C0344,63,Male,Low,0,18.47,Music,Easy,33,0.59,0.83,T038,2.95
+C0180,67,Male,Low,0,5.37,Reading,Hard,25,0.61,0.34,T017,8.22
+C0169,40,Male,High,0,20.11,Reading,Hard,29,0.87,0.95,T022,0.14
+C0355,45,Male,Medium,0,10.31,Math,Medium,47,0.51,0.83,T021,4.03
+C0190,59,Female,Low,0,11.2,Math,Hard,56,0.53,0.89,T003,6.17
+C0154,70,Male,High,0,15.56,Music,Hard,24,0.35,0.32,T047,0.23
+C0421,58,Female,High,0,9.32,Reading,Easy,23,0.5,0.31,T010,2.16
+C0187,52,Male,High,0,22.69,Art,Hard,21,0.8,0.44,T017,3.27
+C0006,36,Male,High,0,6.71,Reading,Easy,43,0.74,0.25,T047,0.22
+C0132,66,Male,High,0,13.89,Math,Medium,17,0.36,0.27,T006,5.47
+C0234,66,Male,Medium,0,21.99,Reading,Medium,28,0.38,0.31,T020,6.31
+C0044,69,Female,High,0,17.32,Sensory Play,Easy,55,0.56,0.77,T034,2.28
+C0313,44,Female,Medium,0,10.85,Sensory Play,Easy,14,0.82,0.22,T036,5.43
+C0248,57,Male,Low,0,13.42,Art,Medium,36,0.88,0.27,T049,9.99
+C0498,48,Female,High,0,19.13,Music,Easy,50,0.31,0.96,T029,8.87
+C0030,60,Female,Low,0,24.47,Reading,Medium,22,0.53,0.27,T016,0.59
+C0022,53,Male,Medium,0,22.86,Sensory Play,Medium,41,0.6,0.63,T032,1.28
+C0425,47,Male,Medium,0,11.85,Music,Medium,40,0.94,0.71,T015,4.94
+C0393,52,Female,Low,0,24.96,Sensory Play,Medium,50,0.65,0.97,T014,2.45
+C0159,50,Female,High,0,5.07,Music,Medium,55,0.49,0.92,T012,0.81
+C0362,50,Female,High,0,5.55,Music,Medium,46,0.57,0.55,T038,2.55
+C0436,50,Female,Low,0,21.48,Sensory Play,Hard,11,0.61,0.95,T002,0.61
+C0157,48,Male,Low,0,8.99,Math,Hard,16,0.77,0.55,T023,5.3
+C0038,52,Male,Low,0,6.22,Music,Medium,57,0.33,0.74,T022,4.9
+C0414,67,Female,High,0,9.74,Reading,Hard,20,0.57,0.41,T044,0.06
+C0081,44,Male,High,0,13.52,Sensory Play,Easy,20,0.75,0.71,T047,4.83
+C0355,55,Female,High,0,19.61,Math,Easy,32,0.5,0.63,T000,5.2
+C0257,61,Female,Low,0,17.49,Sensory Play,Medium,40,0.71,0.69,T031,6.06
+C0205,62,Male,High,0,9.75,Art,Hard,53,0.55,0.75,T032,9.7
+C0076,56,Female,Medium,0,15.07,Reading,Easy,54,0.83,0.34,T047,9.83
+C0476,53,Female,Low,1,23.52,Art,Easy,17,0.34,0.44,T029,5.27
+C0011,48,Male,High,1,21.3,Music,Easy,41,0.94,0.79,T001,8.45
+C0294,51,Male,Low,0,11.46,Music,Easy,57,0.42,0.33,T017,0.85
+C0449,44,Female,Medium,0,24.65,Art,Hard,30,0.41,0.48,T029,5.31
+C0223,47,Female,Medium,0,19.17,Art,Easy,40,0.89,0.73,T017,6.79
+C0012,54,Male,Low,0,6.25,Music,Easy,10,0.91,0.95,T004,5.65
+C0045,42,Female,Low,0,5.7,Math,Easy,22,0.37,0.26,T004,2.31
+C0154,70,Female,Medium,1,8.37,Reading,Medium,20,0.94,0.61,T007,0.63
+C0112,53,Male,Low,0,19.56,Sensory Play,Easy,38,0.49,0.27,T008,3.87
+C0232,51,Male,Medium,0,8.67,Art,Easy,13,0.73,0.5,T031,6.48
+C0016,39,Male,Medium,0,15.23,Reading,Hard,45,0.35,0.34,T013,9.92
+C0359,60,Male,High,0,6.87,Sensory Play,Easy,24,0.57,0.72,T012,2.37
+C0222,67,Male,Low,1,23.42,Sensory Play,Easy,12,0.62,0.81,T017,9.18
+C0353,48,Male,Low,0,11.88,Art,Easy,38,0.72,0.4,T003,0.68
+C0187,52,Female,High,0,23.16,Math,Medium,30,0.67,0.77,T049,9.31
+C0447,41,Female,Medium,0,23.9,Math,Hard,11,0.62,0.56,T021,8.32
+C0343,54,Male,Low,0,5.12,Reading,Hard,15,0.97,0.43,T019,0.21
+C0364,48,Male,High,0,14.28,Reading,Medium,40,0.43,0.62,T014,2.98
+C0162,61,Female,High,0,5.49,Music,Medium,33,0.41,0.5,T006,0.51
+C0495,49,Female,Low,0,23.17,Math,Hard,49,0.8,0.38,T012,9.96
+C0325,66,Female,High,0,15.37,Reading,Easy,26,0.35,0.81,T033,4.28
+C0466,39,Male,Medium,0,6.5,Music,Hard,14,0.64,0.84,T040,6.62
+C0413,43,Male,High,0,7.21,Sensory Play,Medium,11,0.64,0.84,T029,2.34
+C0454,60,Female,Medium,0,12.67,Reading,Easy,21,0.52,0.51,T004,9.34
+C0073,48,Male,Medium,0,23.8,Music,Hard,14,0.95,0.34,T000,2.74
+C0232,67,Male,Low,0,18.86,Math,Easy,51,0.5,0.87,T030,2.6
+C0223,63,Male,High,1,22.35,Sensory Play,Easy,50,0.5,0.46,T019,3.15
+C0481,65,Female,Medium,0,12.33,Reading,Medium,29,0.46,0.8,T018,4.62
+C0318,38,Female,Medium,0,5.86,Math,Hard,17,0.4,0.85,T028,0.19
+C0411,63,Male,High,0,24.49,Sensory Play,Medium,10,0.55,0.81,T044,5.98
+C0059,38,Male,Medium,0,5.34,Art,Hard,15,0.78,0.51,T037,0.32
+C0334,69,Male,High,0,23.95,Math,Hard,20,0.82,0.95,T009,5.39
+C0221,51,Male,Low,0,12.37,Art,Easy,12,0.87,0.73,T028,4.58
+C0036,57,Male,Medium,0,5.2,Reading,Easy,40,0.44,0.66,T030,2.43
+C0476,67,Female,Medium,0,18.78,Music,Easy,37,0.32,0.76,T010,3.3
+C0277,43,Male,High,0,24.61,Reading,Medium,56,0.98,0.24,T022,7.06
+C0195,43,Male,High,0,24.31,Math,Easy,52,0.31,0.51,T029,0.1
+C0403,41,Male,High,0,8.22,Art,Medium,14,0.97,0.9,T024,3.17
+C0351,49,Female,High,0,8.62,Art,Easy,35,0.88,0.33,T015,6.8
+C0483,67,Female,Medium,0,16.31,Sensory Play,Medium,25,0.94,0.53,T022,1.52
+C0241,70,Male,Low,0,17.75,Reading,Hard,40,0.57,0.52,T032,5.6
+C0323,45,Female,Low,1,19.79,Reading,Medium,37,0.44,0.48,T036,1.69
+C0218,38,Female,Low,0,8.62,Math,Medium,16,0.72,0.65,T027,1.55
+C0191,47,Female,Low,0,24.18,Art,Medium,47,0.82,1.0,T026,7.72
+C0016,66,Female,High,0,17.77,Math,Hard,18,0.39,0.4,T005,2.67
+C0011,64,Female,Medium,0,21.94,Math,Medium,48,0.86,0.76,T037,3.76
+C0405,40,Female,Medium,0,15.8,Art,Hard,44,0.45,0.81,T036,7.3
+C0400,60,Male,Medium,0,13.29,Math,Easy,52,0.64,0.67,T005,1.8
+C0393,66,Female,High,0,24.54,Art,Easy,36,0.9,0.28,T024,5.32
+C0373,56,Female,Medium,0,16.64,Math,Hard,21,0.44,0.66,T012,9.18
+C0192,55,Male,High,0,22.34,Music,Medium,34,0.47,0.96,T032,5.54
+C0021,57,Male,Medium,1,24.07,Math,Easy,52,0.34,0.47,T032,0.49
+C0473,39,Male,Low,0,18.51,Math,Medium,38,0.4,0.71,T024,5.9
+C0119,48,Male,High,0,15.98,Music,Medium,40,0.4,0.97,T013,0.9
+C0209,55,Female,Medium,0,5.07,Reading,Hard,43,0.44,0.84,T039,2.82
+C0305,48,Female,Low,1,5.8,Art,Easy,42,0.5,0.75,T040,8.5
+C0269,52,Female,Low,0,9.02,Sensory Play,Hard,36,0.87,0.98,T041,0.11
+C0191,71,Female,Low,0,8.72,Music,Hard,11,0.94,0.34,T037,0.77
+C0174,68,Male,High,0,10.1,Reading,Hard,23,0.58,0.82,T008,3.63
+C0284,36,Female,High,0,11.1,Math,Hard,22,0.39,0.53,T017,9.99
+C0203,50,Female,Medium,1,12.2,Reading,Medium,33,0.46,0.49,T014,2.92
+C0163,48,Male,Low,0,13.41,Music,Easy,14,0.82,0.62,T003,1.57
+C0250,52,Female,Medium,0,6.98,Math,Easy,43,0.77,0.23,T033,5.49
+C0226,59,Female,Medium,0,5.85,Reading,Easy,32,0.98,0.45,T037,5.19
+C0435,43,Female,Low,0,18.48,Sensory Play,Medium,28,0.31,0.33,T016,4.5
+C0380,62,Female,Medium,0,15.75,Art,Medium,39,0.83,0.31,T006,9.47
+C0459,58,Male,High,0,13.88,Art,Hard,58,0.65,0.47,T031,2.8
+C0006,43,Male,Medium,0,17.69,Music,Hard,52,0.93,0.84,T022,2.93
+C0028,43,Male,Low,0,21.55,Math,Hard,25,0.7,0.36,T019,1.4
+C0394,61,Male,High,1,13.55,Math,Hard,59,0.61,0.63,T046,6.97
+C0032,48,Male,High,0,17.82,Art,Easy,49,0.77,0.8,T001,3.21
+C0133,63,Female,Medium,0,24.07,Reading,Hard,43,0.88,0.39,T020,8.03
+C0366,60,Female,Medium,0,21.79,Math,Medium,58,0.5,0.94,T011,9.72
+C0078,51,Male,High,0,13.52,Sensory Play,Medium,20,0.38,0.89,T041,0.44
+C0415,37,Male,Medium,0,17.89,Sensory Play,Medium,23,0.6,0.4,T048,9.93
+C0434,53,Male,Low,0,8.54,Math,Hard,57,0.45,0.99,T026,2.54
+C0458,52,Female,Medium,0,16.21,Math,Easy,56,0.6,0.74,T049,4.2
+C0057,65,Male,Medium,0,24.63,Art,Easy,24,0.99,0.43,T047,7.78
+C0470,48,Female,High,1,15.37,Music,Hard,44,0.7,0.74,T009,6.65
+C0025,67,Female,Medium,0,23.55,Art,Hard,16,0.79,0.73,T007,7.78
+C0481,64,Female,Medium,0,13.15,Music,Medium,38,0.77,0.68,T020,4.66
+C0429,65,Female,Medium,1,24.98,Sensory Play,Medium,53,0.87,0.77,T021,9.16
+C0225,53,Male,Low,0,16.58,Music,Easy,31,0.96,0.41,T012,7.9
+C0284,48,Female,Medium,0,5.85,Art,Medium,32,0.76,0.98,T047,3.09
+C0003,56,Female,Low,0,16.74,Math,Medium,33,0.63,0.89,T039,9.48
+C0464,65,Male,Low,0,10.49,Music,Hard,44,0.52,0.8,T011,9.61
+C0098,56,Female,Low,0,5.65,Art,Easy,19,0.55,0.22,T016,4.15
+C0396,52,Female,Low,0,21.42,Sensory Play,Hard,17,0.53,0.67,T047,6.52
+C0488,54,Female,High,0,10.51,Music,Easy,57,0.53,0.77,T008,8.15
+C0038,50,Male,Low,0,20.93,Sensory Play,Hard,57,0.79,0.88,T048,8.17
+C0270,44,Female,Medium,0,10.76,Sensory Play,Easy,21,0.71,0.96,T039,0.14
+C0374,45,Female,Low,0,8.89,Reading,Medium,38,0.44,0.93,T011,6.29
+C0284,66,Male,Medium,0,24.48,Music,Easy,38,0.98,0.52,T008,9.74
+C0156,58,Male,Low,0,12.23,Art,Easy,32,0.6,0.92,T029,2.31
+C0074,65,Female,High,0,17.03,Music,Hard,35,0.7,0.2,T005,7.96
+C0371,68,Female,Low,0,17.2,Music,Easy,46,0.79,0.48,T024,5.34
+C0287,44,Male,Low,0,16.21,Sensory Play,Easy,41,0.73,0.29,T027,2.21
+C0129,36,Female,High,0,23.29,Sensory Play,Easy,47,0.52,0.91,T009,0.51
+C0174,70,Male,Low,0,18.49,Sensory Play,Hard,15,0.86,0.94,T040,7.6
+C0461,46,Female,Medium,1,13.07,Sensory Play,Easy,17,0.38,0.4,T027,3.16
+C0083,69,Male,Low,0,22.25,Art,Hard,26,0.7,0.49,T028,3.76
+C0021,51,Female,Low,0,8.62,Math,Medium,21,0.49,0.99,T035,4.85
+C0458,44,Male,Low,0,15.88,Reading,Hard,31,0.73,0.65,T010,5.07
+C0026,67,Male,High,1,24.01,Sensory Play,Easy,23,0.45,0.6,T020,2.06
+C0194,50,Male,Low,0,17.51,Sensory Play,Medium,43,0.84,0.6,T037,6.71
+C0336,47,Male,Low,0,21.34,Reading,Easy,28,0.46,0.76,T025,6.93
+C0381,68,Male,Medium,0,18.07,Sensory Play,Hard,15,0.92,0.96,T017,1.42
+C0235,49,Female,Low,0,21.79,Math,Medium,27,0.9,0.49,T003,5.33
+C0439,43,Female,Low,1,23.89,Music,Medium,45,0.55,0.34,T043,6.09
+C0091,43,Male,Low,0,10.46,Reading,Medium,46,0.57,0.35,T040,1.86
+C0476,62,Female,Low,0,8.39,Art,Easy,47,0.79,0.22,T014,8.94
+C0020,47,Female,Medium,0,14.68,Reading,Medium,24,0.36,0.64,T022,4.83
+C0302,36,Female,Medium,0,19.04,Math,Medium,47,0.36,0.94,T040,1.15
+C0463,46,Female,High,0,9.54,Art,Medium,49,0.4,0.77,T005,3.34
+C0356,66,Female,Low,0,5.08,Music,Medium,18,0.69,0.99,T042,4.77
+C0442,52,Female,High,0,11.86,Sensory Play,Hard,15,0.4,0.93,T006,0.1
+C0083,68,Male,High,0,24.38,Reading,Easy,11,0.49,0.59,T045,0.32
+C0261,67,Female,Low,0,18.9,Art,Easy,25,0.75,0.59,T047,0.56
+C0146,64,Female,Medium,0,13.03,Reading,Medium,10,0.31,0.7,T014,5.38
+C0440,56,Female,Medium,0,8.85,Music,Hard,39,0.43,0.29,T008,3.36
+C0452,56,Male,Low,0,12.12,Reading,Medium,57,0.95,0.69,T029,8.93
+C0386,58,Female,Low,0,8.4,Art,Easy,42,0.76,0.57,T043,5.59
+C0256,41,Female,Medium,0,7.13,Math,Easy,10,0.51,0.71,T042,7.6
+C0057,57,Female,Low,0,23.13,Art,Easy,48,0.33,0.65,T027,6.87
+C0379,43,Male,Low,0,24.95,Reading,Medium,25,0.71,0.45,T029,5.2
+C0421,70,Female,Low,0,8.28,Music,Medium,26,0.46,0.69,T007,7.45
+C0014,46,Male,Medium,0,6.09,Sensory Play,Hard,57,0.97,0.49,T034,5.45
+C0161,59,Female,High,0,11.59,Sensory Play,Hard,57,0.78,0.36,T034,3.85
+C0444,56,Male,High,0,14.23,Music,Easy,47,0.98,0.74,T025,4.36
+C0162,37,Male,Low,1,9.1,Reading,Easy,27,0.89,0.45,T029,8.39
+C0319,54,Male,Medium,0,11.03,Music,Hard,31,0.64,0.91,T034,5.63
+C0496,63,Female,Low,1,9.02,Reading,Easy,31,0.77,0.36,T037,3.77
+C0280,52,Male,Medium,0,20.49,Art,Hard,44,0.87,0.68,T010,1.8
+C0279,41,Male,Low,0,19.25,Math,Medium,40,0.7,0.66,T019,4.95
+C0011,54,Male,Medium,0,17.7,Reading,Easy,49,0.34,0.36,T045,2.52
+C0273,63,Male,Medium,0,12.74,Sensory Play,Easy,36,0.63,0.55,T030,9.56
+C0270,37,Female,High,0,23.18,Sensory Play,Hard,45,0.39,0.74,T033,4.91
+C0491,39,Female,Low,0,24.39,Math,Medium,13,0.8,0.45,T011,0.09
+C0207,57,Female,High,0,8.47,Reading,Easy,58,0.78,0.29,T047,0.93
+C0026,61,Female,High,0,9.46,Math,Easy,14,1.0,0.69,T027,2.84
+C0071,71,Male,Medium,0,15.51,Art,Hard,34,0.74,0.38,T002,0.92
+C0059,48,Female,Low,0,6.83,Math,Medium,40,0.86,0.75,T047,8.94
+C0429,67,Male,Medium,0,13.73,Art,Hard,23,0.49,0.87,T041,8.54
+C0472,52,Female,Medium,0,16.64,Sensory Play,Medium,39,0.54,0.3,T004,9.71
+C0144,71,Female,Medium,0,15.44,Art,Medium,56,0.94,0.55,T012,7.06
+C0092,54,Female,Low,0,11.62,Reading,Hard,21,0.83,0.56,T011,6.45
+C0308,70,Male,Low,0,15.85,Reading,Hard,36,0.76,0.71,T000,9.23
+C0007,63,Female,Medium,0,24.18,Reading,Medium,54,0.48,0.47,T042,9.46
+C0078,36,Female,Low,0,9.12,Reading,Hard,33,0.79,0.53,T018,8.77
+C0026,53,Female,Medium,0,18.1,Music,Easy,39,0.92,0.21,T028,8.61
+C0173,68,Male,Low,0,5.87,Art,Easy,27,0.46,0.3,T046,6.72
+C0049,47,Female,Low,0,6.33,Reading,Easy,23,0.79,0.66,T049,0.02
+C0499,43,Female,High,0,16.04,Math,Easy,28,0.58,0.37,T047,4.3
+C0198,59,Male,Medium,0,7.1,Math,Easy,31,0.38,0.32,T038,6.36
+C0386,51,Male,High,0,5.45,Music,Hard,35,0.83,0.46,T041,5.47
+C0348,39,Female,High,0,8.43,Art,Medium,16,0.42,0.33,T024,8.21
+C0447,62,Female,Medium,0,16.3,Art,Hard,37,0.48,0.25,T015,8.19
+C0427,44,Female,Medium,0,19.07,Art,Easy,47,0.85,0.43,T016,5.99
+C0180,51,Male,Low,0,9.05,Music,Easy,14,0.82,0.33,T027,0.22
+C0023,47,Male,Medium,1,18.37,Art,Hard,45,0.48,0.84,T038,3.69
+C0315,66,Male,High,0,8.65,Art,Hard,27,0.96,0.25,T042,2.29
+C0377,59,Female,High,0,17.27,Reading,Medium,23,0.45,0.8,T048,3.39
+C0386,49,Male,Medium,0,13.24,Art,Easy,57,1.0,0.51,T004,6.17
+C0403,60,Female,High,0,18.08,Reading,Hard,32,0.82,0.74,T000,0.66
+C0045,69,Male,Low,0,24.9,Reading,Medium,23,0.57,0.24,T002,0.22
+C0014,38,Male,High,0,23.76,Art,Easy,41,0.39,0.94,T047,4.37
+C0152,59,Male,Low,0,5.09,Math,Easy,14,0.52,0.81,T023,7.94
+C0221,44,Female,High,0,22.71,Sensory Play,Easy,31,0.44,0.31,T028,0.31
+C0205,61,Female,Low,0,6.33,Math,Hard,37,0.74,0.38,T014,8.49
+C0454,55,Female,Low,0,24.06,Art,Easy,52,0.55,0.72,T003,3.84
+C0272,45,Female,Medium,0,10.64,Art,Easy,21,0.51,0.94,T043,1.18
+C0381,54,Male,Low,1,12.64,Math,Medium,27,0.83,0.56,T000,5.67
+C0235,38,Female,Medium,0,6.83,Art,Hard,45,0.46,0.59,T048,9.52
+C0339,59,Male,High,0,7.25,Reading,Medium,40,0.71,0.39,T014,5.43
+C0227,40,Female,High,0,19.53,Music,Hard,22,0.44,0.51,T023,6.87
+C0008,38,Female,High,0,23.89,Art,Easy,29,0.8,0.43,T030,8.16
+C0165,62,Male,Low,0,17.21,Art,Medium,54,0.74,0.48,T019,7.99
+C0431,51,Male,High,0,19.32,Math,Hard,45,0.86,0.22,T009,0.73
+C0443,50,Female,High,0,20.24,Reading,Hard,16,0.35,0.23,T010,7.41
+C0318,70,Female,Medium,0,10.26,Math,Easy,32,0.45,0.74,T017,9.49
+C0213,47,Male,Medium,0,5.9,Math,Easy,43,0.41,0.75,T033,7.01
+C0116,61,Male,High,0,5.04,Art,Medium,59,0.43,0.46,T027,8.36
+C0385,69,Male,High,0,12.01,Reading,Medium,41,0.37,0.91,T037,4.86
+C0343,58,Male,Low,0,9.83,Art,Hard,30,0.69,0.41,T015,3.19
+C0071,66,Male,Low,0,6.25,Art,Medium,15,0.72,0.52,T023,6.76
+C0394,55,Female,High,0,8.59,Art,Easy,25,0.89,0.79,T038,4.92
+C0063,47,Female,Medium,0,7.49,Art,Medium,44,0.59,0.79,T011,8.95
+C0204,58,Female,High,1,23.3,Music,Medium,56,0.67,0.89,T049,9.74
+C0208,39,Female,Low,0,7.81,Sensory Play,Hard,29,0.99,0.22,T041,8.2
+C0071,58,Male,Medium,0,15.75,Reading,Easy,51,0.67,0.35,T006,9.93
+C0276,36,Male,Medium,0,16.86,Music,Hard,50,0.7,0.71,T035,3.48
+C0273,60,Male,Low,0,15.87,Sensory Play,Easy,20,1.0,0.47,T016,8.96
+C0477,37,Female,High,0,6.98,Sensory Play,Easy,41,1.0,0.23,T048,3.3
+C0319,65,Male,High,1,11.38,Sensory Play,Hard,23,0.6,0.67,T003,1.18
+C0337,38,Male,High,0,6.03,Music,Medium,33,0.74,0.51,T036,6.21
+C0365,56,Female,Low,0,12.91,Reading,Hard,53,0.64,0.49,T032,4.55
+C0494,60,Female,Medium,0,8.77,Math,Medium,48,0.8,0.41,T018,9.22
+C0094,55,Female,Low,0,16.23,Sensory Play,Hard,52,0.96,0.2,T025,4.92
+C0165,57,Male,High,0,18.86,Math,Hard,40,0.52,0.35,T010,9.28
+C0031,56,Male,Low,0,15.64,Math,Medium,26,0.87,0.58,T030,0.79
+C0010,68,Female,Medium,0,13.68,Art,Medium,34,0.76,0.42,T000,8.31
+C0300,50,Female,Low,0,12.75,Math,Medium,18,0.5,0.9,T039,7.59
+C0216,50,Male,High,0,21.83,Art,Hard,31,0.86,0.31,T035,7.2
+C0288,60,Female,Medium,0,9.39,Reading,Medium,54,0.6,0.9,T028,3.55
+C0101,56,Male,Low,0,19.68,Reading,Medium,57,0.38,0.52,T024,7.84
+C0424,59,Female,Low,0,20.15,Art,Medium,44,1.0,0.42,T046,4.83
+C0391,40,Female,Medium,0,13.38,Reading,Easy,46,0.6,0.44,T048,7.15
+C0266,41,Female,Medium,0,10.95,Sensory Play,Medium,26,0.68,0.46,T017,5.52
+C0213,58,Male,High,0,14.41,Reading,Medium,37,0.87,0.61,T002,1.57
+C0178,39,Male,Medium,0,6.86,Art,Medium,10,0.97,0.48,T017,0.65
+C0087,62,Female,High,0,5.92,Sensory Play,Easy,18,0.91,0.72,T006,3.66
+C0040,53,Male,Low,0,7.23,Math,Easy,58,0.67,0.54,T027,9.33
+C0400,56,Female,High,0,8.74,Math,Medium,22,0.68,0.74,T016,5.3
+C0075,63,Female,Low,0,15.08,Math,Medium,56,0.5,0.68,T024,8.02
+C0376,70,Male,Medium,0,21.98,Art,Medium,41,0.62,0.4,T017,5.76
+C0045,57,Male,Low,0,9.71,Math,Medium,37,0.96,0.85,T039,9.58
+C0159,58,Male,Medium,0,23.7,Reading,Easy,40,0.81,0.84,T042,3.69
+C0462,38,Male,Low,0,24.1,Math,Medium,17,0.31,0.99,T002,0.57
+C0079,45,Female,Low,0,24.18,Music,Easy,17,0.38,0.34,T024,7.81
+C0309,60,Male,Low,0,21.75,Music,Hard,43,0.95,0.88,T006,7.05
+C0085,43,Male,Low,0,12.28,Math,Easy,32,0.89,0.9,T046,5.28
+C0091,46,Female,High,0,6.45,Math,Hard,19,0.64,0.71,T009,3.26
+C0147,40,Female,Low,0,16.38,Music,Easy,46,0.73,0.61,T043,1.88
+C0160,64,Female,High,0,16.17,Math,Easy,57,0.5,0.97,T043,4.82
+C0201,40,Female,Medium,1,22.0,Sensory Play,Easy,34,0.85,0.98,T018,6.66
+C0423,44,Male,Medium,0,24.92,Music,Medium,42,0.72,0.71,T014,5.79
+C0415,37,Male,High,0,15.16,Art,Easy,54,0.79,0.49,T020,4.37
+C0241,36,Female,Medium,0,11.9,Music,Medium,13,0.56,0.85,T020,5.4
+C0352,65,Female,Medium,0,8.72,Reading,Easy,16,0.6,0.27,T036,1.08
+C0001,46,Male,Low,0,5.1,Sensory Play,Easy,42,0.45,0.43,T027,6.96
+C0224,63,Male,Low,0,15.18,Art,Hard,11,0.96,0.99,T044,7.34
+C0288,47,Male,Low,0,16.11,Math,Easy,57,0.96,0.85,T031,0.11
+C0232,61,Male,High,0,21.5,Reading,Medium,55,0.87,0.95,T040,2.71
+C0460,48,Male,High,0,15.09,Reading,Hard,41,0.95,0.68,T026,0.92
+C0413,43,Female,Medium,0,23.33,Sensory Play,Hard,14,0.77,0.53,T022,9.98
+C0416,63,Female,Low,0,17.56,Art,Easy,55,0.46,0.98,T009,5.93
+C0076,65,Female,High,0,21.81,Reading,Easy,26,0.83,0.45,T039,4.66
+C0115,44,Female,High,0,7.97,Art,Hard,21,0.53,0.81,T040,4.63
+C0153,66,Male,Low,0,22.11,Art,Medium,21,0.61,0.65,T005,9.65
+C0405,56,Female,High,1,18.5,Reading,Easy,44,0.49,0.38,T023,6.6
+C0102,69,Male,Low,0,8.4,Art,Hard,30,0.6,0.21,T017,1.69
+C0193,66,Male,Medium,0,8.8,Sensory Play,Medium,30,0.78,0.51,T009,4.48
+C0165,60,Male,Medium,0,23.53,Reading,Easy,11,0.38,0.64,T014,7.74
+C0358,47,Male,Medium,1,5.64,Sensory Play,Hard,30,0.37,0.35,T044,4.23
+C0089,36,Male,Low,0,14.25,Sensory Play,Hard,24,0.78,0.53,T042,3.1
+C0173,57,Male,High,0,11.27,Art,Easy,20,0.85,0.69,T033,9.91
+C0121,36,Male,Medium,0,18.3,Art,Medium,19,0.69,0.77,T007,9.36
+C0497,36,Female,Medium,0,21.79,Reading,Medium,27,0.43,0.24,T049,9.42
+C0142,56,Male,Medium,0,12.21,Math,Hard,32,0.6,0.73,T034,1.32
+C0481,50,Female,High,0,13.54,Reading,Medium,40,0.83,0.25,T026,2.34
+C0105,52,Female,High,0,24.64,Sensory Play,Hard,35,0.78,0.22,T024,4.42
+C0374,57,Male,Low,1,20.68,Art,Easy,11,0.38,0.32,T002,8.32
+C0427,70,Male,Medium,0,22.94,Sensory Play,Medium,48,0.98,0.72,T020,7.37
+C0304,51,Female,High,0,13.78,Music,Easy,16,0.46,0.24,T038,8.5
+C0359,43,Female,Low,0,9.68,Music,Hard,33,0.45,0.22,T031,9.21
+C0458,52,Female,Medium,0,13.24,Sensory Play,Easy,48,0.62,0.29,T049,7.81
+C0316,52,Female,High,0,19.32,Math,Medium,41,0.53,0.96,T020,2.62
+C0450,61,Male,High,0,7.19,Math,Easy,35,0.99,0.93,T008,2.85
+C0122,48,Male,Low,0,10.41,Reading,Medium,32,0.35,0.27,T049,3.52
+C0389,52,Male,Medium,0,5.93,Reading,Medium,23,0.51,0.44,T000,3.03
+C0008,52,Female,Medium,0,13.65,Reading,Medium,38,0.57,0.96,T003,2.49
+C0261,49,Male,High,0,21.55,Art,Medium,34,0.65,0.28,T003,7.52
+C0072,41,Female,Medium,0,5.49,Math,Medium,40,0.31,0.28,T048,0.34
+C0358,70,Male,Low,0,18.51,Sensory Play,Hard,11,0.36,0.27,T025,7.28
+C0222,49,Female,High,0,23.65,Music,Easy,11,0.48,0.98,T033,8.24
+C0415,43,Male,High,0,9.74,Math,Hard,32,0.69,0.79,T026,0.66
+C0040,50,Male,Low,0,18.87,Math,Easy,56,0.84,0.37,T014,0.62
+C0369,62,Female,High,0,24.5,Math,Easy,20,0.78,0.24,T044,2.85
+C0203,48,Female,Medium,0,24.25,Reading,Easy,38,0.7,0.97,T031,2.08
+C0263,66,Female,Medium,0,9.7,Art,Hard,51,0.58,0.54,T040,5.81
+C0327,70,Female,High,0,7.01,Sensory Play,Medium,44,0.91,0.68,T006,6.75
+C0177,41,Female,Low,0,7.97,Reading,Medium,58,0.62,0.42,T043,6.34
+C0347,40,Male,Low,0,19.04,Art,Hard,18,0.51,0.81,T043,3.57
+C0317,57,Female,Medium,0,19.52,Math,Medium,41,0.74,0.36,T013,4.98
+C0083,58,Male,Low,1,18.48,Art,Easy,39,0.78,0.83,T022,6.4
+C0317,60,Male,High,0,11.72,Reading,Medium,24,0.58,0.38,T046,1.19
+C0110,69,Male,High,0,8.4,Math,Medium,23,0.32,0.28,T000,2.3
+C0250,61,Male,Medium,1,16.62,Reading,Medium,26,0.37,0.58,T031,8.9
+C0382,40,Male,Medium,0,14.67,Sensory Play,Easy,31,0.89,0.85,T040,3.42
+C0006,61,Female,Medium,0,19.58,Math,Medium,39,0.34,0.51,T025,8.01
+C0458,55,Female,Low,0,13.83,Art,Medium,26,0.71,0.22,T047,2.51
+C0083,41,Male,High,0,11.77,Reading,Medium,25,0.43,0.64,T008,0.42
+C0207,41,Male,High,0,10.87,Music,Hard,17,0.46,0.74,T015,5.0
+C0387,53,Female,High,1,9.23,Art,Hard,48,0.49,0.79,T030,8.92
+C0389,39,Female,Medium,0,10.31,Art,Medium,40,0.33,0.52,T001,8.19
+C0313,52,Male,High,0,6.9,Math,Hard,21,0.42,0.28,T031,2.53
+C0021,49,Female,Low,0,11.94,Art,Hard,42,0.76,0.67,T009,9.1
+C0409,49,Female,Low,0,5.73,Reading,Easy,21,0.65,0.46,T024,4.8
+C0382,48,Female,High,0,8.73,Music,Hard,34,0.86,0.96,T017,0.49
+C0002,42,Male,Medium,0,19.94,Sensory Play,Hard,47,0.34,0.6,T044,0.28
+C0126,50,Female,High,0,11.51,Music,Medium,57,0.92,0.58,T033,4.85
+C0296,54,Male,Low,0,18.36,Reading,Easy,27,1.0,0.45,T028,5.46
+C0187,70,Male,Low,1,19.34,Math,Easy,28,0.31,0.47,T044,0.8
+C0361,52,Male,Low,0,16.62,Reading,Easy,12,0.98,0.61,T023,9.22
+C0013,70,Male,High,0,24.17,Art,Hard,44,0.47,0.45,T002,7.18
+C0458,54,Male,Low,0,5.43,Math,Medium,14,0.78,0.91,T014,8.01
+C0465,55,Female,Medium,0,19.77,Sensory Play,Easy,44,0.5,0.55,T002,5.84
+C0011,71,Male,High,0,24.18,Sensory Play,Easy,36,0.67,0.43,T030,6.64
+C0086,70,Male,High,0,22.25,Reading,Hard,46,0.66,0.32,T009,3.88
+C0011,67,Male,Low,0,8.36,Art,Easy,55,0.55,0.74,T037,6.79
+C0396,59,Female,Low,0,11.54,Sensory Play,Medium,30,0.8,0.22,T021,9.78
+C0024,52,Female,Medium,1,8.45,Music,Easy,25,0.72,0.56,T013,6.48
+C0300,42,Female,High,0,17.03,Math,Medium,37,0.66,0.64,T008,3.42
+C0242,36,Female,Low,1,19.24,Music,Medium,34,0.99,0.47,T017,2.85
+C0121,70,Female,Medium,0,11.34,Sensory Play,Medium,42,0.96,0.8,T007,9.63
+C0146,67,Female,Low,0,15.79,Sensory Play,Hard,26,0.97,0.74,T037,1.85
+C0054,71,Female,High,0,18.82,Reading,Hard,52,0.92,0.98,T014,8.06
+C0237,48,Male,Low,0,13.43,Reading,Medium,39,0.48,0.61,T045,4.65
+C0355,41,Male,High,0,22.08,Math,Medium,50,0.54,0.63,T014,4.44
+C0172,49,Female,Low,0,20.43,Reading,Easy,13,0.46,0.4,T005,7.48
+C0391,50,Male,High,0,6.29,Art,Easy,11,0.99,0.51,T011,1.48
+C0220,39,Male,Medium,1,17.42,Math,Easy,18,0.41,0.22,T041,4.66
+C0118,51,Female,High,0,9.71,Art,Hard,40,0.56,0.75,T018,0.36
+C0308,63,Male,Medium,0,16.15,Reading,Easy,34,0.44,0.45,T039,6.7
+C0182,51,Male,High,0,24.14,Math,Medium,46,0.46,0.63,T004,0.58
+C0287,39,Female,Medium,0,22.58,Sensory Play,Medium,45,0.47,0.4,T026,0.87
+C0306,61,Male,Low,0,13.09,Music,Hard,14,0.75,0.7,T009,8.45
+C0299,63,Female,High,0,10.83,Sensory Play,Hard,33,0.35,0.56,T042,4.43
+C0081,67,Female,Low,0,9.69,Art,Easy,33,0.7,0.59,T045,2.01
+C0453,37,Male,Medium,0,15.65,Sensory Play,Hard,38,0.87,0.95,T013,5.93
+C0401,66,Male,High,0,7.28,Sensory Play,Medium,59,0.84,0.76,T033,5.19
+C0210,38,Male,High,0,15.99,Music,Medium,54,0.41,0.41,T048,4.11
+C0149,43,Female,Low,0,5.03,Music,Hard,40,0.94,0.6,T014,9.05
+C0036,59,Female,High,0,11.48,Sensory Play,Medium,46,0.84,0.57,T028,7.49
+C0351,50,Female,High,1,9.4,Music,Hard,28,0.3,0.84,T025,1.52
+C0311,66,Male,Low,0,24.42,Sensory Play,Medium,32,0.82,0.87,T026,5.71
+C0360,44,Male,High,0,19.54,Math,Easy,44,0.82,0.43,T002,0.89
+C0058,37,Female,Low,0,11.99,Sensory Play,Hard,59,0.65,0.86,T002,2.45
+C0130,43,Male,Low,0,6.86,Reading,Hard,15,0.33,0.34,T034,9.1
+C0411,42,Male,Low,1,15.34,Music,Hard,15,0.71,0.81,T034,4.62
+C0201,51,Female,Low,0,9.27,Music,Medium,46,0.84,0.4,T049,8.92
+C0242,70,Female,Low,0,15.73,Art,Easy,39,0.49,0.44,T005,1.66
+C0034,65,Male,Medium,1,21.71,Art,Hard,10,0.77,0.88,T013,2.05
+C0444,45,Female,Medium,0,17.32,Reading,Medium,17,0.55,0.54,T025,3.53
+C0092,53,Male,Low,0,17.68,Music,Hard,37,0.7,0.99,T002,3.66
+C0437,40,Female,Medium,1,15.82,Music,Medium,34,0.57,0.32,T032,7.45
+C0446,64,Female,Medium,0,23.55,Art,Easy,42,0.51,0.57,T041,5.99
+C0206,69,Female,High,1,23.64,Art,Medium,47,0.9,0.79,T012,5.53
+C0352,58,Male,Low,0,15.25,Sensory Play,Medium,23,0.83,0.2,T028,6.02
+C0390,40,Male,Medium,1,11.12,Music,Hard,20,0.54,0.32,T008,7.32
+C0331,65,Female,High,0,14.19,Music,Medium,11,0.6,0.22,T031,8.93
+C0304,41,Female,High,1,8.73,Sensory Play,Hard,39,0.78,0.99,T021,4.15
+C0349,39,Female,Low,0,17.73,Music,Medium,39,0.87,0.81,T021,8.03
+C0212,64,Male,Low,0,15.0,Reading,Easy,13,0.78,0.5,T033,4.95
+C0158,58,Female,High,0,7.07,Art,Medium,22,0.68,0.33,T009,7.22
+C0441,41,Female,Low,0,8.95,Art,Hard,16,0.97,0.27,T024,8.75
+C0444,67,Female,Low,0,14.59,Art,Medium,47,0.84,0.63,T011,0.32
+C0023,53,Female,High,0,22.75,Math,Medium,12,0.38,0.98,T002,5.47
+C0403,50,Male,High,0,16.33,Reading,Easy,18,0.69,0.74,T018,9.89
+C0292,67,Male,Low,0,18.63,Reading,Hard,23,0.59,0.49,T032,4.96
+C0003,44,Female,Medium,0,11.78,Sensory Play,Easy,20,0.86,0.6,T046,8.64
+C0219,45,Male,Low,1,16.43,Math,Medium,46,0.33,1.0,T025,1.86
+C0363,55,Male,Medium,0,13.95,Music,Easy,23,0.59,0.62,T012,6.04
+C0381,41,Male,High,0,18.18,Reading,Medium,28,0.52,0.97,T006,8.7
+C0019,38,Female,Medium,0,6.01,Math,Medium,17,0.4,0.21,T033,4.32
+C0443,46,Male,High,0,14.87,Math,Easy,16,0.57,0.78,T021,4.87
+C0151,52,Male,Low,0,10.92,Reading,Easy,16,0.77,0.7,T019,0.82
+C0049,67,Male,Low,0,11.52,Sensory Play,Medium,12,0.55,0.75,T042,0.42
+C0176,39,Female,High,0,24.22,Math,Easy,12,0.71,0.66,T022,4.69
+C0434,39,Female,High,0,8.65,Art,Easy,27,0.71,0.24,T047,8.43
+C0095,52,Male,High,0,11.22,Math,Medium,54,0.71,0.32,T013,9.31
+C0104,54,Male,Low,0,15.2,Music,Hard,42,0.67,0.94,T029,6.59
+C0419,40,Female,Low,0,22.26,Reading,Easy,46,0.38,0.39,T022,8.26
+C0249,67,Female,Medium,0,13.33,Music,Easy,37,0.45,0.99,T046,7.35
+C0116,57,Male,High,0,19.88,Sensory Play,Hard,45,0.86,0.74,T018,7.01
+C0353,41,Male,Medium,0,22.13,Art,Easy,25,0.65,0.56,T038,7.69
+C0227,70,Female,Low,0,11.2,Reading,Medium,24,0.79,0.94,T040,5.05
+C0065,57,Female,Medium,0,12.86,Math,Easy,38,0.7,0.84,T035,4.58
+C0334,36,Male,Medium,0,12.13,Art,Medium,27,0.33,0.54,T005,1.59
+C0417,55,Female,Low,0,21.66,Math,Hard,58,0.86,0.25,T022,8.44
+C0419,57,Male,Low,0,5.89,Sensory Play,Hard,55,0.35,0.89,T009,0.45
+C0261,46,Male,High,0,11.17,Reading,Hard,55,0.96,0.81,T034,2.67
+C0294,48,Male,Medium,0,18.59,Sensory Play,Easy,28,0.45,0.83,T020,5.2
+C0425,38,Female,Low,1,16.31,Sensory Play,Hard,38,0.66,0.8,T031,9.72
+C0242,44,Male,Low,0,13.73,Sensory Play,Easy,15,0.34,0.42,T029,7.86
+C0370,47,Male,Medium,0,15.8,Sensory Play,Easy,54,0.93,0.89,T032,3.69
+C0185,58,Female,Low,1,8.95,Math,Easy,59,0.99,0.2,T005,7.14
+C0245,49,Female,High,0,13.61,Music,Hard,56,0.4,0.39,T004,9.31
+C0124,68,Male,High,0,15.03,Math,Hard,36,0.51,0.24,T014,5.39
+C0267,53,Male,Medium,0,23.02,Art,Easy,16,0.31,0.29,T042,4.62
+C0130,44,Female,High,0,10.22,Sensory Play,Hard,36,0.85,0.63,T024,5.53
+C0236,58,Female,Low,0,22.36,Art,Easy,28,0.52,0.23,T012,3.12
+C0017,45,Female,Low,0,17.88,Math,Hard,26,0.71,0.35,T005,9.07
+C0039,54,Male,Low,0,5.41,Sensory Play,Medium,50,0.33,0.39,T036,7.97
+C0020,40,Male,Low,0,19.49,Math,Hard,20,0.8,0.72,T001,7.05
+C0398,58,Male,Medium,0,5.71,Sensory Play,Hard,14,0.67,0.58,T016,5.89
+C0224,65,Female,High,0,24.95,Math,Hard,11,0.81,0.57,T023,9.69
+C0354,60,Male,High,0,22.45,Reading,Easy,56,0.85,0.81,T011,2.98
+C0281,63,Female,Low,0,10.95,Music,Easy,21,0.36,0.57,T043,2.83
+C0007,69,Male,Medium,0,10.15,Music,Medium,51,0.7,0.48,T013,2.42
+C0099,60,Female,Low,0,12.63,Sensory Play,Medium,51,0.75,0.97,T006,7.42
+C0239,45,Male,Low,1,12.12,Reading,Medium,20,0.66,0.21,T025,7.97
+C0477,49,Male,Medium,0,12.45,Art,Easy,19,0.43,0.44,T031,5.97
+C0086,65,Female,Medium,0,11.37,Reading,Medium,37,0.86,0.69,T028,6.52
+C0297,60,Female,Low,0,17.42,Sensory Play,Medium,16,1.0,0.83,T045,3.49
+C0427,49,Male,High,0,8.29,Reading,Hard,23,0.98,0.85,T038,0.4
+C0013,70,Female,Low,0,21.92,Art,Medium,22,0.84,0.24,T008,2.54
+C0333,69,Female,High,0,21.25,Sensory Play,Hard,14,0.59,0.77,T013,5.84
+C0001,45,Male,High,0,14.53,Music,Easy,51,0.54,0.78,T016,8.13
+C0374,70,Female,Medium,0,22.05,Reading,Easy,17,0.35,0.37,T048,7.77
+C0292,46,Male,Medium,1,9.94,Music,Hard,59,0.59,0.29,T024,1.79
+C0324,46,Male,Low,0,5.35,Music,Medium,10,0.41,0.8,T029,0.51
+C0421,56,Female,High,0,17.38,Math,Easy,14,0.48,0.4,T044,8.51
+C0492,56,Female,High,1,14.16,Art,Hard,20,0.92,0.2,T028,0.76
+C0040,57,Male,Low,0,16.34,Reading,Easy,52,0.98,0.38,T028,3.93
+C0317,42,Male,Low,0,22.99,Music,Easy,57,0.96,0.22,T017,0.94
+C0315,52,Male,Low,0,24.4,Music,Medium,19,0.44,0.4,T030,5.64
+C0380,37,Male,Medium,0,17.69,Art,Easy,24,0.93,0.47,T018,3.63
+C0110,47,Male,Low,0,20.28,Music,Hard,48,0.4,0.42,T016,2.02
+C0013,53,Male,Low,0,6.68,Music,Medium,56,0.66,0.94,T005,5.95
+C0230,46,Female,High,0,8.21,Music,Hard,38,0.75,0.39,T011,3.63
+C0472,51,Female,Low,0,19.66,Music,Hard,34,0.62,0.57,T037,1.67
+C0083,53,Female,High,0,13.63,Math,Hard,57,0.97,0.97,T002,7.0
+C0129,70,Male,High,0,13.92,Math,Medium,15,0.53,0.9,T046,8.37
+C0230,61,Female,Medium,0,11.17,Sensory Play,Easy,20,0.67,0.45,T034,2.74
+C0325,51,Male,Low,0,17.15,Reading,Hard,26,0.35,0.46,T046,1.86
+C0144,41,Male,Low,1,8.7,Art,Easy,24,0.9,0.67,T032,0.75
+C0378,47,Female,High,0,17.54,Sensory Play,Easy,25,0.59,0.93,T028,5.28
+C0344,48,Male,Medium,0,8.48,Math,Hard,11,0.79,0.21,T002,8.31
+C0027,39,Male,Medium,0,6.28,Math,Easy,45,0.78,0.51,T004,2.51
+C0065,37,Male,Low,0,11.61,Math,Medium,28,0.77,0.88,T013,4.61
+C0162,61,Male,High,0,9.62,Sensory Play,Medium,47,0.65,0.53,T035,1.61
+C0228,62,Male,Low,0,22.78,Math,Easy,59,0.49,0.78,T027,4.04
+C0260,62,Male,Low,0,6.1,Sensory Play,Easy,30,0.74,0.75,T040,0.15
+C0448,50,Female,Low,0,8.53,Math,Medium,20,0.97,0.36,T031,9.11
+C0423,43,Male,Low,0,15.97,Music,Easy,50,0.88,0.56,T017,6.77
+C0459,42,Male,High,0,14.62,Music,Easy,12,0.38,0.65,T041,3.33
+C0439,47,Male,Medium,0,5.92,Reading,Easy,43,0.32,0.77,T039,8.81
+C0163,48,Male,Low,0,5.15,Math,Easy,27,0.65,0.86,T012,1.83
+C0300,52,Female,Low,0,24.76,Reading,Hard,24,0.84,0.81,T001,0.79
+C0406,52,Female,Low,0,18.18,Sensory Play,Easy,34,0.52,0.22,T024,9.43
+C0302,71,Male,Low,0,12.31,Reading,Medium,59,0.79,0.74,T019,3.09
+C0286,56,Male,Medium,0,14.41,Math,Hard,24,0.95,0.6,T006,9.36
+C0394,43,Male,Medium,1,10.33,Sensory Play,Hard,39,0.62,0.66,T010,6.38
+C0009,40,Female,Medium,0,11.9,Sensory Play,Medium,26,0.47,0.5,T004,9.8
+C0194,61,Female,Medium,0,17.98,Music,Easy,27,0.94,0.77,T028,7.53
+C0117,51,Female,Low,0,22.66,Sensory Play,Hard,40,0.63,0.74,T017,1.05
+C0269,71,Female,High,0,8.68,Sensory Play,Hard,59,0.59,0.66,T007,8.52
+C0079,63,Male,Medium,0,21.81,Reading,Easy,52,0.55,0.89,T026,1.48
+C0457,64,Female,Medium,0,7.43,Sensory Play,Easy,27,0.6,0.28,T041,6.92
+C0092,47,Female,Low,0,9.3,Art,Medium,44,0.77,0.44,T001,5.0
+C0265,65,Male,Low,0,5.74,Music,Hard,22,0.6,0.6,T034,7.08
+C0331,58,Male,Low,0,7.82,Music,Easy,23,0.53,0.97,T025,7.65
+C0349,51,Female,Low,1,23.35,Sensory Play,Easy,45,0.82,0.26,T022,8.04
+C0360,49,Female,High,0,14.19,Reading,Medium,27,0.44,0.47,T004,8.35
+C0256,45,Female,High,0,6.55,Music,Hard,14,0.44,0.94,T015,8.47
+C0132,42,Female,Medium,0,24.19,Music,Easy,23,0.79,0.92,T041,4.13
+C0275,64,Male,High,0,22.58,Art,Medium,34,0.91,0.89,T010,8.89
+C0263,38,Male,Medium,0,20.09,Sensory Play,Hard,53,0.47,0.45,T018,7.2
+C0170,50,Female,Medium,0,23.67,Music,Hard,48,0.43,0.88,T015,8.39
+C0459,71,Female,High,0,9.4,Music,Hard,21,0.77,0.6,T031,9.89
+C0000,54,Female,Medium,0,21.73,Music,Hard,49,0.73,0.7,T011,1.16
+C0312,48,Female,Low,0,18.8,Music,Medium,37,0.61,0.39,T001,3.71
+C0063,56,Female,Medium,0,22.4,Reading,Easy,44,0.37,0.77,T042,8.07
+C0373,62,Male,Low,0,20.94,Math,Hard,10,0.36,0.46,T021,0.86
+C0467,64,Male,High,0,11.93,Art,Hard,12,0.84,0.48,T025,5.41
+C0283,55,Male,High,0,20.49,Reading,Easy,52,0.62,0.71,T032,8.58
+C0120,60,Female,Medium,0,10.25,Art,Hard,59,0.9,0.39,T023,0.19
+C0106,41,Female,Low,0,11.57,Music,Hard,16,0.7,0.38,T004,9.4
+C0420,71,Male,Medium,0,7.16,Art,Easy,18,0.73,0.5,T020,9.78
+C0174,37,Male,High,0,23.7,Sensory Play,Easy,45,0.95,0.82,T045,3.22
+C0484,57,Female,Medium,0,10.82,Sensory Play,Hard,32,0.42,0.38,T017,7.67
+C0203,67,Male,Medium,0,15.41,Math,Easy,33,0.68,0.83,T038,1.27
+C0164,51,Female,Low,1,12.83,Math,Medium,19,0.34,0.76,T004,7.73
+C0304,53,Female,High,0,24.2,Art,Medium,59,0.55,0.74,T007,4.82
+C0496,40,Male,Medium,0,11.7,Reading,Hard,57,0.4,0.58,T020,8.6
+C0119,71,Male,Low,0,20.57,Reading,Hard,21,0.43,0.8,T046,2.13
+C0043,65,Male,Medium,0,22.11,Music,Easy,28,0.95,0.21,T004,6.73
+C0311,54,Female,Low,0,13.71,Reading,Easy,41,0.73,0.44,T012,7.86
+C0155,58,Female,Low,0,12.56,Math,Hard,33,0.92,0.74,T018,2.02
+C0366,69,Male,Medium,0,19.95,Reading,Hard,31,0.61,0.99,T028,8.18
+C0206,48,Female,High,0,23.26,Music,Medium,12,0.72,0.2,T001,9.58
+C0389,64,Female,High,1,20.1,Sensory Play,Easy,49,0.32,0.61,T036,6.16
+C0107,71,Female,Low,0,9.54,Reading,Hard,36,0.63,0.94,T025,7.85
+C0250,57,Male,High,0,22.77,Reading,Hard,28,0.69,0.89,T028,5.33
+C0444,71,Female,Low,0,12.75,Math,Easy,18,0.31,0.22,T004,5.98
+C0403,44,Male,High,0,16.52,Art,Easy,58,0.85,0.62,T031,0.13
+C0369,54,Male,Medium,0,21.63,Sensory Play,Hard,22,0.51,0.2,T037,5.24
+C0333,41,Female,High,1,8.77,Art,Hard,11,0.62,0.83,T047,5.76
+C0129,50,Male,Low,0,20.69,Music,Hard,45,0.67,0.45,T001,6.7
+C0456,55,Female,Low,1,16.92,Music,Easy,38,0.99,0.81,T004,1.69
+C0292,44,Male,High,0,22.87,Art,Hard,20,0.37,0.96,T046,2.41
+C0019,67,Male,Medium,1,8.44,Math,Hard,43,0.69,0.98,T032,7.56
+C0281,39,Female,Low,0,13.41,Math,Hard,13,0.67,0.92,T034,1.68
+C0284,53,Male,Low,0,21.66,Math,Medium,13,0.35,0.36,T018,4.16
+C0000,40,Male,Low,0,5.38,Sensory Play,Medium,10,0.74,0.36,T014,2.5
+C0118,55,Male,Low,0,7.24,Music,Easy,34,0.5,0.7,T034,5.45
+C0034,58,Female,Low,0,24.81,Music,Hard,35,0.37,0.64,T007,9.87
+C0197,46,Female,Medium,0,10.61,Music,Hard,20,0.43,0.21,T046,8.52
+C0484,57,Male,High,0,24.51,Sensory Play,Easy,32,0.88,0.51,T000,2.69
+C0244,39,Male,Medium,0,8.65,Music,Easy,11,0.37,0.93,T037,3.69
+C0058,64,Male,Medium,1,12.22,Art,Easy,28,0.63,0.92,T021,9.19
+C0324,69,Female,Low,1,20.06,Reading,Hard,38,0.44,0.36,T016,8.98
+C0160,48,Female,Medium,0,18.16,Sensory Play,Medium,49,0.41,0.51,T015,1.61
+C0496,44,Male,Low,0,16.62,Reading,Easy,13,0.44,0.65,T044,8.29
+C0178,66,Female,Medium,0,15.6,Art,Hard,25,0.64,0.88,T000,2.98
+C0205,42,Female,Low,0,21.87,Math,Easy,56,0.47,0.63,T002,5.44
+C0011,39,Female,Low,0,9.7,Math,Hard,46,0.37,0.97,T005,0.05
+C0489,54,Female,Medium,0,13.85,Math,Easy,36,0.86,0.84,T002,9.99
+C0275,65,Male,Medium,0,8.11,Sensory Play,Hard,14,0.68,0.96,T046,7.61
+C0180,66,Female,High,0,16.92,Math,Easy,24,0.41,0.79,T029,2.42
+C0241,70,Female,High,0,10.01,Sensory Play,Medium,32,0.63,0.9,T046,6.84
+C0215,56,Male,High,0,11.68,Sensory Play,Easy,58,0.35,0.86,T010,2.93
+C0250,66,Male,Medium,0,14.43,Reading,Easy,12,0.71,0.4,T026,0.89
+C0298,54,Female,Medium,0,5.54,Math,Medium,27,0.54,0.38,T021,4.25
+C0125,66,Female,Low,0,6.84,Music,Easy,52,0.37,0.89,T005,6.14
+C0481,67,Male,High,0,18.72,Math,Medium,35,0.43,0.27,T037,0.9
+C0216,37,Male,Low,0,13.58,Math,Hard,15,0.54,0.53,T040,5.18
+C0305,45,Male,Low,0,22.3,Math,Medium,53,0.86,0.86,T045,5.15
+C0284,37,Female,Low,0,18.89,Music,Medium,26,0.42,0.85,T030,6.29
+C0184,37,Female,Low,0,5.16,Music,Hard,55,0.38,0.31,T042,2.45
+C0038,59,Male,High,0,17.33,Sensory Play,Medium,47,0.66,0.59,T005,0.21
+C0222,52,Female,Low,0,6.87,Music,Medium,51,0.69,0.58,T049,3.25
+C0183,67,Male,Medium,0,20.62,Sensory Play,Hard,57,0.36,0.46,T019,3.99
+C0494,51,Female,Medium,0,24.83,Reading,Easy,59,0.5,0.93,T046,6.36
+C0426,51,Male,Medium,0,15.62,Sensory Play,Easy,36,0.48,0.72,T040,9.3
+C0177,66,Male,High,1,18.66,Math,Medium,29,0.43,0.98,T010,2.03
+C0406,59,Female,Low,0,9.75,Art,Easy,15,0.52,0.25,T001,6.87
+C0427,36,Female,High,0,13.75,Art,Easy,44,0.33,0.52,T030,0.97
+C0293,46,Female,Low,0,22.12,Math,Medium,21,0.76,0.87,T037,1.91
+C0339,56,Female,High,0,8.35,Sensory Play,Hard,57,0.99,0.54,T025,5.09
+C0150,39,Female,High,0,10.31,Math,Easy,12,0.74,0.41,T026,7.08
+C0383,42,Female,Low,0,13.91,Music,Medium,57,0.55,1.0,T045,8.59
+C0125,61,Male,High,0,19.24,Sensory Play,Hard,13,0.77,0.9,T045,7.44
+C0300,47,Female,Low,0,12.52,Math,Easy,54,0.7,0.64,T030,0.15
+C0307,66,Male,Medium,0,23.55,Music,Hard,13,0.89,0.65,T023,6.84
+C0335,52,Male,Medium,0,6.89,Music,Medium,13,0.74,0.21,T012,8.25
+C0433,68,Female,Medium,0,12.42,Sensory Play,Hard,48,0.74,0.98,T024,5.26
+C0233,46,Male,High,0,19.18,Reading,Hard,30,0.46,0.85,T036,9.66
+C0379,63,Male,Medium,0,9.52,Reading,Medium,53,0.59,0.23,T040,0.04
+C0374,67,Female,Low,0,18.13,Music,Easy,11,0.54,0.34,T024,8.19
+C0007,36,Female,Medium,0,8.28,Reading,Easy,25,0.31,0.86,T028,3.35
+C0497,63,Female,Medium,0,6.12,Music,Hard,16,0.52,0.27,T030,6.5
+C0340,42,Male,High,0,7.42,Reading,Hard,28,0.64,0.95,T042,6.93
+C0128,37,Female,Low,0,23.6,Music,Hard,52,0.72,1.0,T038,3.06
+C0263,59,Female,High,0,16.04,Music,Hard,42,0.95,0.91,T001,9.95
+C0156,39,Female,High,0,20.93,Music,Easy,18,0.47,0.79,T011,1.03
+C0351,54,Female,Low,0,11.65,Music,Medium,46,0.41,0.59,T004,1.57
+C0357,61,Male,High,0,16.85,Art,Medium,26,0.91,0.27,T026,8.92
+C0004,46,Female,Low,0,14.9,Reading,Medium,36,0.96,0.78,T033,1.19
+C0494,46,Male,Medium,0,23.91,Music,Hard,42,0.64,0.52,T013,3.81
+C0085,38,Female,Low,0,19.95,Math,Hard,58,0.38,0.66,T006,7.33
+C0174,47,Male,Low,0,19.61,Sensory Play,Medium,21,0.64,0.43,T036,7.91
+C0289,38,Male,Low,0,5.93,Math,Easy,54,0.38,0.39,T035,9.55
+C0192,62,Male,High,0,15.99,Math,Medium,20,0.92,0.46,T009,7.9
+C0310,37,Female,Low,0,14.34,Art,Easy,22,0.8,0.85,T028,8.45
+C0118,51,Male,Low,0,23.56,Reading,Hard,40,0.47,0.54,T015,9.49
+C0217,37,Female,Low,0,10.15,Art,Medium,22,0.92,0.45,T037,5.54
+C0426,65,Female,Medium,0,10.4,Reading,Medium,47,0.75,0.55,T020,3.43
+C0457,55,Female,Low,0,13.23,Music,Hard,35,0.97,0.23,T037,7.62
+C0413,63,Female,High,0,9.87,Art,Easy,40,0.99,0.91,T040,1.64
+C0113,60,Female,Low,0,7.58,Sensory Play,Medium,31,0.3,0.64,T032,0.68
+C0465,67,Male,Low,0,22.15,Reading,Medium,15,0.38,0.28,T028,7.85
+C0144,45,Female,Medium,0,16.17,Art,Easy,29,0.68,0.43,T047,9.51
+C0025,68,Male,Low,0,22.23,Sensory Play,Medium,30,0.97,0.99,T016,4.42
+C0135,48,Male,High,0,21.62,Math,Medium,19,1.0,0.67,T012,1.61
+C0302,51,Male,Low,0,10.64,Music,Hard,28,0.7,0.43,T005,4.97
+C0231,57,Male,High,0,15.95,Music,Easy,44,0.42,0.54,T001,3.93
+C0368,55,Male,Medium,0,6.66,Math,Medium,35,0.41,0.41,T007,3.72
+C0075,62,Male,Low,0,23.31,Art,Medium,16,0.83,0.23,T031,6.28
+C0474,51,Male,Medium,0,13.09,Math,Hard,46,0.71,0.87,T035,1.75
+C0327,69,Female,Low,1,12.87,Sensory Play,Medium,17,0.68,0.43,T008,3.8
+C0344,67,Male,High,0,11.06,Reading,Hard,14,0.63,0.87,T022,8.69
+C0301,61,Female,Medium,0,14.21,Art,Medium,53,0.81,0.58,T006,7.3
+C0451,60,Male,Low,0,10.04,Reading,Hard,45,0.9,0.35,T030,0.56
+C0288,37,Male,High,0,12.5,Math,Easy,37,0.51,0.84,T020,5.14
+C0000,47,Male,Medium,0,21.0,Music,Easy,59,0.45,0.5,T000,0.91
+C0146,44,Male,Low,0,21.69,Reading,Medium,12,0.77,0.77,T045,9.57
+C0286,47,Female,Medium,0,11.08,Reading,Medium,48,0.94,0.87,T001,2.45
+C0463,61,Female,Low,0,14.38,Music,Hard,17,0.54,0.97,T039,9.33
+C0141,44,Female,High,0,22.48,Reading,Hard,24,0.49,0.27,T010,8.34
+C0052,45,Male,High,0,6.05,Reading,Easy,36,0.46,0.21,T036,5.51
+C0303,67,Male,Medium,0,22.78,Music,Medium,58,0.48,0.64,T017,3.36
+C0068,69,Male,Medium,1,9.38,Music,Hard,45,0.39,0.41,T043,8.58
+C0360,55,Female,Low,0,18.57,Math,Easy,25,0.72,0.58,T023,1.53
+C0089,37,Male,High,1,16.65,Math,Easy,35,0.5,0.26,T018,1.8
+C0445,36,Female,Low,0,16.06,Reading,Hard,54,0.73,0.6,T004,2.25
+C0219,71,Female,High,0,22.19,Art,Medium,53,0.36,0.3,T028,5.98
+C0449,59,Male,Medium,0,7.03,Math,Easy,13,0.38,0.87,T038,3.14
+C0497,62,Male,Low,0,11.94,Math,Hard,21,0.68,0.81,T001,9.89
+C0191,37,Female,Low,0,15.77,Art,Easy,26,0.66,0.26,T016,1.95
+C0453,66,Female,High,0,21.23,Art,Medium,50,0.49,0.87,T044,8.06
+C0062,49,Female,High,0,9.33,Music,Hard,53,0.88,0.46,T010,0.96
+C0072,37,Male,High,0,21.06,Math,Medium,35,0.43,0.48,T036,3.53
+C0160,64,Male,Medium,0,12.99,Sensory Play,Medium,40,0.55,0.34,T012,2.44
+C0168,50,Male,Low,0,8.78,Sensory Play,Easy,24,0.69,0.87,T028,9.77
+C0088,47,Male,High,0,20.18,Reading,Medium,43,0.91,0.52,T031,0.26
+C0175,63,Male,Medium,0,6.82,Math,Easy,38,0.59,0.24,T044,7.22
+C0268,55,Male,High,1,15.3,Sensory Play,Hard,18,0.58,0.97,T039,2.48
+C0072,59,Female,Low,0,6.28,Math,Hard,23,0.71,0.4,T042,8.11
+C0244,56,Female,High,1,12.13,Math,Easy,45,0.52,0.95,T007,3.11
+C0076,45,Female,Low,0,17.02,Sensory Play,Easy,13,0.8,0.44,T009,1.87
+C0158,49,Male,Medium,0,16.12,Math,Easy,47,0.47,0.87,T024,6.93
+C0488,53,Female,Medium,0,13.09,Art,Medium,46,0.88,0.73,T010,2.58
+C0458,59,Male,High,0,13.58,Reading,Hard,33,0.49,0.89,T027,4.86
+C0323,49,Male,Low,0,9.54,Music,Hard,26,0.99,0.98,T032,1.32
+C0097,69,Female,Low,0,14.12,Sensory Play,Medium,22,0.52,0.9,T038,7.25
+C0380,47,Male,Low,1,24.07,Music,Easy,29,0.92,0.52,T025,4.07
+C0101,57,Female,High,0,22.01,Reading,Hard,26,0.58,0.85,T007,1.41
+C0493,41,Female,Low,0,7.9,Art,Medium,36,0.47,0.77,T037,7.42
+C0131,71,Male,Low,0,5.6,Art,Easy,42,0.46,0.25,T025,1.03
+C0101,71,Female,Low,0,23.67,Art,Hard,30,0.9,0.94,T031,5.75
+C0018,57,Female,Low,0,15.53,Art,Easy,26,0.52,0.57,T045,6.07
+C0453,49,Female,High,1,15.76,Sensory Play,Medium,31,0.54,0.31,T027,9.3
+C0481,51,Female,High,1,20.61,Sensory Play,Hard,34,0.44,0.54,T006,1.51
+C0081,71,Male,Low,1,11.29,Math,Easy,12,0.97,0.68,T034,6.53
+C0396,60,Female,Low,1,14.64,Math,Easy,36,0.47,0.66,T001,3.81
+C0488,67,Female,Medium,0,24.37,Reading,Easy,36,0.47,0.66,T021,4.01
+C0278,68,Female,Medium,0,18.44,Math,Medium,55,0.96,0.4,T049,5.02
+C0338,71,Male,Low,0,8.07,Reading,Easy,21,0.93,0.71,T021,2.34
+C0364,55,Female,Low,1,7.66,Reading,Hard,24,0.47,0.93,T002,4.61
+C0330,53,Male,Medium,0,9.09,Reading,Hard,47,0.91,0.51,T045,6.87
+C0128,38,Female,Medium,0,20.33,Art,Easy,29,0.47,0.7,T049,4.57
+C0343,58,Female,Low,0,10.91,Music,Medium,31,0.36,0.4,T044,0.43
+C0309,67,Female,High,0,5.43,Music,Hard,11,0.87,0.24,T007,2.58
+C0454,51,Male,High,0,23.88,Sensory Play,Hard,13,0.84,0.67,T003,3.51
+C0088,40,Male,Low,0,8.39,Reading,Hard,54,0.51,0.24,T014,3.55
+C0212,39,Male,Low,0,5.19,Art,Easy,22,0.36,0.78,T043,0.81
+C0142,56,Male,Medium,0,9.74,Math,Hard,41,0.44,0.74,T045,4.5
+C0064,49,Male,Medium,0,9.7,Math,Easy,31,0.84,0.5,T038,6.92
+C0075,66,Male,High,0,13.44,Sensory Play,Easy,34,0.98,0.53,T011,0.49
+C0198,49,Female,Low,0,23.41,Sensory Play,Easy,36,0.48,0.93,T028,7.51
+C0142,41,Male,Medium,0,22.58,Reading,Easy,26,0.87,0.21,T008,9.55
+C0404,47,Female,High,0,14.14,Reading,Easy,15,0.46,0.65,T041,0.09
+C0402,51,Male,High,0,13.22,Math,Hard,52,0.78,0.94,T039,1.94
+C0315,52,Male,High,0,16.1,Math,Easy,25,0.36,0.93,T019,5.43
+C0092,58,Male,Medium,0,9.87,Math,Easy,17,0.71,0.67,T033,2.18
+C0472,49,Female,Medium,0,6.04,Math,Easy,42,0.49,0.5,T025,7.65
+C0416,42,Male,Low,0,23.78,Music,Easy,19,0.95,0.28,T047,3.12
+C0304,67,Male,Low,0,8.73,Reading,Easy,43,0.5,0.34,T020,2.94
+C0223,50,Female,High,0,8.97,Reading,Easy,28,0.58,0.74,T022,0.01
+C0496,52,Female,High,0,14.45,Math,Hard,23,0.89,0.21,T017,2.7
+C0290,69,Female,Medium,1,14.83,Art,Easy,12,0.61,0.91,T023,2.18
+C0427,40,Female,Medium,0,5.37,Math,Easy,50,0.47,0.67,T041,3.43
+C0101,62,Male,Low,0,7.96,Sensory Play,Hard,32,0.68,0.24,T028,1.48
+C0473,58,Female,Low,0,12.56,Art,Hard,49,0.89,0.39,T037,5.95
+C0266,49,Male,Low,0,18.67,Sensory Play,Medium,20,0.6,0.68,T037,2.39
+C0354,50,Male,Medium,0,9.57,Art,Hard,56,0.39,0.23,T012,8.32
+C0455,68,Female,High,0,13.46,Sensory Play,Hard,15,0.57,0.82,T031,2.85
+C0109,66,Male,Low,0,16.15,Math,Easy,43,0.97,0.94,T018,2.11
+C0461,70,Female,Low,0,22.77,Math,Medium,10,0.35,0.97,T016,0.57
+C0329,52,Male,Medium,0,11.52,Art,Easy,44,0.59,0.79,T001,7.4
+C0449,63,Female,Low,0,7.67,Sensory Play,Medium,34,0.75,0.89,T017,5.08
+C0429,54,Female,High,0,14.79,Music,Easy,38,0.35,0.69,T038,1.14
+C0264,58,Female,Medium,0,19.93,Art,Hard,32,0.54,0.57,T026,2.21
+C0002,67,Female,Low,1,7.2,Art,Hard,27,0.96,0.77,T013,9.99
+C0084,48,Female,Low,0,13.49,Reading,Medium,23,0.32,0.38,T014,8.06
+C0281,55,Female,Medium,0,5.36,Art,Easy,26,0.83,0.29,T007,3.5
+C0327,70,Male,Medium,0,5.67,Music,Easy,11,0.89,0.81,T008,5.43
+C0303,40,Male,Low,0,14.66,Math,Hard,40,0.49,0.97,T020,4.16
+C0449,44,Male,High,0,10.96,Sensory Play,Hard,28,0.45,0.66,T042,0.36
+C0453,64,Female,Medium,0,21.9,Reading,Medium,41,0.94,0.59,T034,7.79
+C0411,41,Male,High,1,17.04,Sensory Play,Hard,37,0.83,0.63,T013,7.17
+C0116,60,Female,Low,1,14.08,Math,Medium,50,0.38,0.58,T026,4.09
+C0220,66,Male,High,0,13.16,Art,Medium,17,0.45,0.55,T007,8.46
+C0153,57,Male,Low,0,14.94,Music,Medium,51,0.73,0.96,T034,5.35
+C0152,37,Female,Low,0,5.81,Reading,Medium,50,0.59,0.58,T017,0.65
+C0011,40,Male,Low,0,22.86,Music,Hard,49,0.65,0.26,T013,2.59
+C0132,62,Male,Low,0,24.97,Music,Medium,48,0.97,0.81,T007,4.62
+C0481,60,Male,High,0,8.63,Music,Hard,31,0.59,0.51,T048,1.03
+C0303,43,Female,Low,0,7.41,Music,Medium,33,0.92,0.77,T007,5.71
+C0292,36,Male,Low,0,7.87,Math,Hard,47,0.76,0.66,T036,1.21
+C0462,55,Female,High,0,18.22,Music,Medium,11,0.39,0.77,T043,2.01
+C0299,58,Male,Medium,0,18.23,Music,Hard,50,0.82,0.25,T001,8.94
+C0227,67,Male,High,1,21.96,Math,Easy,50,0.66,0.23,T016,10.0
+C0270,46,Male,High,0,20.04,Sensory Play,Medium,28,0.46,0.5,T012,5.5
+C0042,59,Male,High,0,13.99,Math,Medium,50,0.5,0.75,T013,6.2
+C0431,46,Female,Low,0,17.26,Art,Easy,11,0.69,0.38,T040,7.97
+C0342,64,Male,Low,0,18.77,Math,Easy,37,0.72,0.55,T040,6.96
+C0325,61,Female,Low,0,15.25,Sensory Play,Medium,41,0.98,0.98,T008,1.82
+C0301,51,Female,Medium,0,14.51,Art,Hard,28,0.9,0.37,T026,4.12
+C0497,70,Male,Low,0,17.9,Art,Medium,25,0.44,0.88,T019,5.35
+C0363,55,Male,Medium,1,16.15,Reading,Hard,39,0.84,0.86,T037,3.6
+C0378,38,Female,Low,0,17.88,Music,Easy,31,0.31,0.91,T011,1.76
+C0426,36,Female,High,0,17.26,Art,Hard,23,0.39,0.93,T041,7.36
+C0492,36,Male,Low,0,19.38,Art,Medium,10,0.44,0.61,T021,1.99
+C0020,52,Male,Medium,0,17.86,Sensory Play,Easy,54,0.72,0.75,T036,2.6
+C0406,37,Male,Medium,1,15.39,Art,Easy,11,0.44,0.7,T049,2.87
+C0106,64,Male,Low,0,18.64,Sensory Play,Medium,31,0.56,0.45,T038,1.62
+C0335,55,Male,High,1,13.99,Music,Medium,55,0.47,0.42,T030,8.5
+C0302,41,Female,Low,0,9.83,Reading,Easy,42,0.54,0.47,T012,6.11
+C0116,43,Male,Low,0,5.03,Reading,Hard,24,0.96,0.37,T000,8.35
+C0123,64,Male,Low,0,16.2,Music,Hard,59,1.0,0.81,T037,4.94
+C0398,68,Female,High,0,16.81,Music,Hard,50,0.78,0.97,T039,5.2
+C0280,38,Male,Medium,1,24.44,Math,Medium,31,0.7,0.89,T008,6.16
+C0291,70,Male,High,0,12.23,Art,Easy,49,0.8,0.37,T038,3.71
+C0202,40,Female,Medium,0,12.88,Art,Hard,48,0.84,0.24,T009,4.97
+C0050,62,Male,Medium,0,9.04,Art,Easy,50,0.82,0.81,T028,5.47
+C0270,47,Female,Medium,0,6.41,Sensory Play,Hard,50,0.36,0.51,T039,9.54
+C0323,55,Male,High,0,20.46,Math,Easy,20,0.52,0.86,T029,8.83
+C0276,55,Male,Low,0,9.99,Art,Medium,13,0.54,0.82,T001,1.29
+C0140,44,Male,Low,0,17.18,Sensory Play,Medium,16,0.56,0.7,T017,0.41
+C0469,39,Female,Low,0,18.76,Sensory Play,Medium,30,0.54,0.4,T027,6.8
+C0274,54,Female,Low,0,14.42,Reading,Hard,16,0.85,0.28,T046,0.49
+C0289,62,Female,Low,0,22.53,Sensory Play,Medium,13,0.82,0.4,T031,0.6
+C0333,48,Female,High,0,13.88,Music,Medium,21,0.3,0.61,T023,1.59
+C0380,48,Male,High,0,10.7,Sensory Play,Medium,36,0.51,0.98,T037,3.52
+C0451,57,Female,High,0,22.92,Music,Easy,26,0.74,0.25,T013,4.35
+C0495,63,Female,High,0,22.23,Music,Easy,29,0.38,0.36,T024,5.19
+C0372,57,Female,High,1,8.28,Reading,Easy,40,0.35,0.7,T024,9.92
+C0051,54,Male,High,0,5.52,Reading,Easy,35,0.88,0.44,T031,3.85
+C0493,43,Male,High,0,6.8,Sensory Play,Easy,40,0.62,0.89,T026,2.43
+C0026,43,Female,Low,0,10.73,Reading,Easy,44,0.9,0.31,T031,5.75
+C0156,61,Female,Medium,0,24.45,Reading,Easy,18,0.88,0.97,T030,2.15
+C0238,61,Male,High,0,16.17,Art,Medium,14,0.93,0.93,T049,9.41
+C0155,58,Female,Medium,0,12.47,Sensory Play,Medium,57,0.33,0.91,T023,2.59
+C0290,48,Female,High,0,22.77,Sensory Play,Hard,17,0.43,0.34,T034,9.9
+C0135,63,Female,High,0,14.06,Sensory Play,Medium,30,0.51,0.46,T029,4.19
+C0143,44,Female,Low,0,11.3,Reading,Easy,25,0.4,0.84,T032,8.13
+C0105,55,Male,Medium,0,23.82,Reading,Easy,25,0.64,0.85,T032,6.48
+C0419,54,Male,Low,1,21.99,Music,Hard,27,0.86,0.76,T045,9.33
+C0157,47,Male,Low,0,21.87,Math,Medium,56,0.97,0.56,T026,6.25
+C0145,50,Female,Medium,0,15.25,Math,Medium,37,0.92,0.45,T032,5.81
+C0001,66,Female,Low,0,20.79,Math,Hard,27,0.62,0.97,T032,6.53
+C0432,49,Male,High,0,8.59,Art,Easy,23,0.75,0.31,T003,7.86
+C0076,46,Male,High,0,16.46,Reading,Easy,57,0.46,0.24,T029,8.99
+C0131,61,Male,High,0,24.68,Music,Easy,46,0.58,0.21,T043,2.67
+C0089,62,Female,High,0,10.82,Music,Easy,49,0.91,0.82,T014,2.01
+C0344,46,Male,High,0,20.89,Math,Hard,25,0.32,0.25,T028,0.34
+C0349,69,Female,Low,0,14.81,Art,Medium,30,0.67,0.63,T027,3.7
+C0458,54,Female,Low,0,5.8,Art,Easy,10,0.91,0.49,T031,8.46
+C0262,41,Male,High,1,20.26,Math,Medium,20,0.39,0.32,T035,0.7
+C0350,63,Male,High,0,8.37,Math,Medium,20,0.99,0.79,T029,5.39
+C0107,36,Female,Low,0,17.63,Reading,Easy,11,0.31,0.24,T041,6.95
+C0073,70,Male,Medium,0,6.71,Art,Easy,41,0.92,0.45,T042,8.37
+C0038,43,Male,Low,1,23.94,Music,Easy,28,0.55,0.65,T037,5.83
+C0396,42,Female,Low,0,10.83,Math,Medium,14,0.39,0.52,T041,1.86
+C0158,46,Female,Low,0,9.53,Reading,Hard,12,0.41,0.41,T011,9.65
+C0070,39,Female,Low,0,7.58,Music,Easy,37,0.79,0.94,T002,0.95
+C0446,60,Female,Low,0,23.92,Art,Medium,35,0.91,0.94,T014,7.69
+C0311,47,Female,Medium,0,19.24,Math,Medium,32,0.75,0.53,T047,0.87
